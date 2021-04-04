@@ -1,0 +1,5739 @@
+{
+  "randomOrder": false,
+  "useMicrophone": false,
+  "name": "Translation from 12 glossaries",
+  "questions": [
+    {
+      "question": "repaid bonds",
+      "answer": "погашені облігації",
+      "orderIndex": 0
+    },
+    {
+      "question": "retrofit the economy",
+      "answer": "вдосконалювати економіку",
+      "orderIndex": 0
+    },
+    {
+      "question": "wealth effect",
+      "answer": "ефект багатства",
+      "orderIndex": 0
+    },
+    { "question": "abdomen", "answer": "живіт", "orderIndex": 0 },
+    { "question": "abdomen", "answer": "черево", "orderIndex": 0 },
+    { "question": "abdominals", "answer": "черевні м'язи", "orderIndex": 0 },
+    { "question": "abduction", "answer": "викрадення", "orderIndex": 0 },
+    {
+      "question": "abide by law",
+      "answer": "дотримуватись законів",
+      "orderIndex": 0
+    },
+    { "question": "abscess", "answer": "нарив", "orderIndex": 0 },
+    {
+      "question": "abuse of parole",
+      "answer": "порушення умовно-достроковго звільнення",
+      "orderIndex": 0
+    },
+    {
+      "question": "accept a complaint",
+      "answer": "прийняти до розгляду",
+      "orderIndex": 0
+    },
+    {
+      "question": "access control field",
+      "answer": "поле керування доступом",
+      "orderIndex": 0
+    },
+    {
+      "question": "access mechanism",
+      "answer": "механізм доступу",
+      "orderIndex": 0
+    },
+    { "question": "access method", "answer": "метод доступу", "orderIndex": 0 },
+    { "question": "accomplice", "answer": "співучасник", "orderIndex": 0 },
+    { "question": "account", "answer": "рахунок", "orderIndex": 0 },
+    { "question": "account", "answer": "обліковий запис", "orderIndex": 0 },
+    {
+      "question": "Account Collector",
+      "answer": "колектор рахунків",
+      "orderIndex": 0
+    },
+    {
+      "question": "Account Executive",
+      "answer": "менеджер по роботі з клієнтами",
+      "orderIndex": 0
+    },
+    {
+      "question": "Account Manager",
+      "answer": "персональний менеджер",
+      "orderIndex": 0
+    },
+    {
+      "question": "account overdraft",
+      "answer": "заборгованність банку",
+      "orderIndex": 0
+    },
+    {
+      "question": "accountancy",
+      "answer": "бухгалтерський облік",
+      "orderIndex": 0
+    },
+    {
+      "question": "accrue interest",
+      "answer": "нараховувати відсоток",
+      "orderIndex": 0
+    },
+    { "question": "accumulate", "answer": "накопичувати", "orderIndex": 0 },
+    { "question": "ACF", "answer": "поле керування доступом", "orderIndex": 0 },
+    { "question": "ache", "answer": "помірний біль", "orderIndex": 0 },
+    {
+      "question": "aches and pains",
+      "answer": "затяжні легкі больові відчуття",
+      "orderIndex": 0
+    },
+    {
+      "question": "Achilles tendon",
+      "answer": "Ахіллове сухожилля",
+      "orderIndex": 0
+    },
+    { "question": "acquisition", "answer": "придбання", "orderIndex": 0 },
+    { "question": "acquit", "answer": "виправдати", "orderIndex": 0 },
+    { "question": "acquittal", "answer": "виправдання", "orderIndex": 0 },
+    {
+      "question": "act at own discretion",
+      "answer": "діяти на власний розсуд",
+      "orderIndex": 0
+    },
+    { "question": "Actor", "answer": "актор", "orderIndex": 0 },
+    {
+      "question": "actual yield",
+      "answer": "фактичний прибуток",
+      "orderIndex": 0
+    },
+    { "question": "ad", "answer": "реклама", "orderIndex": 0 },
+    { "question": "address buffer", "answer": "буфер адрес", "orderIndex": 0 },
+    {
+      "question": "address latch",
+      "answer": "реєстр-фіксатор адреси",
+      "orderIndex": 0
+    },
+    { "question": "ad-hoc", "answer": "для окремого випадку", "orderIndex": 0 },
+    { "question": "adjacency", "answer": "сусідство", "orderIndex": 0 },
+    {
+      "question": "adjourn a meeting",
+      "answer": "оголосити перерву засідання суду",
+      "orderIndex": 0
+    },
+    {
+      "question": "adjourn a meeting",
+      "answer": "відкласти засідання",
+      "orderIndex": 0
+    },
+    {
+      "question": "adjourn a meeting",
+      "answer": "закрити засідання",
+      "orderIndex": 0
+    },
+    { "question": "adjudicate", "answer": "виносити рішення", "orderIndex": 0 },
+    {
+      "question": "adjudicate",
+      "answer": "розглядати справу",
+      "orderIndex": 0
+    },
+    {
+      "question": "administer an oath",
+      "answer": "проводити присягу",
+      "orderIndex": 0
+    },
+    {
+      "question": "Administrative Analyst",
+      "answer": "адміністративний аналітик",
+      "orderIndex": 0
+    },
+    {
+      "question": "Administrative Assistant",
+      "answer": "адміністративний помічник",
+      "orderIndex": 0
+    },
+    {
+      "question": "Administrative Manager",
+      "answer": "адміністративний менеджер",
+      "orderIndex": 0
+    },
+    {
+      "question": "Administrative Specialist",
+      "answer": "адміністративний спеціаліст",
+      "orderIndex": 0
+    },
+    { "question": "Administrator", "answer": "адміністратор", "orderIndex": 0 },
+    {
+      "question": "adopt measures",
+      "answer": "прийняти заходи",
+      "orderIndex": 0
+    },
+    {
+      "question": "adversarial system",
+      "answer": "змагальна система",
+      "orderIndex": 0
+    },
+    {
+      "question": "adversary system",
+      "answer": "змагальна система",
+      "orderIndex": 0
+    },
+    {
+      "question": "adverse effect",
+      "answer": "несприятливий ефект",
+      "orderIndex": 0
+    },
+    { "question": "advert", "answer": "реклама", "orderIndex": 0 },
+    { "question": "advertisement", "answer": "реклама", "orderIndex": 0 },
+    {
+      "question": "advertising agency",
+      "answer": "рекламна агенція",
+      "orderIndex": 0
+    },
+    {
+      "question": "advertising agency",
+      "answer": "рекламне агентство",
+      "orderIndex": 0
+    },
+    { "question": "advisory", "answer": "дорадчий", "orderIndex": 0 },
+    { "question": "aerial tramway", "answer": "фунікулер", "orderIndex": 0 },
+    { "question": "affiliate", "answer": "філіал", "orderIndex": 0 },
+    {
+      "question": "after-sales service",
+      "answer": "гарантійне обслуговування",
+      "orderIndex": 0
+    },
+    { "question": "agenda", "answer": "порядок денний", "orderIndex": 0 },
+    {
+      "question": "aggregate value",
+      "answer": "сумарна вартість",
+      "orderIndex": 0
+    },
+    {
+      "question": "aggregate value",
+      "answer": "сукупна вартість",
+      "orderIndex": 0
+    },
+    {
+      "question": "agile",
+      "answer": "гнучка методологія розробки",
+      "orderIndex": 0
+    },
+    { "question": "AI", "answer": "Міжнародна амністія", "orderIndex": 0 },
+    { "question": "aide", "answer": "помічник", "orderIndex": 0 },
+    {
+      "question": "aiding and abetting",
+      "answer": "пособництво та підбурювання",
+      "orderIndex": 0
+    },
+    { "question": "airplane", "answer": "літак", "orderIndex": 0 },
+    { "question": "airship", "answer": "дирижабль", "orderIndex": 0 },
+    { "question": "alignment", "answer": "вирівнювання", "orderIndex": 0 },
+    { "question": "alleviate", "answer": "полегшувати", "orderIndex": 0 },
+    {
+      "question": "all-wheel drive",
+      "answer": "повний привод",
+      "orderIndex": 0
+    },
+    { "question": "amateur hacker", "answer": "хакер-аматор", "orderIndex": 0 },
+    { "question": "ambulance", "answer": "швидка допомога", "orderIndex": 0 },
+    { "question": "ambulance", "answer": "швидка допомога", "orderIndex": 0 },
+    { "question": "ambulatory", "answer": "амбулаторія", "orderIndex": 0 },
+    {
+      "question": "Amnestry International",
+      "answer": "Міжнародна амністія",
+      "orderIndex": 0
+    },
+    { "question": "anaesthesia", "answer": "анестезія", "orderIndex": 0 },
+    { "question": "anchor text", "answer": "текст прив'язки", "orderIndex": 0 },
+    {
+      "question": "ANFO",
+      "answer": "аміачна селітра з дизельним паливом",
+      "orderIndex": 0
+    },
+    { "question": "ANFO", "answer": "АСДП", "orderIndex": 0 },
+    {
+      "question": "Animal Control Officer",
+      "answer": "завідуючий відловом бепритульних тварин",
+      "orderIndex": 0
+    },
+    {
+      "question": "Animal Shelter Manager",
+      "answer": "керівник притулку для тварин",
+      "orderIndex": 0
+    },
+    {
+      "question": "Animal Trainer",
+      "answer": "дресирувальник",
+      "orderIndex": 0
+    },
+    { "question": "ankle", "answer": "кісточка", "orderIndex": 0 },
+    { "question": "annuity", "answer": "щорічна рента", "orderIndex": 0 },
+    {
+      "question": "anorak",
+      "answer": "тепла куртка з каптуром",
+      "orderIndex": 0
+    },
+    {
+      "question": "anti-aliasing",
+      "answer": "фільтрація-згладжування",
+      "orderIndex": 0
+    },
+    {
+      "question": "anti-defamation lawsuit",
+      "answer": "позов про захист честі та гідності",
+      "orderIndex": 0
+    },
+    { "question": "antique car", "answer": "автоветеран", "orderIndex": 0 },
+    { "question": "APEC", "answer": "АТЕС", "orderIndex": 0 },
+    { "question": "appeal", "answer": "апеляція", "orderIndex": 0 },
+    {
+      "question": "applicable legislation",
+      "answer": "діюче законодавство",
+      "orderIndex": 0
+    },
+    {
+      "question": "applicable rules",
+      "answer": "діюче законодавство",
+      "orderIndex": 0
+    },
+    { "question": "application", "answer": "додаток", "orderIndex": 0 },
+    {
+      "question": "Application Developer",
+      "answer": "розробник додатку",
+      "orderIndex": 0
+    },
+    {
+      "question": "Application Developer",
+      "answer": "розробник додатку",
+      "orderIndex": 0
+    },
+    {
+      "question": "application programming interface",
+      "answer": "програмний інтерфейс додатку",
+      "orderIndex": 0
+    },
+    {
+      "question": "appraisal",
+      "answer": "визначення вартості",
+      "orderIndex": 0
+    },
+    {
+      "question": "apprehension",
+      "answer": "накладання арешту",
+      "orderIndex": 0
+    },
+    { "question": "appurtenances", "answer": "приладдя", "orderIndex": 0 },
+    { "question": "apron", "answer": "фартух", "orderIndex": 0 },
+    {
+      "question": "arbitrage",
+      "answer": "скупка і продаж цінних паперів",
+      "orderIndex": 0
+    },
+    {
+      "question": "arbitral decision",
+      "answer": "арбітражне рішення",
+      "orderIndex": 0
+    },
+    {
+      "question": "arbitral tribunal",
+      "answer": "арбітражний суд",
+      "orderIndex": 0
+    },
+    {
+      "question": "arbitrary detention",
+      "answer": "незаконне утримання",
+      "orderIndex": 0
+    },
+    {
+      "question": "arbitrary justice",
+      "answer": "вибіркове правосуддя",
+      "orderIndex": 0
+    },
+    { "question": "arbitrary justice", "answer": "свавілля", "orderIndex": 0 },
+    { "question": "Architect", "answer": "архітектор", "orderIndex": 0 },
+    {
+      "question": "Area Sales Manager",
+      "answer": "обласний менеджер з продажів",
+      "orderIndex": 0
+    },
+    { "question": "arm", "answer": "рука", "orderIndex": 0 },
+    { "question": "armpit", "answer": "пахва", "orderIndex": 0 },
+    {
+      "question": "arraignment",
+      "answer": "процедура висування обвинувачення",
+      "orderIndex": 0
+    },
+    {
+      "question": "arraignment",
+      "answer": "перша поява підсудного у суді",
+      "orderIndex": 0
+    },
+    {
+      "question": "arraignment",
+      "answer": "залучення до відповідальності",
+      "orderIndex": 0
+    },
+    {
+      "question": "arraignment",
+      "answer": "залучення до суду",
+      "orderIndex": 0
+    },
+    { "question": "arson", "answer": "підпал", "orderIndex": 0 },
+    { "question": "arsonist", "answer": "підпалювач", "orderIndex": 0 },
+    {
+      "question": "Artificial Intelligence Engineer",
+      "answer": "інженер штучного інтелекту",
+      "orderIndex": 0
+    },
+    {
+      "question": "Artificial Intelligence Engineer",
+      "answer": "інженер штучного інтелекту",
+      "orderIndex": 0
+    },
+    { "question": "Artist", "answer": "митець", "orderIndex": 0 },
+    {
+      "question": "as a matter of law",
+      "answer": "за законом",
+      "orderIndex": 0
+    },
+    {
+      "question": "as collateral",
+      "answer": "як фінансові гарантії",
+      "orderIndex": 0
+    },
+    {
+      "question": "as fit as a fiddle",
+      "answer": "здоровий як бик",
+      "orderIndex": 0
+    },
+    {
+      "question": "as set forth",
+      "answer": "у порядку передбаченному",
+      "orderIndex": 0
+    },
+    { "question": "as set forth", "answer": "як зазначено", "orderIndex": 0 },
+    { "question": "ASEAN", "answer": "АСЕАН", "orderIndex": 0 },
+    {
+      "question": "Asia Pacific Economic Cooperation",
+      "answer": "Азійсько-Тихоокеанське економічне співробітництво",
+      "orderIndex": 0
+    },
+    { "question": "assailant", "answer": "нападаючий", "orderIndex": 0 },
+    {
+      "question": "assassin",
+      "answer": "вбивця публічної особи",
+      "orderIndex": 0
+    },
+    { "question": "assassin", "answer": "найманий вбивця", "orderIndex": 0 },
+    { "question": "assassin", "answer": "найманець", "orderIndex": 0 },
+    {
+      "question": "assassination",
+      "answer": "вбивство публічної особи",
+      "orderIndex": 0
+    },
+    { "question": "assault", "answer": "фізична атака", "orderIndex": 0 },
+    { "question": "asset", "answer": "актив", "orderIndex": 0 },
+    {
+      "question": "asset bubble burst",
+      "answer": "здуття бульбашки активів",
+      "orderIndex": 0
+    },
+    {
+      "question": "assets seized by states",
+      "answer": "заарештовані активи",
+      "orderIndex": 0
+    },
+    {
+      "question": "Assistant Manager",
+      "answer": "помічник менеджера",
+      "orderIndex": 0
+    },
+    {
+      "question": "Association of South East Asian Nations",
+      "answer": "Асоціація держав Південно-Східної Азії",
+      "orderIndex": 0
+    },
+    { "question": "assurance", "answer": "гарантія", "orderIndex": 0 },
+    { "question": "asthma", "answer": "астма", "orderIndex": 0 },
+    { "question": "Astronomer", "answer": "астроном", "orderIndex": 0 },
+    {
+      "question": "astroturfing",
+      "answer": "штучне створення суспільної думки",
+      "orderIndex": 0
+    },
+    { "question": "at a discount", "answer": "зі знижкою", "orderIndex": 0 },
+    {
+      "question": "at all material times",
+      "answer": "на час скоєння злочину",
+      "orderIndex": 0
+    },
+    { "question": "at sight", "answer": "при наданні", "orderIndex": 0 },
+    { "question": "atrophy", "answer": "атрофія", "orderIndex": 0 },
+    {
+      "question": "attending doctor",
+      "answer": "закріплений лікар",
+      "orderIndex": 0
+    },
+    { "question": "Attorney", "answer": "адвокат", "orderIndex": 0 },
+    {
+      "question": "Attorney General",
+      "answer": "генпрокурор",
+      "orderIndex": 0
+    },
+    {
+      "question": "attorney-client privilege",
+      "answer": "адвокатська тайна",
+      "orderIndex": 0
+    },
+    {
+      "question": "attribute sales to a head office",
+      "answer": "приписувати продажі головному офісу",
+      "orderIndex": 0
+    },
+    { "question": "audaciously", "answer": "зухвало", "orderIndex": 0 },
+    {
+      "question": "Auditing Clerk",
+      "answer": "ревізійний секретар",
+      "orderIndex": 0
+    },
+    {
+      "question": "authority",
+      "answer": "авторитетне джерел",
+      "orderIndex": 0
+    },
+    { "question": "authorization", "answer": "уповноваження", "orderIndex": 0 },
+    { "question": "authorization", "answer": "дозвіл", "orderIndex": 0 },
+    { "question": "authorize", "answer": "наділяти правом", "orderIndex": 0 },
+    { "question": "authorize", "answer": "уповноважувати", "orderIndex": 0 },
+    { "question": "authorize", "answer": "дозволяти", "orderIndex": 0 },
+    { "question": "authorize", "answer": "надавати право", "orderIndex": 0 },
+    { "question": "auto rickshaw", "answer": "авторикша", "orderIndex": 0 },
+    {
+      "question": "B2B Sales Specialist",
+      "answer": "спеціаліст з корпоративних продажів",
+      "orderIndex": 0
+    },
+    {
+      "question": "baby carriage",
+      "answer": "дитяча коляска",
+      "orderIndex": 0
+    },
+    { "question": "babygro", "answer": "комбінезон-піжама", "orderIndex": 0 },
+    { "question": "babygro", "answer": "повзунки", "orderIndex": 0 },
+    { "question": "back", "answer": "спина", "orderIndex": 0 },
+    {
+      "question": "back end",
+      "answer": "внутрішній інтерфейс",
+      "orderIndex": 0
+    },
+    {
+      "question": "back link",
+      "answer": "зворотнє посилання",
+      "orderIndex": 0
+    },
+    { "question": "background", "answer": "фоновий режим", "orderIndex": 0 },
+    {
+      "question": "background to the case",
+      "answer": "попередня інформація",
+      "orderIndex": 0
+    },
+    {
+      "question": "background to the case",
+      "answer": "історія справи",
+      "orderIndex": 0
+    },
+    {
+      "question": "backhoe loader",
+      "answer": "екскаватор-навантажувач",
+      "orderIndex": 0
+    },
+    { "question": "backpack", "answer": "рюкзак", "orderIndex": 0 },
+    {
+      "question": "backwardness",
+      "answer": "затримка в розвитку",
+      "orderIndex": 0
+    },
+    {
+      "question": "bad hacker",
+      "answer": "хакер зі злими намірами",
+      "orderIndex": 0
+    },
+    {
+      "question": "bail hearing",
+      "answer": "перша поява підсудного у суді",
+      "orderIndex": 0
+    },
+    {
+      "question": "bail hearing",
+      "answer": "слухання з приводу застави",
+      "orderIndex": 0
+    },
+    { "question": "bailiff", "answer": "судовий пристав", "orderIndex": 0 },
+    {
+      "question": "bailiff service",
+      "answer": "виконавча служба",
+      "orderIndex": 0
+    },
+    { "question": "balance", "answer": "баланс", "orderIndex": 0 },
+    {
+      "question": "balance tax cuts and new spending",
+      "answer": "балансувати зменшення податків та нові витрати",
+      "orderIndex": 0
+    },
+    {
+      "question": "balancing test",
+      "answer": "баланс інтересів",
+      "orderIndex": 0
+    },
+    { "question": "ball", "answer": "подушечка стопи", "orderIndex": 0 },
+    { "question": "bandage", "answer": "бинт", "orderIndex": 0 },
+    { "question": "bank", "answer": "класти у банк", "orderIndex": 0 },
+    {
+      "question": "bank account",
+      "answer": "рахунок у банку",
+      "orderIndex": 0
+    },
+    {
+      "question": "bank charges",
+      "answer": "банківська комісія",
+      "orderIndex": 0
+    },
+    {
+      "question": "bank clearance",
+      "answer": "банківське оформлення",
+      "orderIndex": 0
+    },
+    { "question": "bankrupt", "answer": "банкрот", "orderIndex": 0 },
+    { "question": "barge", "answer": "баржа", "orderIndex": 0 },
+    { "question": "Barista", "answer": "бариста", "orderIndex": 0 },
+    { "question": "barrister", "answer": "адвокат", "orderIndex": 0 },
+    { "question": "barter", "answer": "товарообмін", "orderIndex": 0 },
+    { "question": "battery", "answer": "побиття", "orderIndex": 0 },
+    { "question": "battleship", "answer": "лінкор", "orderIndex": 0 },
+    {
+      "question": "be allergic to",
+      "answer": "мати алергію на",
+      "orderIndex": 0
+    },
+    {
+      "question": "be brought to justice",
+      "answer": "постати перед судом",
+      "orderIndex": 0
+    },
+    {
+      "question": "be charged with",
+      "answer": "бути звинуваченим у",
+      "orderIndex": 0
+    },
+    { "question": "be inert", "answer": "не спрацювати", "orderIndex": 0 },
+    {
+      "question": "be rebuffed",
+      "answer": "отримати різку відмову суду",
+      "orderIndex": 0
+    },
+    {
+      "question": "bear market",
+      "answer": "ринок зі знижувальною тенденцією",
+      "orderIndex": 0
+    },
+    { "question": "bed rest", "answer": "постільний режим", "orderIndex": 0 },
+    {
+      "question": "bedroom radicalized",
+      "answer": "диванні війська",
+      "orderIndex": 0
+    },
+    { "question": "bevel", "answer": "скіс", "orderIndex": 0 },
+    {
+      "question": "beyond reasonable doubt",
+      "answer": "поза межами обґрунтованих сумнівів",
+      "orderIndex": 0
+    },
+    { "question": "bib", "answer": "нагрудник", "orderIndex": 0 },
+    { "question": "bib", "answer": "слинявчик", "orderIndex": 0 },
+    { "question": "biceps", "answer": "біцепс", "orderIndex": 0 },
+    { "question": "bicycle", "answer": "велосипед", "orderIndex": 0 },
+    { "question": "bid", "answer": "пропозиція ціни", "orderIndex": 0 },
+    {
+      "question": "bigamist",
+      "answer": "сторона що має шлюб з двома людьми",
+      "orderIndex": 0
+    },
+    { "question": "bigamy", "answer": "подвійний шлюб", "orderIndex": 0 },
+    { "question": "bigotry", "answer": "фанатизм", "orderIndex": 0 },
+    { "question": "bigotry", "answer": "нетерпимість", "orderIndex": 0 },
+    { "question": "bill", "answer": "рахунок", "orderIndex": 0 },
+    {
+      "question": "billing statement",
+      "answer": "розрахункова відомість",
+      "orderIndex": 0
+    },
+    {
+      "question": "billing statement",
+      "answer": "розрахунковий звіт",
+      "orderIndex": 0
+    },
+    {
+      "question": "binge drinking",
+      "answer": "надмірне вживання алкоголю",
+      "orderIndex": 0
+    },
+    { "question": "binge eating", "answer": "переїдання", "orderIndex": 0 },
+    { "question": "Biologist", "answer": "біолог", "orderIndex": 0 },
+    {
+      "question": "BIOS",
+      "answer": "базова система введення/виведення",
+      "orderIndex": 0
+    },
+    { "question": "biplane", "answer": "біплан", "orderIndex": 0 },
+    { "question": "blackmail", "answer": "шантаж", "orderIndex": 0 },
+    { "question": "blackmail", "answer": "погрози", "orderIndex": 0 },
+    { "question": "blackmailer", "answer": "шантажист", "orderIndex": 0 },
+    { "question": "blackmailer", "answer": "вимагач", "orderIndex": 0 },
+    {
+      "question": "blame worthiness",
+      "answer": "ступінь провини",
+      "orderIndex": 0
+    },
+    {
+      "question": "blanket sleeper",
+      "answer": "комбінезон-піжама",
+      "orderIndex": 0
+    },
+    { "question": "blazer", "answer": "клубний піджак", "orderIndex": 0 },
+    { "question": "blazer", "answer": "повсякденний піджак", "orderIndex": 0 },
+    { "question": "bleed", "answer": "виліт", "orderIndex": 0 },
+    { "question": "bleeding", "answer": "кровотеча", "orderIndex": 0 },
+    { "question": "blocked nose", "answer": "закладений ніс", "orderIndex": 0 },
+    {
+      "question": "blogroll",
+      "answer": "список посилань у блозі на інші блоги",
+      "orderIndex": 0
+    },
+    {
+      "question": "blood pressure",
+      "answer": "кров'яний тиск",
+      "orderIndex": 0
+    },
+    { "question": "blood test", "answer": "аналіз крові", "orderIndex": 0 },
+    { "question": "blow up", "answer": "підірвати", "orderIndex": 0 },
+    { "question": "blue chip", "answer": "цінний актив", "orderIndex": 0 },
+    { "question": "boat", "answer": "човен", "orderIndex": 0 },
+    { "question": "body", "answer": "тіло", "orderIndex": 0 },
+    {
+      "question": "body of civil laws",
+      "answer": "збірка цивільного права",
+      "orderIndex": 0
+    },
+    { "question": "body of law", "answer": "збірка законів", "orderIndex": 0 },
+    {
+      "question": "Boilermaker",
+      "answer": "спеціаліст з ремонту котлів",
+      "orderIndex": 0
+    },
+    { "question": "bolt", "answer": "болт", "orderIndex": 0 },
+    { "question": "bomber", "answer": "підривач", "orderIndex": 0 },
+    { "question": "bombing", "answer": "підрив", "orderIndex": 0 },
+    { "question": "bona fide", "answer": "жест доброї волі", "orderIndex": 0 },
+    {
+      "question": "bond holder",
+      "answer": "власник облігацій",
+      "orderIndex": 0
+    },
+    { "question": "bonds", "answer": "облігації", "orderIndex": 0 },
+    { "question": "Bookkeeper", "answer": "бухгалтер", "orderIndex": 0 },
+    { "question": "book-keeping", "answer": "бухгалтерія", "orderIndex": 0 },
+    {
+      "question": "boost growth",
+      "answer": "стимулювати ріст",
+      "orderIndex": 0
+    },
+    {
+      "question": "boot disk",
+      "answer": "завантажувальний диск",
+      "orderIndex": 0
+    },
+    { "question": "booties", "answer": "пінетки", "orderIndex": 0 },
+    {
+      "question": "borrowing rate",
+      "answer": "ставка запозичення",
+      "orderIndex": 0
+    },
+    { "question": "bot", "answer": "робот", "orderIndex": 0 },
+    { "question": "bottleneck", "answer": "перепона", "orderIndex": 0 },
+    {
+      "question": "bound to provide",
+      "answer": "бути зобов'язаним",
+      "orderIndex": 0
+    },
+    { "question": "branch", "answer": "філіал", "orderIndex": 0 },
+    {
+      "question": "Branch Manager",
+      "answer": "менеджер філіалу",
+      "orderIndex": 0
+    },
+    {
+      "question": "Brand Manager",
+      "answer": "бренд-менеджер",
+      "orderIndex": 0
+    },
+    {
+      "question": "Brand Strategist",
+      "answer": "бренд-стратег",
+      "orderIndex": 0
+    },
+    { "question": "breach", "answer": "порушити", "orderIndex": 0 },
+    { "question": "break down", "answer": "зламатися", "orderIndex": 0 },
+    { "question": "break in on", "answer": "перервати", "orderIndex": 0 },
+    { "question": "breast", "answer": "груди", "orderIndex": 0 },
+    { "question": "breast bone", "answer": "грудина", "orderIndex": 0 },
+    { "question": "briber", "answer": "хабарник", "orderIndex": 0 },
+    { "question": "bribery", "answer": "хабарництво", "orderIndex": 0 },
+    { "question": "bridge", "answer": "тил стопи", "orderIndex": 0 },
+    { "question": "bridge", "answer": "підйом стопи", "orderIndex": 0 },
+    {
+      "question": "bring charge against",
+      "answer": "висувати звинувачення",
+      "orderIndex": 0
+    },
+    {
+      "question": "bring charge against",
+      "answer": "пред'являти звинуваченя",
+      "orderIndex": 0
+    },
+    { "question": "bring up", "answer": "підняти", "orderIndex": 0 },
+    { "question": "bring up", "answer": "виростити", "orderIndex": 0 },
+    { "question": "bring verdict", "answer": "винести вирок", "orderIndex": 0 },
+    { "question": "bronchitis", "answer": "бронхіт", "orderIndex": 0 },
+    {
+      "question": "BRS Secretariat",
+      "answer": "Секретаріат БРС",
+      "orderIndex": 0
+    },
+    { "question": "bruise", "answer": "синець", "orderIndex": 0 },
+    {
+      "question": "Building Inspector",
+      "answer": "будівельний інспектор",
+      "orderIndex": 0
+    },
+    {
+      "question": "Building superintendent",
+      "answer": "завгосп",
+      "orderIndex": 0
+    },
+    { "question": "bulldozer", "answer": "бульдозер", "orderIndex": 0 },
+    { "question": "bullock cart", "answer": "гужовий віз", "orderIndex": 0 },
+    { "question": "buoyancy", "answer": "плавучість", "orderIndex": 0 },
+    { "question": "buoyed", "answer": "натхненний", "orderIndex": 0 },
+    {
+      "question": "burden of proof",
+      "answer": "доведення провини",
+      "orderIndex": 0
+    },
+    { "question": "burglar", "answer": "грабіжник", "orderIndex": 0 },
+    {
+      "question": "burglary",
+      "answer": "пограбування будинку",
+      "orderIndex": 0
+    },
+    { "question": "burn", "answer": "опік", "orderIndex": 0 },
+    { "question": "bus", "answer": "автобус", "orderIndex": 0 },
+    {
+      "question": "Business Analyst",
+      "answer": "бізнес-аналітик",
+      "orderIndex": 0
+    },
+    {
+      "question": "Business Manager",
+      "answer": "керуючий справами",
+      "orderIndex": 0
+    },
+    { "question": "buttock", "answer": "сідниця", "orderIndex": 0 },
+    { "question": "buttonhole", "answer": "застіжка", "orderIndex": 0 },
+    { "question": "buttonhole", "answer": "петелька", "orderIndex": 0 },
+    { "question": "buy back", "answer": "викупати", "orderIndex": 0 },
+    { "question": "cab", "answer": "таксі", "orderIndex": 0 },
+    { "question": "CAE", "answer": "старший ревізор", "orderIndex": 0 },
+    {
+      "question": "Cafeteria Worker",
+      "answer": "працівник кафетерію",
+      "orderIndex": 0
+    },
+    { "question": "calculation", "answer": "підрахунок", "orderIndex": 0 },
+    { "question": "calf", "answer": "литка", "orderIndex": 0 },
+    {
+      "question": "call fresh evidence",
+      "answer": "взяти до уваги нові свідчення",
+      "orderIndex": 0
+    },
+    { "question": "call off", "answer": "скасовувати", "orderIndex": 0 },
+    { "question": "call on", "answer": "викликати", "orderIndex": 0 },
+    { "question": "call on", "answer": "навідувати", "orderIndex": 0 },
+    {
+      "question": "Camera Operator",
+      "answer": "відеооператор",
+      "orderIndex": 0
+    },
+    { "question": "cancer", "answer": "рак", "orderIndex": 0 },
+    { "question": "canoe", "answer": "каное", "orderIndex": 0 },
+    { "question": "canon", "answer": "критерій", "orderIndex": 0 },
+    { "question": "Canon law", "answer": "церковне право", "orderIndex": 0 },
+    { "question": "Canon law", "answer": "канонічне право", "orderIndex": 0 },
+    {
+      "question": "CAO",
+      "answer": "директор з адміністративних питань",
+      "orderIndex": 0
+    },
+    {
+      "question": "capital assets",
+      "answer": "основні кошти",
+      "orderIndex": 0
+    },
+    {
+      "question": "capital gain",
+      "answer": "приріст капіталу",
+      "orderIndex": 0
+    },
+    {
+      "question": "capital gains tax",
+      "answer": "податок на приріст капіталу",
+      "orderIndex": 0
+    },
+    {
+      "question": "capital stock",
+      "answer": "акціонерний капітал",
+      "orderIndex": 0
+    },
+    { "question": "carbohydrate", "answer": "вуглевод", "orderIndex": 0 },
+    {
+      "question": "carbon tax",
+      "answer": "податок на вуглець",
+      "orderIndex": 0
+    },
+    { "question": "cardigan", "answer": "кардиган", "orderIndex": 0 },
+    { "question": "cardiologist", "answer": "кардіолог", "orderIndex": 0 },
+    { "question": "cargo ship", "answer": "вантажне судно", "orderIndex": 0 },
+    { "question": "Carpenter", "answer": "тесля", "orderIndex": 0 },
+    { "question": "carriage", "answer": "віз", "orderIndex": 0 },
+    {
+      "question": "carry on unlawful activity",
+      "answer": "проводити незаконну діяльність",
+      "orderIndex": 0
+    },
+    {
+      "question": "case for defence",
+      "answer": "версія захисту",
+      "orderIndex": 0
+    },
+    {
+      "question": "case for prosecution",
+      "answer": "версія обвинувачення",
+      "orderIndex": 0
+    },
+    { "question": "case law", "answer": "прецедентне право", "orderIndex": 0 },
+    {
+      "question": "cash a cheque",
+      "answer": "перевести чек у готівку",
+      "orderIndex": 0
+    },
+    {
+      "question": "cash market",
+      "answer": "готівковий ринок",
+      "orderIndex": 0
+    },
+    { "question": "cashier", "answer": "касир", "orderIndex": 0 },
+    { "question": "Cashier", "answer": "касир", "orderIndex": 0 },
+    { "question": "cassation", "answer": "касація", "orderIndex": 0 },
+    {
+      "question": "casual wear",
+      "answer": "повсякденний одяг",
+      "orderIndex": 0
+    },
+    { "question": "catamaran", "answer": "катамаран", "orderIndex": 0 },
+    { "question": "catch on", "answer": "ставати популярним", "orderIndex": 0 },
+    { "question": "catch up with", "answer": "надолужити", "orderIndex": 0 },
+    {
+      "question": "cause nation security threats",
+      "answer": "створювати загрозу національній безпеці",
+      "orderIndex": 0
+    },
+    {
+      "question": "cause of action",
+      "answer": "причина подання позову",
+      "orderIndex": 0
+    },
+    { "question": "caveat", "answer": "клопотання", "orderIndex": 0 },
+    { "question": "caveat", "answer": "протест", "orderIndex": 0 },
+    { "question": "CBD", "answer": "КБР", "orderIndex": 0 },
+    {
+      "question": "CBDO",
+      "answer": "директор з розвитку бізнесу",
+      "orderIndex": 0
+    },
+    {
+      "question": "CBO",
+      "answer": "директор з управління бізнесом",
+      "orderIndex": 0
+    },
+    {
+      "question": "CCO",
+      "answer": "директор з роботи з клієнтами",
+      "orderIndex": 0
+    },
+    {
+      "question": "CCO",
+      "answer": "начальник відділу корпоративного регулювання і контролю",
+      "orderIndex": 0
+    },
+    {
+      "question": "CDO",
+      "answer": "головний директор з обробки та аналізу даних",
+      "orderIndex": 0
+    },
+    { "question": "CEO", "answer": "генеральний директор", "orderIndex": 0 },
+    { "question": "certification", "answer": "сертифікація", "orderIndex": 0 },
+    { "question": "certified", "answer": "сертифікований", "orderIndex": 0 },
+    {
+      "question": "certified public accountant",
+      "answer": "дипломований громадський бухгалтер",
+      "orderIndex": 0
+    },
+    {
+      "question": "certiorari",
+      "answer": "витребування справи з суду",
+      "orderIndex": 0
+    },
+    { "question": "CFO", "answer": "фінансовий директор", "orderIndex": 0 },
+    { "question": "chair", "answer": "голова", "orderIndex": 0 },
+    {
+      "question": "chairperson of jury",
+      "answer": "голова присяжних",
+      "orderIndex": 0
+    },
+    {
+      "question": "challenge a juror",
+      "answer": "оскаржити участь присяжного",
+      "orderIndex": 0
+    },
+    {
+      "question": "challenge the decision",
+      "answer": "оскаржити рішення",
+      "orderIndex": 0
+    },
+    {
+      "question": "chartered accountant",
+      "answer": "дипломований бухгалтер",
+      "orderIndex": 0
+    },
+    { "question": "check up on", "answer": "перевіряти", "orderIndex": 0 },
+    {
+      "question": "checking account",
+      "answer": "поточний чековий рахунок",
+      "orderIndex": 0
+    },
+    { "question": "cheek", "answer": "щока", "orderIndex": 0 },
+    { "question": "Chef", "answer": "шеф-кухар", "orderIndex": 0 },
+    { "question": "Chemist", "answer": "хімік", "orderIndex": 0 },
+    { "question": "chemist", "answer": "фармацевт", "orderIndex": 0 },
+    { "question": "cheque", "answer": "банківський чек", "orderIndex": 0 },
+    { "question": "chest", "answer": "грудна клітка", "orderIndex": 0 },
+    { "question": "chesty cough", "answer": "грудний кашель", "orderIndex": 0 },
+    { "question": "Chief", "answer": "шеф", "orderIndex": 0 },
+    {
+      "question": "Chief Administrative Officer",
+      "answer": "директор з адміністративних питань",
+      "orderIndex": 0
+    },
+    {
+      "question": "Chief Business Development Officer",
+      "answer": "директор з розвитку бізнесу",
+      "orderIndex": 0
+    },
+    {
+      "question": "Chief Business Officer",
+      "answer": "директор з управління бізнесом",
+      "orderIndex": 0
+    },
+    {
+      "question": "Chief Compliance Cfficer",
+      "answer": "начальник відділу корпоративного регулювання і контролю",
+      "orderIndex": 0
+    },
+    {
+      "question": "Chief Customer Officer",
+      "answer": "директор з роботи з клієнтами",
+      "orderIndex": 0
+    },
+    {
+      "question": "Chief Data Officer",
+      "answer": "головний директор з обробки та аналізу даних",
+      "orderIndex": 0
+    },
+    {
+      "question": "Chief Executive Audit",
+      "answer": "старший ревізор",
+      "orderIndex": 0
+    },
+    {
+      "question": "Chief Executive Officer",
+      "answer": "генеральний директор",
+      "orderIndex": 0
+    },
+    {
+      "question": "Chief Financial Officer",
+      "answer": "фінансовий директор",
+      "orderIndex": 0
+    },
+    {
+      "question": "Chief Human Resources Officer",
+      "answer": "провідний експерт відділу кадрів",
+      "orderIndex": 0
+    },
+    {
+      "question": "Chief Information Officer",
+      "answer": "заступник генерального директора з ІТ",
+      "orderIndex": 0
+    },
+    {
+      "question": "Chief Justice",
+      "answer": "Верховний суддя",
+      "orderIndex": 0
+    },
+    {
+      "question": "Chief Marketing Officer",
+      "answer": "комерційний директор",
+      "orderIndex": 0
+    },
+    {
+      "question": "Chief Operating Officer",
+      "answer": "головний операційний директор",
+      "orderIndex": 0
+    },
+    {
+      "question": "Chief Product Officer",
+      "answer": "керівник виробничого відділу",
+      "orderIndex": 0
+    },
+    {
+      "question": "Chief Security Officer",
+      "answer": "начальник служби безпеки",
+      "orderIndex": 0
+    },
+    {
+      "question": "Chief Software Architect",
+      "answer": "керівник відділу розробок програмного забезпечення",
+      "orderIndex": 0
+    },
+    {
+      "question": "Chief Technology Officer",
+      "answer": "технічний директор",
+      "orderIndex": 0
+    },
+    {
+      "question": "Chief Visionary Officer",
+      "answer": "стратегічний директор",
+      "orderIndex": 0
+    },
+    {
+      "question": "child abuse",
+      "answer": "жорсткість до дітей",
+      "orderIndex": 0
+    },
+    {
+      "question": "child abuse",
+      "answer": "насилля над дітьми",
+      "orderIndex": 0
+    },
+    {
+      "question": "child abuser",
+      "answer": "повинний у жорстокому ставленні до дитини",
+      "orderIndex": 0
+    },
+    { "question": "chill", "answer": "дрижа", "orderIndex": 0 },
+    { "question": "chin", "answer": "підборіддя", "orderIndex": 0 },
+    { "question": "chlorate", "answer": "хлорат", "orderIndex": 0 },
+    { "question": "cholesterol", "answer": "холестерин", "orderIndex": 0 },
+    {
+      "question": "CHRO",
+      "answer": "провідний експерт відділу кадрів",
+      "orderIndex": 0
+    },
+    {
+      "question": "CIO",
+      "answer": "заступник генерального директора з ІТ",
+      "orderIndex": 0
+    },
+    { "question": "civil case", "answer": "цивільна справа", "orderIndex": 0 },
+    {
+      "question": "civil law",
+      "answer": "континентальне право",
+      "orderIndex": 0
+    },
+    {
+      "question": "civil law",
+      "answer": "романо-германське право",
+      "orderIndex": 0
+    },
+    { "question": "civil law", "answer": "цивільне право", "orderIndex": 0 },
+    { "question": "claims", "answer": "претензії", "orderIndex": 0 },
+    { "question": "clause", "answer": "пункт", "orderIndex": 0 },
+    { "question": "clause", "answer": "умова", "orderIndex": 0 },
+    { "question": "clause", "answer": "положення", "orderIndex": 0 },
+    { "question": "clerk", "answer": "судовий розпорядник", "orderIndex": 0 },
+    {
+      "question": "clerk of court",
+      "answer": "секретар суду",
+      "orderIndex": 0
+    },
+    { "question": "C-Level", "answer": "топ-менеджмент", "orderIndex": 0 },
+    { "question": "click bait", "answer": "реклама-пастка", "orderIndex": 0 },
+    {
+      "question": "click fraud",
+      "answer": "накручування кількості кліків на посилання",
+      "orderIndex": 0
+    },
+    {
+      "question": "clickthrough rate",
+      "answer": "коефіціент кліків",
+      "orderIndex": 0
+    },
+    { "question": "cloaking", "answer": "схема прикриття", "orderIndex": 0 },
+    {
+      "question": "closing argument",
+      "answer": "заключне звернення",
+      "orderIndex": 0
+    },
+    {
+      "question": "closing speech",
+      "answer": "заключне слово",
+      "orderIndex": 0
+    },
+    {
+      "question": "closing the gap",
+      "answer": "подолати розрив",
+      "orderIndex": 0
+    },
+    {
+      "question": "Cloud Architect",
+      "answer": "хмарний архітектор",
+      "orderIndex": 0
+    },
+    {
+      "question": "Cloud Architect",
+      "answer": "хмарний архітектор",
+      "orderIndex": 0
+    },
+    { "question": "clustering", "answer": "кластеризація", "orderIndex": 0 },
+    { "question": "CMO", "answer": "комерційний директор", "orderIndex": 0 },
+    { "question": "CMYK", "answer": "CMYK", "orderIndex": 0 },
+    { "question": "CMYK", "answer": "CMYK", "orderIndex": 0 },
+    {
+      "question": "coach",
+      "answer": "комфортабельний автобус",
+      "orderIndex": 0
+    },
+    { "question": "coat", "answer": "пальто", "orderIndex": 0 },
+    { "question": "coat", "answer": "піджак", "orderIndex": 0 },
+    {
+      "question": "code of criminal procedure",
+      "answer": "кримінально-процесуальний кодекс",
+      "orderIndex": 0
+    },
+    { "question": "cold", "answer": "застуда", "orderIndex": 0 },
+    { "question": "collar", "answer": "комір", "orderIndex": 0 },
+    { "question": "collar bone", "answer": "ключиця", "orderIndex": 0 },
+    {
+      "question": "collective intelligence",
+      "answer": "коллективна свідомість",
+      "orderIndex": 0
+    },
+    {
+      "question": "color theory",
+      "answer": "теорія сприйняття кольору",
+      "orderIndex": 0
+    },
+    { "question": "come back", "answer": "повернутися", "orderIndex": 0 },
+    { "question": "come in", "answer": "увійти", "orderIndex": 0 },
+    { "question": "come over", "answer": "навідати", "orderIndex": 0 },
+    { "question": "come to", "answer": "опритомніти", "orderIndex": 0 },
+    { "question": "come up with", "answer": "зробити внесок", "orderIndex": 0 },
+    {
+      "question": "comment spam",
+      "answer": "спам у коментарях",
+      "orderIndex": 0
+    },
+    { "question": "commercial", "answer": "реклама", "orderIndex": 0 },
+    {
+      "question": "Commercial Court",
+      "answer": "господарчий суд",
+      "orderIndex": 0
+    },
+    {
+      "question": "commercially viable",
+      "answer": "конкурентоспроможний",
+      "orderIndex": 0
+    },
+    { "question": "common law", "answer": "загальне право", "orderIndex": 0 },
+    {
+      "question": "common law",
+      "answer": "прецедентне право",
+      "orderIndex": 0
+    },
+    {
+      "question": "Commonwealth of Nations",
+      "answer": "Співдружність націй",
+      "orderIndex": 0
+    },
+    {
+      "question": "community manager",
+      "answer": "менеджер зв'язків із громадськістю",
+      "orderIndex": 0
+    },
+    { "question": "compatible", "answer": "сумісний", "orderIndex": 0 },
+    {
+      "question": "compelling evidence",
+      "answer": "переконливі докази",
+      "orderIndex": 0
+    },
+    {
+      "question": "competitive",
+      "answer": "конкурентоспроможний",
+      "orderIndex": 0
+    },
+    {
+      "question": "competitiveness",
+      "answer": "конкурентоспроможність",
+      "orderIndex": 0
+    },
+    { "question": "competitor", "answer": "конкурент", "orderIndex": 0 },
+    { "question": "compilation", "answer": "збірка", "orderIndex": 0 },
+    { "question": "complaint", "answer": "скарга", "orderIndex": 0 },
+    {
+      "question": "complementary color",
+      "answer": "додатковий колір",
+      "orderIndex": 0
+    },
+    { "question": "compliance", "answer": "дотримання", "orderIndex": 0 },
+    {
+      "question": "comply with law",
+      "answer": "дотримуватись законів",
+      "orderIndex": 0
+    },
+    {
+      "question": "compulsory treatment",
+      "answer": "примусове лікування",
+      "orderIndex": 0
+    },
+    {
+      "question": "computer hacker",
+      "answer": "комп'ютерний хакер",
+      "orderIndex": 0
+    },
+    {
+      "question": "Computer Programmer",
+      "answer": "комп'ютерний програміст",
+      "orderIndex": 0
+    },
+    {
+      "question": "Computer Programmer",
+      "answer": "комп'ютерний програміст",
+      "orderIndex": 0
+    },
+    {
+      "question": "Computer Scientist",
+      "answer": "спеціаліст з інформатики",
+      "orderIndex": 0
+    },
+    {
+      "question": "Computer Scientist",
+      "answer": "спеціаліст з інформатики",
+      "orderIndex": 0
+    },
+    { "question": "con artist", "answer": "аферист", "orderIndex": 0 },
+    { "question": "concede", "answer": "погоджуватися", "orderIndex": 0 },
+    { "question": "concede", "answer": "визнавати", "orderIndex": 0 },
+    {
+      "question": "concrete mixer truck",
+      "answer": "бетономішалка",
+      "orderIndex": 0
+    },
+    {
+      "question": "concurrent jurisdiction",
+      "answer": "спільна юрисдикція",
+      "orderIndex": 0
+    },
+    {
+      "question": "concurrent jurisdiction",
+      "answer": "альтернативна юрисдикція",
+      "orderIndex": 0
+    },
+    {
+      "question": "confront a witness",
+      "answer": "очна ставка зі свідком",
+      "orderIndex": 0
+    },
+    { "question": "consensus", "answer": "спільна думка", "orderIndex": 0 },
+    { "question": "conspiracy", "answer": "таємна змова", "orderIndex": 0 },
+    {
+      "question": "constitute a crime",
+      "answer": "бути злочином",
+      "orderIndex": 0
+    },
+    {
+      "question": "constitute a crime",
+      "answer": "складати злочин",
+      "orderIndex": 0
+    },
+    {
+      "question": "Construction Worker",
+      "answer": "будівельник",
+      "orderIndex": 0
+    },
+    {
+      "question": "consulting doctor",
+      "answer": "консультуючий доктор",
+      "orderIndex": 0
+    },
+    {
+      "question": "consumption tax",
+      "answer": "податок на споживання",
+      "orderIndex": 0
+    },
+    { "question": "contagious", "answer": "заразний", "orderIndex": 0 },
+    {
+      "question": "contempt of court",
+      "answer": "неповага до суду",
+      "orderIndex": 0
+    },
+    {
+      "question": "Content Marketing Manager",
+      "answer": "менеджер контент-маркетингу",
+      "orderIndex": 0
+    },
+    {
+      "question": "contentious issues",
+      "answer": "спірні питання",
+      "orderIndex": 0
+    },
+    {
+      "question": "contractionary effect of",
+      "answer": "скорочувальний ефект",
+      "orderIndex": 0
+    },
+    {
+      "question": "contradict national legislation",
+      "answer": "суперечити національному законодавству",
+      "orderIndex": 0
+    },
+    {
+      "question": "contravene",
+      "answer": "порушувати чинне законодавство",
+      "orderIndex": 0
+    },
+    {
+      "question": "contravene national legislation",
+      "answer": "суперечити національному законодавству",
+      "orderIndex": 0
+    },
+    {
+      "question": "Controller",
+      "answer": "головний бухгалтер",
+      "orderIndex": 0
+    },
+    { "question": "controversial", "answer": "спірне", "orderIndex": 0 },
+    { "question": "controversial", "answer": "суперечливе", "orderIndex": 0 },
+    { "question": "convenience", "answer": "зручність", "orderIndex": 0 },
+    {
+      "question": "conversion rate",
+      "answer": "швидкість перетворення",
+      "orderIndex": 0
+    },
+    {
+      "question": "convertible",
+      "answer": "що можна конвертувати",
+      "orderIndex": 0
+    },
+    { "question": "convertible", "answer": "кабріолет", "orderIndex": 0 },
+    {
+      "question": "COO",
+      "answer": "головний операційний директор",
+      "orderIndex": 0
+    },
+    { "question": "cool pack", "answer": "охолоджувач", "orderIndex": 0 },
+    { "question": "Coordinator", "answer": "координатор", "orderIndex": 0 },
+    { "question": "COP", "answer": "КС", "orderIndex": 0 },
+    { "question": "Copywriter", "answer": "копірайтер", "orderIndex": 0 },
+    {
+      "question": "corporate tax",
+      "answer": "корпоративний податок",
+      "orderIndex": 0
+    },
+    {
+      "question": "corpus delicti",
+      "answer": "склад злочину",
+      "orderIndex": 0
+    },
+    {
+      "question": "Corpus Juris Civilis",
+      "answer": "збірка цивільного права",
+      "orderIndex": 0
+    },
+    { "question": "Cosmetologist", "answer": "косметолог", "orderIndex": 0 },
+    { "question": "cost per action", "answer": "ціна за дію", "orderIndex": 0 },
+    { "question": "cost per click", "answer": "ціна за клік", "orderIndex": 0 },
+    {
+      "question": "cost per mille",
+      "answer": "ціна за тисячу контактів",
+      "orderIndex": 0
+    },
+    { "question": "cotton wool", "answer": "вата", "orderIndex": 0 },
+    { "question": "cough", "answer": "кашляти", "orderIndex": 0 },
+    { "question": "counteroffer", "answer": "контроферта", "orderIndex": 0 },
+    {
+      "question": "counteroffer",
+      "answer": "зустрічна оферта",
+      "orderIndex": 0
+    },
+    {
+      "question": "counteroffer",
+      "answer": "згода укласти запропонований договір, але на інших умовах",
+      "orderIndex": 0
+    },
+    { "question": "counts", "answer": "пункти", "orderIndex": 0 },
+    { "question": "county court", "answer": "окружний суд", "orderIndex": 0 },
+    { "question": "coupe", "answer": "автомобіль купе", "orderIndex": 0 },
+    {
+      "question": "court of cassation",
+      "answer": "кассаційний суд",
+      "orderIndex": 0
+    },
+    {
+      "question": "court of the last resort",
+      "answer": "суд останньої інстанції",
+      "orderIndex": 0
+    },
+    {
+      "question": "court proceeding",
+      "answer": "судовий розгляд",
+      "orderIndex": 0
+    },
+    {
+      "question": "court record",
+      "answer": "протокол засідання",
+      "orderIndex": 0
+    },
+    {
+      "question": "court records",
+      "answer": "протокол засідання суду",
+      "orderIndex": 0
+    },
+    {
+      "question": "CPO",
+      "answer": "керівник виробничого відділу",
+      "orderIndex": 0
+    },
+    { "question": "CPU", "answer": "ЦП", "orderIndex": 0 },
+    { "question": "Crane Operator", "answer": "крантар", "orderIndex": 0 },
+    { "question": "crane truck", "answer": "автокран", "orderIndex": 0 },
+    { "question": "crawler", "answer": "пошуковий робот", "orderIndex": 0 },
+    { "question": "CRC", "answer": "КРХР", "orderIndex": 0 },
+    {
+      "question": "criminal code",
+      "answer": "кримінальний кодекс",
+      "orderIndex": 0
+    },
+    {
+      "question": "criminal practice",
+      "answer": "кримінальний процес",
+      "orderIndex": 0
+    },
+    {
+      "question": "criminal procedure",
+      "answer": "кримінальний процес",
+      "orderIndex": 0
+    },
+    {
+      "question": "cross-examination",
+      "answer": "перехресний допит",
+      "orderIndex": 0
+    },
+    { "question": "crowbar", "answer": "лом", "orderIndex": 0 },
+    {
+      "question": "crowdsourcing",
+      "answer": "залучення добровольців",
+      "orderIndex": 0
+    },
+    {
+      "question": "CSA",
+      "answer": "керівник відділу розробок програмного забезпечення",
+      "orderIndex": 0
+    },
+    {
+      "question": "CSO",
+      "answer": "начальник служби безпеки",
+      "orderIndex": 0
+    },
+    { "question": "CTO", "answer": "технічний директор", "orderIndex": 0 },
+    { "question": "cuff", "answer": "рукавчик", "orderIndex": 0 },
+    { "question": "cuff", "answer": "чохла", "orderIndex": 0 },
+    {
+      "question": "curbing population growth",
+      "answer": "скорочення темпів приросту населення",
+      "orderIndex": 0
+    },
+    { "question": "cure", "answer": "вилікування", "orderIndex": 0 },
+    {
+      "question": "current account",
+      "answer": "поточний рахунок",
+      "orderIndex": 0
+    },
+    {
+      "question": "current projections",
+      "answer": "поточні прогнози",
+      "orderIndex": 0
+    },
+    {
+      "question": "customary law",
+      "answer": "звичаєве право",
+      "orderIndex": 0
+    },
+    { "question": "cut", "answer": "поріз", "orderIndex": 0 },
+    { "question": "cut down on", "answer": "урізати", "orderIndex": 0 },
+    { "question": "cuticle", "answer": "кутикула", "orderIndex": 0 },
+    {
+      "question": "cuts and bruises",
+      "answer": "легкі травми",
+      "orderIndex": 0
+    },
+    { "question": "CVO", "answer": "стратегічний директор", "orderIndex": 0 },
+    { "question": "CWN", "answer": "Співдружність націй", "orderIndex": 0 },
+    {
+      "question": "cyber criminal hacker",
+      "answer": "кібер-злочинець",
+      "orderIndex": 0
+    },
+    { "question": "cybercrime", "answer": "кібер-злочин", "orderIndex": 0 },
+    { "question": "Data Entry", "answer": "введення даних", "orderIndex": 0 },
+    { "question": "debauchery", "answer": "аморальність", "orderIndex": 0 },
+    { "question": "debauchery", "answer": "розбещенність", "orderIndex": 0 },
+    {
+      "question": "debenture",
+      "answer": "боргове зобов'язання",
+      "orderIndex": 0
+    },
+    { "question": "debit", "answer": "дебет", "orderIndex": 0 },
+    {
+      "question": "debt-to-GDP ratio",
+      "answer": "відношення боргу до ВВП",
+      "orderIndex": 0
+    },
+    {
+      "question": "decide the case",
+      "answer": "вирішувати судову справу",
+      "orderIndex": 0
+    },
+    {
+      "question": "decreased value of “carbon assets”",
+      "answer": "знижена ціна вуглецевих активів",
+      "orderIndex": 0
+    },
+    { "question": "deduct", "answer": "вираховувати", "orderIndex": 0 },
+    { "question": "deductible", "answer": "франшиза", "orderIndex": 0 },
+    {
+      "question": "defence barrister",
+      "answer": "адвокат відповідача",
+      "orderIndex": 0
+    },
+    {
+      "question": "defence barrister",
+      "answer": "адвокат захисту",
+      "orderIndex": 0
+    },
+    {
+      "question": "defence barrister",
+      "answer": "сторона захисту",
+      "orderIndex": 0
+    },
+    {
+      "question": "defence solicitor",
+      "answer": "адвокат відповідача",
+      "orderIndex": 0
+    },
+    {
+      "question": "defence solicitor",
+      "answer": "адвокат захисту",
+      "orderIndex": 0
+    },
+    {
+      "question": "defence solicitor",
+      "answer": "сторона захисту",
+      "orderIndex": 0
+    },
+    { "question": "defendant", "answer": "підсудний", "orderIndex": 0 },
+    { "question": "defendant", "answer": "відповідач", "orderIndex": 0 },
+    { "question": "deflation", "answer": "дефляція", "orderIndex": 0 },
+    { "question": "defraud", "answer": "привласнити кошти", "orderIndex": 0 },
+    { "question": "defraud", "answer": "вводити в оману", "orderIndex": 0 },
+    { "question": "deliberate", "answer": "умисний", "orderIndex": 0 },
+    {
+      "question": "delict",
+      "answer": "цивільне правопорушення",
+      "orderIndex": 0
+    },
+    {
+      "question": "delisting",
+      "answer": "виключення зі списків",
+      "orderIndex": 0
+    },
+    { "question": "deliver", "answer": "доставляти", "orderIndex": 0 },
+    {
+      "question": "delivery van",
+      "answer": "фургон для доставки",
+      "orderIndex": 0
+    },
+    { "question": "deltoid", "answer": "дельтоподібний м'яз", "orderIndex": 0 },
+    { "question": "delude", "answer": "вводити в оману", "orderIndex": 0 },
+    {
+      "question": "demand fair trial",
+      "answer": "вимагати чесного розгляду",
+      "orderIndex": 0
+    },
+    {
+      "question": "demand for judgement",
+      "answer": "вимога прослухати справу",
+      "orderIndex": 0
+    },
+    { "question": "dentistry", "answer": "лікування зубів", "orderIndex": 0 },
+    {
+      "question": "deploy assets",
+      "answer": "залучити активи",
+      "orderIndex": 0
+    },
+    { "question": "deployment", "answer": "запуск", "orderIndex": 0 },
+    { "question": "depositary", "answer": "депозитарій", "orderIndex": 0 },
+    {
+      "question": "deposition",
+      "answer": "письмові свідчення",
+      "orderIndex": 0
+    },
+    { "question": "depreciation", "answer": "амортизація", "orderIndex": 0 },
+    {
+      "question": "deprive of citizenship",
+      "answer": "позбавити громадянства",
+      "orderIndex": 0
+    },
+    {
+      "question": "descenting opinion",
+      "answer": "особлива думка",
+      "orderIndex": 0
+    },
+    {
+      "question": "desktop environment",
+      "answer": "середовище робочого столу",
+      "orderIndex": 0
+    },
+    { "question": "destroyer", "answer": "есмінець", "orderIndex": 0 },
+    { "question": "detainee", "answer": "затриманий", "orderIndex": 0 },
+    { "question": "devaluation", "answer": "знецінення", "orderIndex": 0 },
+    {
+      "question": "device driver",
+      "answer": "драйвер пристрою",
+      "orderIndex": 0
+    },
+    {
+      "question": "DevOps Engineer",
+      "answer": "інженер DevOps",
+      "orderIndex": 0
+    },
+    {
+      "question": "DevOps Engineer",
+      "answer": "інженер DevOps",
+      "orderIndex": 0
+    },
+    { "question": "diabetes", "answer": "діабет", "orderIndex": 0 },
+    {
+      "question": "differential diagnosis",
+      "answer": "диферинційована діагностика",
+      "orderIndex": 0
+    },
+    {
+      "question": "Digital Marketing Manager",
+      "answer": "менеджер з цифрового маркетингу",
+      "orderIndex": 0
+    },
+    { "question": "dimple", "answer": "ямочка", "orderIndex": 0 },
+    { "question": "Director", "answer": "директор", "orderIndex": 0 },
+    {
+      "question": "Director of Inside Sales",
+      "answer": "завідуючий відділом внутрішніх продажів",
+      "orderIndex": 0
+    },
+    { "question": "directory", "answer": "каталог", "orderIndex": 0 },
+    {
+      "question": "disability",
+      "answer": "обмежені можливості",
+      "orderIndex": 0
+    },
+    {
+      "question": "disabled",
+      "answer": "особа з інвалідністю",
+      "orderIndex": 0
+    },
+    { "question": "disclosure", "answer": "розголос", "orderIndex": 0 },
+    {
+      "question": "discovery",
+      "answer": "виявлення нових обставин",
+      "orderIndex": 0
+    },
+    {
+      "question": "discovery request",
+      "answer": "витребування матеріалів",
+      "orderIndex": 0
+    },
+    {
+      "question": "discretional power",
+      "answer": "дискреційні повноваження",
+      "orderIndex": 0
+    },
+    { "question": "disease", "answer": "хвороба", "orderIndex": 0 },
+    { "question": "dismiss", "answer": "зняти з посади", "orderIndex": 0 },
+    {
+      "question": "dismiss a complaint",
+      "answer": "відхилити скаргу з процедурними порушеннями",
+      "orderIndex": 0
+    },
+    {
+      "question": "dismiss charges",
+      "answer": "спростовувати звинувачення",
+      "orderIndex": 0
+    },
+    {
+      "question": "dismiss charges",
+      "answer": "відхиляти звинувачення",
+      "orderIndex": 0
+    },
+    {
+      "question": "dismiss evidence",
+      "answer": "відкидати докази",
+      "orderIndex": 0
+    },
+    { "question": "disorder", "answer": "розлад", "orderIndex": 0 },
+    {
+      "question": "disorderly conduct",
+      "answer": "протиправна поведінка",
+      "orderIndex": 0
+    },
+    {
+      "question": "disposable nappy",
+      "answer": "одноразова пелюшка",
+      "orderIndex": 0
+    },
+    {
+      "question": "disprove the case",
+      "answer": "спростовувати звинувачення",
+      "orderIndex": 0
+    },
+    { "question": "disputable", "answer": "спірне", "orderIndex": 0 },
+    { "question": "disputable", "answer": "суперечливе", "orderIndex": 0 },
+    {
+      "question": "dispute resolution",
+      "answer": "вирішення спорів",
+      "orderIndex": 0
+    },
+    { "question": "disregard for", "answer": "зневага до", "orderIndex": 0 },
+    { "question": "distortionary", "answer": "що спотворює", "orderIndex": 0 },
+    { "question": "dividend", "answer": "дивіденд", "orderIndex": 0 },
+    { "question": "do over", "answer": "переробити", "orderIndex": 0 },
+    { "question": "Doctor", "answer": "лікар", "orderIndex": 0 },
+    {
+      "question": "Doctors without Borders",
+      "answer": "Лікарі без кордонів",
+      "orderIndex": 0
+    },
+    {
+      "question": "doctrinal exposition",
+      "answer": "тлумачення доктрини",
+      "orderIndex": 0
+    },
+    {
+      "question": "dog a campaign",
+      "answer": "перешкоджати кампанії",
+      "orderIndex": 0
+    },
+    { "question": "Dog Walker", "answer": "вигулювач собак", "orderIndex": 0 },
+    { "question": "domain", "answer": "домен", "orderIndex": 0 },
+    {
+      "question": "Domain Name System",
+      "answer": "служба доменних імен",
+      "orderIndex": 0
+    },
+    {
+      "question": "domestic agriculture",
+      "answer": "вітчизняне сільське господарство",
+      "orderIndex": 0
+    },
+    {
+      "question": "domestic arbitration",
+      "answer": "третейський суд",
+      "orderIndex": 0
+    },
+    {
+      "question": "domestic violence",
+      "answer": "домашнє насилля",
+      "orderIndex": 0
+    },
+    {
+      "question": "domiciled bill",
+      "answer": "доміцильований вексель",
+      "orderIndex": 0
+    },
+    { "question": "dose", "answer": "доза", "orderIndex": 0 },
+    {
+      "question": "dotcom boom",
+      "answer": "підйом інтернет-компаній",
+      "orderIndex": 0
+    },
+    {
+      "question": "dots per inch",
+      "answer": "кількість точок на дюйм",
+      "orderIndex": 0
+    },
+    {
+      "question": "double jeopardy clause",
+      "answer": "заборона двічі судити за один злочин",
+      "orderIndex": 0
+    },
+    {
+      "question": "double-decker bus",
+      "answer": "двоповерховий автобус",
+      "orderIndex": 0
+    },
+    {
+      "question": "double-entry book-keeping system",
+      "answer": "система подвійного запису",
+      "orderIndex": 0
+    },
+    { "question": "DPI", "answer": "кількість точок на дюйм", "orderIndex": 0 },
+    { "question": "drawback", "answer": "недолік", "orderIndex": 0 },
+    { "question": "dress", "answer": "сукня", "orderIndex": 0 },
+    { "question": "dressing gown", "answer": "халат", "orderIndex": 0 },
+    { "question": "drip", "answer": "крапля", "orderIndex": 0 },
+    {
+      "question": "drop by",
+      "answer": "завітати без попередження",
+      "orderIndex": 0
+    },
+    { "question": "drop out of", "answer": "покинути", "orderIndex": 0 },
+    { "question": "drug", "answer": "ліки", "orderIndex": 0 },
+    {
+      "question": "drunk driver",
+      "answer": "нетверезий водій",
+      "orderIndex": 0
+    },
+    {
+      "question": "drunk driving",
+      "answer": "водіння в нетверезому стані",
+      "orderIndex": 0
+    },
+    {
+      "question": "due process of law",
+      "answer": "належний розгляд справи",
+      "orderIndex": 0
+    },
+    { "question": "duffel coat", "answer": "дафлкот", "orderIndex": 0 },
+    {
+      "question": "duffel coat",
+      "answer": "вовняне пальто з каптуром",
+      "orderIndex": 0
+    },
+    { "question": "dump truck", "answer": "самоскид", "orderIndex": 0 },
+    { "question": "dungarees", "answer": "комбінезон", "orderIndex": 0 },
+    {
+      "question": "duotone",
+      "answer": "двокольорове зображення",
+      "orderIndex": 0
+    },
+    { "question": "duty doctor", "answer": "черговий лікар", "orderIndex": 0 },
+    {
+      "question": "dynamic content",
+      "answer": "динамічний вміст",
+      "orderIndex": 0
+    },
+    {
+      "question": "dynamic loader",
+      "answer": "динамічний завантажувач",
+      "orderIndex": 0
+    },
+    { "question": "ear", "answer": "вухо", "orderIndex": 0 },
+    {
+      "question": "ear nose throat doctor",
+      "answer": "отоларинголог",
+      "orderIndex": 0
+    },
+    { "question": "earning", "answer": "заробіток", "orderIndex": 0 },
+    { "question": "eat out", "answer": "повечеряти у кафе", "orderIndex": 0 },
+    {
+      "question": "eCommerce Marketing Specialist",
+      "answer": "спеціаліст з маркетингу електронної комерції",
+      "orderIndex": 0
+    },
+    { "question": "Editor", "answer": "редактор", "orderIndex": 0 },
+    { "question": "educational", "answer": "освітній", "orderIndex": 0 },
+    { "question": "effects", "answer": "майно", "orderIndex": 0 },
+    { "question": "EGI", "answer": "ПДГП", "orderIndex": 0 },
+    { "question": "elbow", "answer": "лікоть", "orderIndex": 0 },
+    { "question": "Electrician", "answer": "електрик", "orderIndex": 0 },
+    {
+      "question": "elevated blood pressure",
+      "answer": "підвищенний тиск",
+      "orderIndex": 0
+    },
+    { "question": "eligible for", "answer": "мати право на", "orderIndex": 0 },
+    { "question": "embellishments", "answer": "прикраси", "orderIndex": 0 },
+    {
+      "question": "embezzlement",
+      "answer": "розкрадання майна",
+      "orderIndex": 0
+    },
+    { "question": "embezzler", "answer": "розтратник", "orderIndex": 0 },
+    { "question": "embezzler", "answer": "розкрадач майна", "orderIndex": 0 },
+    {
+      "question": "emergency services",
+      "answer": "екстренні служби",
+      "orderIndex": 0
+    },
+    { "question": "employ", "answer": "наймати", "orderIndex": 0 },
+    {
+      "question": "enact the law",
+      "answer": "прийняти закон",
+      "orderIndex": 0
+    },
+    { "question": "endeavour", "answer": "прагнення", "orderIndex": 0 },
+    {
+      "question": "enforcement proceeding",
+      "answer": "виконавче впровадження",
+      "orderIndex": 0
+    },
+    { "question": "engagemenet", "answer": "активність", "orderIndex": 0 },
+    {
+      "question": "enjoy a right of silence",
+      "answer": "користуватися правом зберігати мовчання",
+      "orderIndex": 0
+    },
+    { "question": "ENT doctor", "answer": "ЛОР-лікар", "orderIndex": 0 },
+    {
+      "question": "enter a guilty plea",
+      "answer": "визнати провину",
+      "orderIndex": 0
+    },
+    { "question": "enterprise", "answer": "підприємство", "orderIndex": 0 },
+    {
+      "question": "entitled to an acquittal",
+      "answer": "мати право на виправдання",
+      "orderIndex": 0
+    },
+    { "question": "Entrepreneur", "answer": "підприємець", "orderIndex": 0 },
+    { "question": "entry", "answer": "окремий", "orderIndex": 0 },
+    {
+      "question": "environment",
+      "answer": "навколишнє середовище",
+      "orderIndex": 0
+    },
+    {
+      "question": "environment variable",
+      "answer": "змінна середовища",
+      "orderIndex": 0
+    },
+    { "question": "epidemic", "answer": "епідемія", "orderIndex": 0 },
+    {
+      "question": "Equality Act",
+      "answer": "закон про рівність",
+      "orderIndex": 0
+    },
+    { "question": "equipment", "answer": "обладнання", "orderIndex": 0 },
+    { "question": "equipment", "answer": "обладнання", "orderIndex": 0 },
+    {
+      "question": "Equipment Cleaner",
+      "answer": "чистильник обладнання",
+      "orderIndex": 0
+    },
+    { "question": "equity", "answer": "право справедливості", "orderIndex": 0 },
+    { "question": "equity", "answer": "справедливість", "orderIndex": 0 },
+    { "question": "equity", "answer": "власні активи", "orderIndex": 0 },
+    {
+      "question": "equity law",
+      "answer": "право справедливості",
+      "orderIndex": 0
+    },
+    { "question": "ERS", "answer": "ЕСЗ", "orderIndex": 0 },
+    { "question": "ESA", "answer": "ЄКА", "orderIndex": 0 },
+    { "question": "ESCO", "answer": "ЕК", "orderIndex": 0 },
+    { "question": "espionage", "answer": "шпигування", "orderIndex": 0 },
+    {
+      "question": "estate tax",
+      "answer": "податок на успадковане майно",
+      "orderIndex": 0
+    },
+    { "question": "estimate", "answer": "припущення", "orderIndex": 0 },
+    { "question": "estimate", "answer": "приблизна оцінка", "orderIndex": 0 },
+    { "question": "estimate", "answer": "припускати", "orderIndex": 0 },
+    {
+      "question": "estimate",
+      "answer": "оцінювати приблизно",
+      "orderIndex": 0
+    },
+    { "question": "evader", "answer": "ухиляч від податків", "orderIndex": 0 },
+    { "question": "eventual", "answer": "остаточний", "orderIndex": 0 },
+    {
+      "question": "evidence of a lack of demand",
+      "answer": "доказ нестачі попиту",
+      "orderIndex": 0
+    },
+    { "question": "examination", "answer": "огляд", "orderIndex": 0 },
+    {
+      "question": "examination-in-chief",
+      "answer": "перший допит",
+      "orderIndex": 0
+    },
+    { "question": "excavator", "answer": "екскаватор", "orderIndex": 0 },
+    {
+      "question": "exceeding the power",
+      "answer": "перевищення повноважень",
+      "orderIndex": 0
+    },
+    { "question": "excerpt", "answer": "фрагмент", "orderIndex": 0 },
+    { "question": "exchange rate", "answer": "валютний курс", "orderIndex": 0 },
+    { "question": "excise tax", "answer": "акцизний збір", "orderIndex": 0 },
+    {
+      "question": "exclusionary rule",
+      "answer": "правило вилучення доказів отриманих незаконним шляхом",
+      "orderIndex": 0
+    },
+    { "question": "Executive", "answer": "член керівництва", "orderIndex": 0 },
+    {
+      "question": "Executive Assistant",
+      "answer": "помічник відповідального виконавчого",
+      "orderIndex": 0
+    },
+    {
+      "question": "exempted from service",
+      "answer": "бути звільненним",
+      "orderIndex": 0
+    },
+    {
+      "question": "exercise the right",
+      "answer": "скористатись правом",
+      "orderIndex": 0
+    },
+    {
+      "question": "exhaust all venues of appeal",
+      "answer": "вичерпати всі інші засоби",
+      "orderIndex": 0
+    },
+    { "question": "exonerate", "answer": "виправдати", "orderIndex": 0 },
+    { "question": "expand", "answer": "розширити", "orderIndex": 0 },
+    { "question": "expand", "answer": "вийти на ринок", "orderIndex": 0 },
+    { "question": "expenditures", "answer": "витрати", "orderIndex": 0 },
+    {
+      "question": "expiry date",
+      "answer": "скінчення терміну дії контракту",
+      "orderIndex": 0
+    },
+    { "question": "eye", "answer": "око", "orderIndex": 0 },
+    { "question": "eyebrow", "answer": "брова", "orderIndex": 0 },
+    { "question": "eyelash", "answer": "вія", "orderIndex": 0 },
+    { "question": "eye-opening", "answer": "неймовірний", "orderIndex": 0 },
+    { "question": "face", "answer": "обличчя", "orderIndex": 0 },
+    {
+      "question": "fall under jurisdiction",
+      "answer": "бути юрисдикцією",
+      "orderIndex": 0
+    },
+    { "question": "false drop", "answer": "фальшивий пошук", "orderIndex": 0 },
+    {
+      "question": "false statements",
+      "answer": "неправдиві твердження",
+      "orderIndex": 0
+    },
+    {
+      "question": "family doctor",
+      "answer": "сімейний лікар",
+      "orderIndex": 0
+    },
+    { "question": "FAO", "answer": "ПСО ООН", "orderIndex": 0 },
+    { "question": "FAO", "answer": "ФАО ООН", "orderIndex": 0 },
+    {
+      "question": "FARA",
+      "answer": "Акт про реєстрацію іноземних агентів",
+      "orderIndex": 0
+    },
+    { "question": "FARA", "answer": "АРІА", "orderIndex": 0 },
+    {
+      "question": "FBAR",
+      "answer": "звіт про наявність банківського рахунку за кордоном",
+      "orderIndex": 0
+    },
+    {
+      "question": "FBAR",
+      "answer": "звіт про наявність банківського рахунку за кордоном",
+      "orderIndex": 0
+    },
+    { "question": "Fed. R. Civ. P.", "answer": "ФПЦП", "orderIndex": 0 },
+    {
+      "question": "federal revenues",
+      "answer": "доходи федерального бюджету",
+      "orderIndex": 0
+    },
+    {
+      "question": "Federation Internationale de Football Association",
+      "answer": "Міжнародна федерація футболу",
+      "orderIndex": 0
+    },
+    {
+      "question": "feel giddy",
+      "answer": "відчувати запамороку",
+      "orderIndex": 0
+    },
+    { "question": "feel sick", "answer": "відчувати нудоту", "orderIndex": 0 },
+    { "question": "felony", "answer": "тяжкий злочин", "orderIndex": 0 },
+    { "question": "femur", "answer": "стегнова кістка", "orderIndex": 0 },
+    { "question": "ferry", "answer": "пором", "orderIndex": 0 },
+    { "question": "fever", "answer": "гарячка", "orderIndex": 0 },
+    {
+      "question": "fibula",
+      "answer": "мала гомілкова кістка",
+      "orderIndex": 0
+    },
+    { "question": "FIDE", "answer": "ФІДЕ", "orderIndex": 0 },
+    { "question": "FIFA", "answer": "ФІФА", "orderIndex": 0 },
+    {
+      "question": "FIH",
+      "answer": "Міжнародна федерація хокею на траві",
+      "orderIndex": 0
+    },
+    {
+      "question": "file a counterclaim",
+      "answer": "подавати зустрічний позов",
+      "orderIndex": 0
+    },
+    {
+      "question": "File Clerk",
+      "answer": "канцелярський службовець",
+      "orderIndex": 0
+    },
+    { "question": "file system", "answer": "файлова система", "orderIndex": 0 },
+    {
+      "question": "File Transfer Protocol",
+      "answer": "протокол передавання файлів",
+      "orderIndex": 0
+    },
+    { "question": "filing fee", "answer": "судовий збір", "orderIndex": 0 },
+    { "question": "fill out", "answer": "заповнити", "orderIndex": 0 },
+    { "question": "fill up", "answer": "заповнити", "orderIndex": 0 },
+    {
+      "question": "final wording",
+      "answer": "остаточне формулювання",
+      "orderIndex": 0
+    },
+    {
+      "question": "financial accounting",
+      "answer": "фінансовий облік",
+      "orderIndex": 0
+    },
+    {
+      "question": "financial audit",
+      "answer": "фінансова ревізія",
+      "orderIndex": 0
+    },
+    {
+      "question": "financial statement",
+      "answer": "фінансовий звіт",
+      "orderIndex": 0
+    },
+    { "question": "find out", "answer": "дізнатися", "orderIndex": 0 },
+    {
+      "question": "find probable cause to believe",
+      "answer": "мати достатньо підстав для припущення",
+      "orderIndex": 0
+    },
+    { "question": "fire engine", "answer": "пожежна машина", "orderIndex": 0 },
+    { "question": "fiscal", "answer": "надійний", "orderIndex": 0 },
+    { "question": "fist", "answer": "кулак", "orderIndex": 0 },
+    {
+      "question": "fit to stand trial",
+      "answer": "здоровий, щоб постати перед судом",
+      "orderIndex": 0
+    },
+    { "question": "flat tax", "answer": "єдиний податок", "orderIndex": 0 },
+    { "question": "flatbed truck", "answer": "евакуатор", "orderIndex": 0 },
+    { "question": "float plane", "answer": "гідролітак", "orderIndex": 0 },
+    { "question": "focal point", "answer": "фокусна точка", "orderIndex": 0 },
+    {
+      "question": "Food and Agricultural Organization",
+      "answer": "Продовольча та сільськогосподарська організація ООН",
+      "orderIndex": 0
+    },
+    { "question": "foot", "answer": "стопа", "orderIndex": 0 },
+    {
+      "question": "football strip",
+      "answer": "футбольна форма",
+      "orderIndex": 0
+    },
+    { "question": "footer", "answer": "нижній колонтитул", "orderIndex": 0 },
+    {
+      "question": "for the benefit of",
+      "answer": "на користь чогось",
+      "orderIndex": 0
+    },
+    { "question": "forearm", "answer": "передпліччя", "orderIndex": 0 },
+    {
+      "question": "foreground",
+      "answer": "пріоритетний режим",
+      "orderIndex": 0
+    },
+    { "question": "forehead", "answer": "чоло", "orderIndex": 0 },
+    {
+      "question": "Foreign Agents Registration Act",
+      "answer": "Акт про реєстрацію іноземних агентів",
+      "orderIndex": 0
+    },
+    {
+      "question": "Foreign bank account report",
+      "answer": "звіт про наявність банківського рахунку за кордоном",
+      "orderIndex": 0
+    },
+    {
+      "question": "foreign currency",
+      "answer": "іноземна валюта",
+      "orderIndex": 0
+    },
+    {
+      "question": "foreign tax",
+      "answer": "іноземний податок",
+      "orderIndex": 0
+    },
+    { "question": "Foreman", "answer": "старший майстер", "orderIndex": 0 },
+    {
+      "question": "forethought malice",
+      "answer": "злісні наміри",
+      "orderIndex": 0
+    },
+    {
+      "question": "forfeiture allegation",
+      "answer": "вимоги конфіскації майна",
+      "orderIndex": 0
+    },
+    {
+      "question": "forfeiture order",
+      "answer": "вимоги конфіскації майна",
+      "orderIndex": 0
+    },
+    {
+      "question": "forger",
+      "answer": "повинний у підробці документів",
+      "orderIndex": 0
+    },
+    { "question": "forgery", "answer": "підробка документів", "orderIndex": 0 },
+    { "question": "forklift", "answer": "автонавантажувач", "orderIndex": 0 },
+    {
+      "question": "formula car",
+      "answer": "авто для перегонів",
+      "orderIndex": 0
+    },
+    {
+      "question": "forward market",
+      "answer": "форвардний ринок",
+      "orderIndex": 0
+    },
+    { "question": "fracture", "answer": "перелом", "orderIndex": 0 },
+    { "question": "frame buffer", "answer": "відеобуфер", "orderIndex": 0 },
+    { "question": "fraud", "answer": "шахрайство", "orderIndex": 0 },
+    { "question": "fraud artist", "answer": "аферист", "orderIndex": 0 },
+    { "question": "freckle", "answer": "ластовиння", "orderIndex": 0 },
+    { "question": "frenzy", "answer": "божевілля", "orderIndex": 0 },
+    {
+      "question": "from in or about and between",
+      "answer": "починаючи з певної дати або напередодні та впродовж усього періоду між",
+      "orderIndex": 0
+    },
+    {
+      "question": "front end",
+      "answer": "зовнішній інтерфейс",
+      "orderIndex": 0
+    },
+    {
+      "question": "front loader",
+      "answer": "фронтальний навантажувач",
+      "orderIndex": 0
+    },
+    { "question": "frontal muscle", "answer": "лобний м'яз", "orderIndex": 0 },
+    {
+      "question": "FTP",
+      "answer": "протокол передавання файлів",
+      "orderIndex": 0
+    },
+    { "question": "fuel truck", "answer": "автоцистерна", "orderIndex": 0 },
+    { "question": "fund", "answer": "фонд", "orderIndex": 0 },
+    { "question": "funnel", "answer": "направляти кошти", "orderIndex": 0 },
+    { "question": "furnish to", "answer": "представляти", "orderIndex": 0 },
+    { "question": "gadget", "answer": "прилад", "orderIndex": 0 },
+    { "question": "gain", "answer": "прибуток", "orderIndex": 0 },
+    { "question": "galleon", "answer": "галеон", "orderIndex": 0 },
+    { "question": "gamut", "answer": "діапазон", "orderIndex": 0 },
+    { "question": "GAP", "answer": "ПЗГР", "orderIndex": 0 },
+    { "question": "garter", "answer": "підв'язка", "orderIndex": 0 },
+    { "question": "gateway", "answer": "шлюз", "orderIndex": 0 },
+    {
+      "question": "general jurisdiction",
+      "answer": "загальна юрисдикція",
+      "orderIndex": 0
+    },
+    {
+      "question": "General Manager",
+      "answer": "генеральний директор",
+      "orderIndex": 0
+    },
+    {
+      "question": "general practitioner",
+      "answer": "сімейний лікар",
+      "orderIndex": 0
+    },
+    { "question": "genitals", "answer": "геніталії", "orderIndex": 0 },
+    { "question": "Geologist", "answer": "геолог", "orderIndex": 0 },
+    { "question": "get a ticket", "answer": "отримати штраф", "orderIndex": 0 },
+    { "question": "get along with", "answer": "ладити", "orderIndex": 0 },
+    { "question": "get away with", "answer": "уникнути", "orderIndex": 0 },
+    { "question": "get by", "answer": "вижити", "orderIndex": 0 },
+    { "question": "get over", "answer": "впоратися", "orderIndex": 0 },
+    { "question": "get rid of", "answer": "позбутися", "orderIndex": 0 },
+    { "question": "get through with", "answer": "закінчити", "orderIndex": 0 },
+    { "question": "get up", "answer": "встати", "orderIndex": 0 },
+    {
+      "question": "gift tax",
+      "answer": "податок на дарування",
+      "orderIndex": 0
+    },
+    { "question": "give away", "answer": "віддати", "orderIndex": 0 },
+    { "question": "give back", "answer": "повернути", "orderIndex": 0 },
+    { "question": "glider", "answer": "планер", "orderIndex": 0 },
+    { "question": "GM", "answer": "генеральний директор", "orderIndex": 0 },
+    { "question": "go back", "answer": "повернутися", "orderIndex": 0 },
+    { "question": "go on", "answer": "продовжуватися", "orderIndex": 0 },
+    { "question": "go on", "answer": "коїтися", "orderIndex": 0 },
+    { "question": "go over", "answer": "переглянути", "orderIndex": 0 },
+    { "question": "go through", "answer": "використати", "orderIndex": 0 },
+    { "question": "gondola", "answer": "гондола", "orderIndex": 0 },
+    {
+      "question": "government debt",
+      "answer": "державний борг",
+      "orderIndex": 0
+    },
+    { "question": "GP", "answer": "сімейний лікар", "orderIndex": 0 },
+    { "question": "gradient", "answer": "градієнт", "orderIndex": 0 },
+    { "question": "grant a loan", "answer": "надати кредит", "orderIndex": 0 },
+    {
+      "question": "grant in part",
+      "answer": "частково задовольнити вимогу суду",
+      "orderIndex": 0
+    },
+    {
+      "question": "Graphic Designer",
+      "answer": "графічний дизайнер",
+      "orderIndex": 0
+    },
+    {
+      "question": "Graphic User Interface",
+      "answer": "графічний інтерфейс користувача",
+      "orderIndex": 0
+    },
+    { "question": "grid", "answer": "сітка", "orderIndex": 0 },
+    { "question": "groin", "answer": "пах", "orderIndex": 0 },
+    {
+      "question": "gross domestic product",
+      "answer": "валовий внутрішній продукт",
+      "orderIndex": 0
+    },
+    {
+      "question": "gross misdemeanor",
+      "answer": "правопорушення з обтяжувальним обставинами",
+      "orderIndex": 0
+    },
+    { "question": "gross yield", "answer": "валовий збір", "orderIndex": 0 },
+    { "question": "grow up", "answer": "дорослішати", "orderIndex": 0 },
+    {
+      "question": "growth in output per working-age person",
+      "answer": "ВВП на працездатну душу населення",
+      "orderIndex": 0
+    },
+    { "question": "guarantee", "answer": "гарантувати", "orderIndex": 0 },
+    { "question": "guarantee", "answer": "гарантія", "orderIndex": 0 },
+    {
+      "question": "guerilla warfare",
+      "answer": "диверсійно-підривна діяльність",
+      "orderIndex": 0
+    },
+    {
+      "question": "GUI",
+      "answer": "графічний інтерфейс користувача",
+      "orderIndex": 0
+    },
+    { "question": "guidance", "answer": "допомога", "orderIndex": 0 },
+    { "question": "guidance", "answer": "інструкції", "orderIndex": 0 },
+    { "question": "guide", "answer": "скеровувати", "orderIndex": 0 },
+    { "question": "guide", "answer": "вказати напрямок", "orderIndex": 0 },
+    { "question": "guide", "answer": "задати напрямок", "orderIndex": 0 },
+    {
+      "question": "guide on the points of law",
+      "answer": "надавати юридичну допомогу",
+      "orderIndex": 0
+    },
+    {
+      "question": "guidelines",
+      "answer": "нормативні документи",
+      "orderIndex": 0
+    },
+    {
+      "question": "hacker attack",
+      "answer": "хакерська атака",
+      "orderIndex": 0
+    },
+    {
+      "question": "hacker infiltration",
+      "answer": "проникнення хакера",
+      "orderIndex": 0
+    },
+    {
+      "question": "hacker prevention",
+      "answer": "запобігання діям хакерів",
+      "orderIndex": 0
+    },
+    {
+      "question": "hacker proof",
+      "answer": "доказ інформаційної безпеки",
+      "orderIndex": 0
+    },
+    {
+      "question": "hacker toolkit",
+      "answer": "інструментальний засіб для зламу",
+      "orderIndex": 0
+    },
+    {
+      "question": "hacker-proof defense",
+      "answer": "захист від хакерів",
+      "orderIndex": 0
+    },
+    { "question": "hair", "answer": "волосся", "orderIndex": 0 },
+    {
+      "question": "halter neck",
+      "answer": "комір навкруги шиї з вирізом позаду",
+      "orderIndex": 0
+    },
+    { "question": "hamper", "answer": "перешкоджати", "orderIndex": 0 },
+    {
+      "question": "hamstring",
+      "answer": "півсухожилковий м'яз",
+      "orderIndex": 0
+    },
+    { "question": "hand", "answer": "рука", "orderIndex": 0 },
+    {
+      "question": "hand down a decision",
+      "answer": "виносити рішення",
+      "orderIndex": 0
+    },
+    { "question": "hand in", "answer": "здати", "orderIndex": 0 },
+    { "question": "handle", "answer": "нік", "orderIndex": 0 },
+    {
+      "question": "handle the case",
+      "answer": "проводити слухання справи",
+      "orderIndex": 0
+    },
+    { "question": "Handyman", "answer": "різноробочий", "orderIndex": 0 },
+    { "question": "hang glider", "answer": "дельтаплан", "orderIndex": 0 },
+    { "question": "hang up", "answer": "повісити", "orderIndex": 0 },
+    { "question": "hard drive", "answer": "жорсткий диск", "orderIndex": 0 },
+    {
+      "question": "hardware hacker",
+      "answer": "хакер апаратного рівня",
+      "orderIndex": 0
+    },
+    { "question": "harmful", "answer": "шкідливий", "orderIndex": 0 },
+    { "question": "hatch door", "answer": "люк", "orderIndex": 0 },
+    { "question": "hatchback", "answer": "хетчбек", "orderIndex": 0 },
+    {
+      "question": "have regressive effect",
+      "answer": "мати зворотній ефект",
+      "orderIndex": 0
+    },
+    { "question": "HDD", "answer": "жорсткий диск", "orderIndex": 0 },
+    { "question": "head", "answer": "голова", "orderIndex": 0 },
+    { "question": "Head", "answer": "голова", "orderIndex": 0 },
+    { "question": "head cold", "answer": "нежить", "orderIndex": 0 },
+    { "question": "header", "answer": "верхній колонтитул", "orderIndex": 0 },
+    {
+      "question": "header image",
+      "answer": "головне зображення",
+      "orderIndex": 0
+    },
+    {
+      "question": "headquarters",
+      "answer": "центральний орган",
+      "orderIndex": 0
+    },
+    { "question": "headquarters", "answer": "головний офіс", "orderIndex": 0 },
+    {
+      "question": "headquarters",
+      "answer": "головне правління",
+      "orderIndex": 0
+    },
+    {
+      "question": "health hazard",
+      "answer": "загроза здоров'ю",
+      "orderIndex": 0
+    },
+    {
+      "question": "hear the case",
+      "answer": "проводити слухання справи",
+      "orderIndex": 0
+    },
+    { "question": "heart attack", "answer": "серцевий напад", "orderIndex": 0 },
+    {
+      "question": "Heavy Equipment Operator",
+      "answer": "машиніст спецтехніки",
+      "orderIndex": 0
+    },
+    { "question": "heel", "answer": "п'ятка", "orderIndex": 0 },
+    { "question": "helicopter", "answer": "гелікоптер", "orderIndex": 0 },
+    {
+      "question": "Help Desk Worker",
+      "answer": "працівник служби техпідтримки",
+      "orderIndex": 0
+    },
+    {
+      "question": "Help Desk Worker",
+      "answer": "працівник служби техпідтримки",
+      "orderIndex": 0
+    },
+    { "question": "hem", "answer": "підтичка", "orderIndex": 0 },
+    { "question": "herein", "answer": "у цьому документі", "orderIndex": 0 },
+    {
+      "question": "high instance court",
+      "answer": "суд вищої інстанції",
+      "orderIndex": 0
+    },
+    {
+      "question": "high-profile crime",
+      "answer": "резонансний злочин",
+      "orderIndex": 0
+    },
+    {
+      "question": "high-ranking official",
+      "answer": "високопосадовець",
+      "orderIndex": 0
+    },
+    {
+      "question": "hijacker",
+      "answer": "викрадач транспортного засобу",
+      "orderIndex": 0
+    },
+    {
+      "question": "hijacking",
+      "answer": "захоплення транспортного засобу",
+      "orderIndex": 0
+    },
+    {
+      "question": "hijacking",
+      "answer": "викрадення транспортного засобу",
+      "orderIndex": 0
+    },
+    { "question": "hip", "answer": "бік", "orderIndex": 0 },
+    {
+      "question": "hit and run",
+      "answer": "втеча з місця ДТП",
+      "orderIndex": 0
+    },
+    {
+      "question": "hit and run",
+      "answer": "втеча з місця аварії",
+      "orderIndex": 0
+    },
+    { "question": "hold up", "answer": "затримати", "orderIndex": 0 },
+    { "question": "hold up", "answer": "пограбувати", "orderIndex": 0 },
+    {
+      "question": "home directory",
+      "answer": "домашній каталог",
+      "orderIndex": 0
+    },
+    { "question": "homicide", "answer": "умисне вбивство", "orderIndex": 0 },
+    { "question": "homicide", "answer": "навмисне вбивство", "orderIndex": 0 },
+    { "question": "hood", "answer": "каптур", "orderIndex": 0 },
+    { "question": "host", "answer": "хост", "orderIndex": 0 },
+    { "question": "hot-air balloon", "answer": "монгольф'єр", "orderIndex": 0 },
+    {
+      "question": "house confinement",
+      "answer": "домашній арешт",
+      "orderIndex": 0
+    },
+    {
+      "question": "hovercraft",
+      "answer": "судно на повітряній подушці",
+      "orderIndex": 0
+    },
+    { "question": "HR", "answer": "людські ресурси", "orderIndex": 0 },
+    {
+      "question": "HTTP",
+      "answer": "протокол передавання гіпертексту",
+      "orderIndex": 0
+    },
+    {
+      "question": "Human Resources",
+      "answer": "людські ресурси",
+      "orderIndex": 0
+    },
+    { "question": "humerus", "answer": "плечова кістка", "orderIndex": 0 },
+    { "question": "hung jury", "answer": "голоси порівну", "orderIndex": 0 },
+    { "question": "hurt", "answer": "пошкодити", "orderIndex": 0 },
+    {
+      "question": "hydrogen peroxide",
+      "answer": "пероксид водню",
+      "orderIndex": 0
+    },
+    {
+      "question": "Hypertext Transfer Protocol",
+      "answer": "протокол передавання гіпертексту",
+      "orderIndex": 0
+    },
+    { "question": "IAEA", "answer": "МАГАТЕ", "orderIndex": 0 },
+    { "question": "IC", "answer": "мікросхема", "orderIndex": 0 },
+    { "question": "ICANN", "answer": "ICANN", "orderIndex": 0 },
+    { "question": "ICC", "answer": "КВД", "orderIndex": 0 },
+    { "question": "ICC", "answer": "Міжнародна рада крикету", "orderIndex": 0 },
+    { "question": "ICC", "answer": "МКС", "orderIndex": 0 },
+    { "question": "ICCt", "answer": "МКС", "orderIndex": 0 },
+    { "question": "ICJ", "answer": "Міжнародний суд", "orderIndex": 0 },
+    {
+      "question": "ICMP",
+      "answer": "міжмережевий протокол керуючих повідомлень",
+      "orderIndex": 0
+    },
+    { "question": "ICRC", "answer": "МКЧХ", "orderIndex": 0 },
+    {
+      "question": "identity theft",
+      "answer": "викрадення особистих даних",
+      "orderIndex": 0
+    },
+    { "question": "igniter", "answer": "запальний прилад", "orderIndex": 0 },
+    { "question": "igniter", "answer": "запалювач", "orderIndex": 0 },
+    {
+      "question": "IHO",
+      "answer": "Міжнародна гідрографічна організація",
+      "orderIndex": 0
+    },
+    { "question": "ILO", "answer": "МОП", "orderIndex": 0 },
+    { "question": "IMF", "answer": "МВФ", "orderIndex": 0 },
+    { "question": "immorality", "answer": "аморальність", "orderIndex": 0 },
+    { "question": "immorality", "answer": "розбещенність", "orderIndex": 0 },
+    { "question": "IMO", "answer": "ІМО", "orderIndex": 0 },
+    { "question": "impair", "answer": "дестабілізувати", "orderIndex": 0 },
+    { "question": "impair", "answer": "наносити шкоду", "orderIndex": 0 },
+    { "question": "impartial", "answer": "неупереджений", "orderIndex": 0 },
+    {
+      "question": "impeach credibility",
+      "answer": "ставити під сумнів дії",
+      "orderIndex": 0
+    },
+    {
+      "question": "impeach credibility",
+      "answer": "ставити під сумнів свідчення",
+      "orderIndex": 0
+    },
+    {
+      "question": "impeach credibility",
+      "answer": "висловлювати недовіру до",
+      "orderIndex": 0
+    },
+    {
+      "question": "impeach credibility",
+      "answer": "оскаржувати достовірність фактів",
+      "orderIndex": 0
+    },
+    { "question": "impede", "answer": "перешкоджати", "orderIndex": 0 },
+    { "question": "impede", "answer": "гальмувати", "orderIndex": 0 },
+    { "question": "impression", "answer": "перегляд", "orderIndex": 0 },
+    { "question": "imprison", "answer": "ув'язнити", "orderIndex": 0 },
+    {
+      "question": "in a heart of passion",
+      "answer": "у стані афекту",
+      "orderIndex": 0
+    },
+    {
+      "question": "in camera",
+      "answer": "за зачиненими дверима",
+      "orderIndex": 0
+    },
+    {
+      "question": "in favor of",
+      "answer": "на користь чогось",
+      "orderIndex": 0
+    },
+    {
+      "question": "in furtherance of",
+      "answer": "на підтримку",
+      "orderIndex": 0
+    },
+    {
+      "question": "in furtherance of",
+      "answer": "дія скерована на",
+      "orderIndex": 0
+    },
+    {
+      "question": "in nominee name",
+      "answer": "зареєстрований на номінальну особу",
+      "orderIndex": 0
+    },
+    {
+      "question": "in restrained manner",
+      "answer": "у стриманій манері",
+      "orderIndex": 0
+    },
+    { "question": "in short order", "answer": "невдовзі", "orderIndex": 0 },
+    { "question": "in the black", "answer": "з прибутком", "orderIndex": 0 },
+    { "question": "in the red", "answer": "в боргу", "orderIndex": 0 },
+    {
+      "question": "in whole or in part",
+      "answer": "цілком або частково",
+      "orderIndex": 0
+    },
+    { "question": "incarcerate", "answer": "ув'язнити", "orderIndex": 0 },
+    { "question": "incarcerated", "answer": "в'язень", "orderIndex": 0 },
+    { "question": "inclusive", "answer": "інклюзивний", "orderIndex": 0 },
+    { "question": "inclusive of", "answer": "включно", "orderIndex": 0 },
+    { "question": "income", "answer": "дохід", "orderIndex": 0 },
+    {
+      "question": "income tax",
+      "answer": "податок на доходи",
+      "orderIndex": 0
+    },
+    { "question": "incorporate", "answer": "включати", "orderIndex": 0 },
+    {
+      "question": "increase investment tax credits",
+      "answer": "збільшити податкові кредити на інвестиції",
+      "orderIndex": 0
+    },
+    { "question": "inculcate", "answer": "прищеплювати", "orderIndex": 0 },
+    { "question": "index", "answer": "індекс", "orderIndex": 0 },
+    {
+      "question": "index finger",
+      "answer": "вказівний палець",
+      "orderIndex": 0
+    },
+    {
+      "question": "Indian Ocean Rim Association for Regional Cooperation",
+      "answer": "Асоціація регіонального співробітництва з країнами Індійського океану",
+      "orderIndex": 0
+    },
+    {
+      "question": "indictment",
+      "answer": "офіційне звинувачення",
+      "orderIndex": 0
+    },
+    {
+      "question": "indictment",
+      "answer": "звинувачувальний акт",
+      "orderIndex": 0
+    },
+    {
+      "question": "Ineffective Assistance of Counsel",
+      "answer": "неякісний захист",
+      "orderIndex": 0
+    },
+    {
+      "question": "Ineffective Assistance of Counsel",
+      "answer": "ненадання ефективної консультації",
+      "orderIndex": 0
+    },
+    {
+      "question": "ineligible for",
+      "answer": "не мати право на",
+      "orderIndex": 0
+    },
+    { "question": "infectious", "answer": "заразний", "orderIndex": 0 },
+    {
+      "question": "inferred amount",
+      "answer": "орієнтовна сума",
+      "orderIndex": 0
+    },
+    {
+      "question": "inferred amount",
+      "answer": "прогнозована сума",
+      "orderIndex": 0
+    },
+    { "question": "inflation", "answer": "інфляція", "orderIndex": 0 },
+    {
+      "question": "inflation target",
+      "answer": "цільовий рівень інфляції",
+      "orderIndex": 0
+    },
+    {
+      "question": "inflationary pressures",
+      "answer": "тиск інфляції",
+      "orderIndex": 0
+    },
+    {
+      "question": "inflict severe bodily damage",
+      "answer": "нанести тяжкі тілесні пошкодження",
+      "orderIndex": 0
+    },
+    { "question": "influenza", "answer": "грип", "orderIndex": 0 },
+    {
+      "question": "Information Security Analyst",
+      "answer": "аналітик з інформаційної безпеки",
+      "orderIndex": 0
+    },
+    {
+      "question": "Information Security Analyst",
+      "answer": "аналітик з інформаційної безпеки",
+      "orderIndex": 0
+    },
+    { "question": "infringe", "answer": "порушити", "orderIndex": 0 },
+    {
+      "question": "infringe",
+      "answer": "порушувати чинне законодавство",
+      "orderIndex": 0
+    },
+    { "question": "infusion", "answer": "вливання", "orderIndex": 0 },
+    { "question": "ingenuity", "answer": "винахідливість", "orderIndex": 0 },
+    {
+      "question": "inititate",
+      "answer": "порушити карну справу",
+      "orderIndex": 0
+    },
+    { "question": "injury", "answer": "травма", "orderIndex": 0 },
+    { "question": "inoculate", "answer": "прищеплювати", "orderIndex": 0 },
+    { "question": "inoculation", "answer": "щеплення", "orderIndex": 0 },
+    {
+      "question": "inquisitorial system",
+      "answer": "розшукова система",
+      "orderIndex": 0
+    },
+    {
+      "question": "inquisitorial system",
+      "answer": "інквізиційна система",
+      "orderIndex": 0
+    },
+    {
+      "question": "inquisitorial system",
+      "answer": "інквізиційний процес",
+      "orderIndex": 0
+    },
+    {
+      "question": "inquisitorial system",
+      "answer": "незмагальна система",
+      "orderIndex": 0
+    },
+    { "question": "insolvent", "answer": "неспроможний", "orderIndex": 0 },
+    { "question": "install", "answer": "встановлювати", "orderIndex": 0 },
+    { "question": "instep", "answer": "середстіп'я", "orderIndex": 0 },
+    { "question": "instep", "answer": "плесно", "orderIndex": 0 },
+    {
+      "question": "instigate",
+      "answer": "порушити карну справу",
+      "orderIndex": 0
+    },
+    {
+      "question": "institute",
+      "answer": "порушити карну справу",
+      "orderIndex": 0
+    },
+    { "question": "intake", "answer": "прийом", "orderIndex": 0 },
+    { "question": "intentional", "answer": "умисний", "orderIndex": 0 },
+    {
+      "question": "intercostal",
+      "answer": "міжребровий м'яз",
+      "orderIndex": 0
+    },
+    { "question": "interest", "answer": "відсотки", "orderIndex": 0 },
+    {
+      "question": "interest accrual",
+      "answer": "нарахування відсотків",
+      "orderIndex": 0
+    },
+    {
+      "question": "interest-rate spike",
+      "answer": "різке підвищення",
+      "orderIndex": 0
+    },
+    {
+      "question": "Internal Revenue Code",
+      "answer": "Кодекс внутрішніх прибутків",
+      "orderIndex": 0
+    },
+    {
+      "question": "Internal Revenue Code",
+      "answer": "Кодекс законів про оподаткування",
+      "orderIndex": 0
+    },
+    {
+      "question": "International Atomic Energy Agency",
+      "answer": "Міжнародне агентство з атомної енергії",
+      "orderIndex": 0
+    },
+    {
+      "question": "International Chess Federation",
+      "answer": "Міжнародна організація шахістів",
+      "orderIndex": 0
+    },
+    {
+      "question": "international commercial arbitration",
+      "answer": "міжнародний комерційний арбітраж",
+      "orderIndex": 0
+    },
+    {
+      "question": "International Committee of the Red Cross",
+      "answer": "Міжнародний комітет Червоного Хреста",
+      "orderIndex": 0
+    },
+    {
+      "question": "International Court Of Justice",
+      "answer": "Міжнародний суд",
+      "orderIndex": 0
+    },
+    {
+      "question": "International Cricket Council",
+      "answer": "Міжнародна рада крикету",
+      "orderIndex": 0
+    },
+    {
+      "question": "International Criminal Court",
+      "answer": "Міжнародний кримінальний суд",
+      "orderIndex": 0
+    },
+    {
+      "question": "International Hockey Federation",
+      "answer": "Міжнародна федерація хокею на траві",
+      "orderIndex": 0
+    },
+    {
+      "question": "International Hydrographic Organization",
+      "answer": "Міжнародна гідрографічна організація",
+      "orderIndex": 0
+    },
+    {
+      "question": "international investment arbitration",
+      "answer": "міжнародний інвестиційний арбітраж",
+      "orderIndex": 0
+    },
+    {
+      "question": "International Labor Organization",
+      "answer": "Міжнародна організація праці",
+      "orderIndex": 0
+    },
+    {
+      "question": "International Maritime Organization",
+      "answer": "Міжнародна морська організація",
+      "orderIndex": 0
+    },
+    {
+      "question": "International Monetary Fund",
+      "answer": "Міжнародний валютний фонд",
+      "orderIndex": 0
+    },
+    {
+      "question": "International Olympic Committee",
+      "answer": "Міжнародний олімпійський комітет",
+      "orderIndex": 0
+    },
+    {
+      "question": "International Organization for Standardization",
+      "answer": "Міжнародна організація зі стандартизації",
+      "orderIndex": 0
+    },
+    {
+      "question": "International Renewable Energy Agency",
+      "answer": "Міжнародна агенція з відновлювальних джерел енергії",
+      "orderIndex": 0
+    },
+    {
+      "question": "International Shooting Sport Federation",
+      "answer": "Міжнародна Федерація стрілецького спорту",
+      "orderIndex": 0
+    },
+    {
+      "question": "International Union for Conservation of Nature",
+      "answer": "Міжнародний союз охорони природи",
+      "orderIndex": 0
+    },
+    {
+      "question": "International Union of Pure and Applied Chemistry",
+      "answer": "Міжнародний союз фундаментальної та прикладної хімії",
+      "orderIndex": 0
+    },
+    {
+      "question": "internationalization",
+      "answer": "локалізація",
+      "orderIndex": 0
+    },
+    {
+      "question": "Internet Control Message Protocol",
+      "answer": "міжмережевий протокол керуючих повідомлень",
+      "orderIndex": 0
+    },
+    {
+      "question": "Internet Corporation for Assigned Names and Numbers",
+      "answer": "Інтернет-корпорація з присвоєння імен та номерів",
+      "orderIndex": 0
+    },
+    {
+      "question": "Interpreter",
+      "answer": "усний перекладач",
+      "orderIndex": 0
+    },
+    {
+      "question": "interstate arbitration",
+      "answer": "міждержавний арбітраж",
+      "orderIndex": 0
+    },
+    {
+      "question": "interweave content with links",
+      "answer": "зв'язувати контент із посиланнями",
+      "orderIndex": 0
+    },
+    { "question": "intranet", "answer": "інтранет", "orderIndex": 0 },
+    {
+      "question": "introduce a witness",
+      "answer": "представити свідка",
+      "orderIndex": 0
+    },
+    { "question": "invoice", "answer": "рахунок-фактура", "orderIndex": 0 },
+    { "question": "invoice", "answer": "накладна", "orderIndex": 0 },
+    {
+      "question": "involved in illegal activity",
+      "answer": "залучений у протизаконну діяльність",
+      "orderIndex": 0
+    },
+    {
+      "question": "involved in illicit activity",
+      "answer": "залучений у протизаконну діяльність",
+      "orderIndex": 0
+    },
+    {
+      "question": "involved in unlawful activity",
+      "answer": "залучений у протизаконну діяльність",
+      "orderIndex": 0
+    },
+    { "question": "IOC", "answer": "МОК", "orderIndex": 0 },
+    { "question": "IOM", "answer": "МОМ", "orderIndex": 0 },
+    {
+      "question": "IORA",
+      "answer": "Асоціація регіонального співробітництва з країнами Індійського океану",
+      "orderIndex": 0
+    },
+    { "question": "IRENA", "answer": "IRENA", "orderIndex": 0 },
+    {
+      "question": "Iron Worker",
+      "answer": "монтажник металоконструкцій",
+      "orderIndex": 0
+    },
+    { "question": "irregularity", "answer": "аморальність", "orderIndex": 0 },
+    { "question": "irregularity", "answer": "розбещенність", "orderIndex": 0 },
+    {
+      "question": "irreparable damage",
+      "answer": "непоправна шкода",
+      "orderIndex": 0
+    },
+    { "question": "irrevocable", "answer": "безвідкличний", "orderIndex": 0 },
+    {
+      "question": "ISO",
+      "answer": "Міжнародна організація зі стандартизації",
+      "orderIndex": 0
+    },
+    {
+      "question": "ISSF",
+      "answer": "Міжнародна Федерація стрілецького спорту",
+      "orderIndex": 0
+    },
+    { "question": "issue money", "answer": "випустити гроші", "orderIndex": 0 },
+    {
+      "question": "issue pretrial order",
+      "answer": "видати досудовий наказ",
+      "orderIndex": 0
+    },
+    {
+      "question": "IT Professional",
+      "answer": "спеціаліст з ІТ",
+      "orderIndex": 0
+    },
+    {
+      "question": "IT Professional",
+      "answer": "спеціаліст з ІТ",
+      "orderIndex": 0
+    },
+    { "question": "iterative", "answer": "ітеративний", "orderIndex": 0 },
+    { "question": "IUCN", "answer": "МСОП", "orderIndex": 0 },
+    { "question": "IUCN", "answer": "МСОП", "orderIndex": 0 },
+    {
+      "question": "IUPAC",
+      "answer": "Міжнародний союз фундаментальної та прикладної хімії",
+      "orderIndex": 0
+    },
+    { "question": "jaw", "answer": "щелепа", "orderIndex": 0 },
+    { "question": "jeep", "answer": "джип", "orderIndex": 0 },
+    { "question": "jet", "answer": "реактивний літак", "orderIndex": 0 },
+    { "question": "jet fighter", "answer": "винищувач", "orderIndex": 0 },
+    { "question": "jet ski", "answer": "гідроцикл", "orderIndex": 0 },
+    { "question": "jettison", "answer": "викидання за борт", "orderIndex": 0 },
+    { "question": "jettison", "answer": "викинути за борт", "orderIndex": 0 },
+    {
+      "question": "joint account",
+      "answer": "спільний рахунок",
+      "orderIndex": 0
+    },
+    {
+      "question": "Joint Photographic Experts Group)",
+      "answer": "формат JPEG",
+      "orderIndex": 0
+    },
+    { "question": "Journalist", "answer": "журналіст", "orderIndex": 0 },
+    { "question": "JPEG", "answer": "формат JPEG", "orderIndex": 0 },
+    {
+      "question": "judicial review",
+      "answer": "оскарження судового рішення",
+      "orderIndex": 0
+    },
+    {
+      "question": "judicial review",
+      "answer": "перегляд судового рішення",
+      "orderIndex": 0
+    },
+    { "question": "judiciary", "answer": "судова система", "orderIndex": 0 },
+    {
+      "question": "junk bond",
+      "answer": "сміттєва облігація",
+      "orderIndex": 0
+    },
+    { "question": "juror", "answer": "присяжний", "orderIndex": 0 },
+    { "question": "jury", "answer": "присяжні", "orderIndex": 0 },
+    {
+      "question": "jury foreman",
+      "answer": "голова присяжних",
+      "orderIndex": 0
+    },
+    {
+      "question": "jury foreperson",
+      "answer": "голова присяжних",
+      "orderIndex": 0
+    },
+    { "question": "justice", "answer": "судочинство", "orderIndex": 0 },
+    {
+      "question": "Justice of the Peace",
+      "answer": "мировий суддя",
+      "orderIndex": 0
+    },
+    { "question": "kayak", "answer": "каяк", "orderIndex": 0 },
+    { "question": "keep away", "answer": "триматися подалі", "orderIndex": 0 },
+    { "question": "keep on", "answer": "продовжувати", "orderIndex": 0 },
+    {
+      "question": "keep up with",
+      "answer": "лишатися на рівні з",
+      "orderIndex": 0
+    },
+    { "question": "kernel", "answer": "ядро", "orderIndex": 0 },
+    { "question": "kerning", "answer": "кернінг", "orderIndex": 0 },
+    {
+      "question": "key initiatives",
+      "answer": "ключові ініціативи",
+      "orderIndex": 0
+    },
+    { "question": "key phrase", "answer": "ключова фраза", "orderIndex": 0 },
+    {
+      "question": "key principles of criminal justice",
+      "answer": "основні принципи кримінального судочинства",
+      "orderIndex": 0
+    },
+    { "question": "keyboard", "answer": "клавіатура", "orderIndex": 0 },
+    {
+      "question": "keyword-rich content",
+      "answer": "багате інформаційне наповнення",
+      "orderIndex": 0
+    },
+    { "question": "kick scooter", "answer": "самокат", "orderIndex": 0 },
+    { "question": "kinship", "answer": "родинний зв'язок", "orderIndex": 0 },
+    { "question": "knee", "answer": "коліно", "orderIndex": 0 },
+    { "question": "kneecap", "answer": "надколінник", "orderIndex": 0 },
+    { "question": "knuckle", "answer": "щиколодка", "orderIndex": 0 },
+    { "question": "lab coat", "answer": "медичний халат", "orderIndex": 0 },
+    { "question": "lace", "answer": "мереживо", "orderIndex": 0 },
+    {
+      "question": "landmark decision",
+      "answer": "резонансне рішення",
+      "orderIndex": 0
+    },
+    {
+      "question": "landmark status",
+      "answer": "статус держави",
+      "orderIndex": 0
+    },
+    { "question": "lapel", "answer": "вилога", "orderIndex": 0 },
+    {
+      "question": "latissimus dorsi",
+      "answer": "найширший м'яз спини",
+      "orderIndex": 0
+    },
+    {
+      "question": "law-abiding citizen",
+      "answer": "законослухняний громадянин",
+      "orderIndex": 0
+    },
+    { "question": "layout", "answer": "розміщення", "orderIndex": 0 },
+    { "question": "Lead", "answer": "керівник", "orderIndex": 0 },
+    { "question": "leading", "answer": "висота рядка", "orderIndex": 0 },
+    {
+      "question": "leather shoes",
+      "answer": "шкіряні черевики",
+      "orderIndex": 0
+    },
+    { "question": "leave out", "answer": "пропустити", "orderIndex": 0 },
+    { "question": "leg", "answer": "нога", "orderIndex": 0 },
+    {
+      "question": "legal assistance",
+      "answer": "юридична допомога",
+      "orderIndex": 0
+    },
+    {
+      "question": "legal discourse",
+      "answer": "судовий дискурс",
+      "orderIndex": 0
+    },
+    {
+      "question": "legal recourse",
+      "answer": "звернення до суду",
+      "orderIndex": 0
+    },
+    {
+      "question": "legal regress",
+      "answer": "законне відшкодування",
+      "orderIndex": 0
+    },
+    {
+      "question": "legal regress",
+      "answer": "юридичне відшкодування",
+      "orderIndex": 0
+    },
+    {
+      "question": "legal remedies",
+      "answer": "засоби забезпечення прав",
+      "orderIndex": 0
+    },
+    { "question": "leggings", "answer": "лосини", "orderIndex": 0 },
+    { "question": "levy", "answer": "оподатковувати", "orderIndex": 0 },
+    {
+      "question": "liability",
+      "answer": "фінансове зобов'язання",
+      "orderIndex": 0
+    },
+    { "question": "libel", "answer": "наклеп", "orderIndex": 0 },
+    { "question": "library", "answer": "бібліотека", "orderIndex": 0 },
+    { "question": "liftback", "answer": "ліфтбек", "orderIndex": 0 },
+    {
+      "question": "limited jurisdiction",
+      "answer": "обмежена юрисдикція",
+      "orderIndex": 0
+    },
+    { "question": "limousine", "answer": "лімузин", "orderIndex": 0 },
+    { "question": "lining", "answer": "підшивка", "orderIndex": 0 },
+    { "question": "lining", "answer": "підбій", "orderIndex": 0 },
+    { "question": "lining", "answer": "підбійка", "orderIndex": 0 },
+    { "question": "lining", "answer": "спідка", "orderIndex": 0 },
+    {
+      "question": "link access protocol",
+      "answer": "протокол доступу до каналу",
+      "orderIndex": 0
+    },
+    { "question": "link farm", "answer": "лінкоферма", "orderIndex": 0 },
+    {
+      "question": "link popularity",
+      "answer": "кількість посилань на сайт",
+      "orderIndex": 0
+    },
+    { "question": "lip", "answer": "губа", "orderIndex": 0 },
+    {
+      "question": "litigating",
+      "answer": "проведення судового розгляду",
+      "orderIndex": 0
+    },
+    { "question": "little finger", "answer": "мізинець", "orderIndex": 0 },
+    { "question": "little toe", "answer": "мізинець", "orderIndex": 0 },
+    {
+      "question": "live reload",
+      "answer": "автоматичне оновлення сторінки",
+      "orderIndex": 0
+    },
+    {
+      "question": "live streaming",
+      "answer": "у прямому ефірі",
+      "orderIndex": 0
+    },
+    { "question": "liver", "answer": "печінка", "orderIndex": 0 },
+    { "question": "LLC", "answer": "ТОВ", "orderIndex": 0 },
+    { "question": "loan", "answer": "позика", "orderIndex": 0 },
+    {
+      "question": "Lobbying Disclosure Act",
+      "answer": "Закон про відкритість лобіювання",
+      "orderIndex": 0
+    },
+    {
+      "question": "local ordinance",
+      "answer": "розпорядження місцевої влади",
+      "orderIndex": 0
+    },
+    {
+      "question": "locus delicti",
+      "answer": "місце скоєння злочину",
+      "orderIndex": 0
+    },
+    { "question": "log file", "answer": "системний журнал", "orderIndex": 0 },
+    { "question": "logo", "answer": "логотип", "orderIndex": 0 },
+    { "question": "look after", "answer": "доглядати", "orderIndex": 0 },
+    { "question": "look around", "answer": "оглядати", "orderIndex": 0 },
+    { "question": "look down on", "answer": "зневажати", "orderIndex": 0 },
+    {
+      "question": "look forward to",
+      "answer": "чекати з нетерпінням",
+      "orderIndex": 0
+    },
+    { "question": "look in on", "answer": "завітати", "orderIndex": 0 },
+    { "question": "look into", "answer": "досліджувати", "orderIndex": 0 },
+    { "question": "look out for", "answer": "пильнувати", "orderIndex": 0 },
+    { "question": "look over", "answer": "переглянути", "orderIndex": 0 },
+    { "question": "look up", "answer": "шукати", "orderIndex": 0 },
+    { "question": "look up to", "answer": "поважати", "orderIndex": 0 },
+    { "question": "looting", "answer": "мародерство", "orderIndex": 0 },
+    {
+      "question": "low-interest rate",
+      "answer": "низька відсоткова ставка",
+      "orderIndex": 0
+    },
+    { "question": "lucrative", "answer": "прибутковий", "orderIndex": 0 },
+    { "question": "lumbar", "answer": "поперек", "orderIndex": 0 },
+    { "question": "lurker", "answer": "спостерігач", "orderIndex": 0 },
+    {
+      "question": "made for advertising",
+      "answer": "сайт для заробітку на статтях",
+      "orderIndex": 0
+    },
+    {
+      "question": "made public",
+      "answer": "набути розголосу",
+      "orderIndex": 0
+    },
+    {
+      "question": "magistrate's clerk",
+      "answer": "секретар магістрату",
+      "orderIndex": 0
+    },
+    { "question": "mail truck", "answer": "поштовий фургон", "orderIndex": 0 },
+    { "question": "maintain", "answer": "супроводжувати", "orderIndex": 0 },
+    {
+      "question": "maintainable",
+      "answer": "той, що супроводжується",
+      "orderIndex": 0
+    },
+    { "question": "make out", "answer": "зрозуміти", "orderIndex": 0 },
+    { "question": "make sure of", "answer": "переконатися", "orderIndex": 0 },
+    { "question": "make up", "answer": "вигадати", "orderIndex": 0 },
+    { "question": "Makeup Artist", "answer": "візажист", "orderIndex": 0 },
+    { "question": "malaise", "answer": "занепокоєння", "orderIndex": 0 },
+    {
+      "question": "malfunctioning",
+      "answer": "несправне функціонування",
+      "orderIndex": 0
+    },
+    { "question": "Manager", "answer": "менеджер", "orderIndex": 0 },
+    { "question": "manslaughter", "answer": "вбивство", "orderIndex": 0 },
+    {
+      "question": "manslaughter",
+      "answer": "неумисне вбивство",
+      "orderIndex": 0
+    },
+    {
+      "question": "Market Development Manager",
+      "answer": "менеджер з розвитку ринку",
+      "orderIndex": 0
+    },
+    {
+      "question": "market research",
+      "answer": "дослідження ринку",
+      "orderIndex": 0
+    },
+    {
+      "question": "Marketing Communications Manager",
+      "answer": "менеджер з маркетингових комунікацій",
+      "orderIndex": 0
+    },
+    {
+      "question": "Marketing Consultant",
+      "answer": "консультант з маркетингу",
+      "orderIndex": 0
+    },
+    {
+      "question": "Marketing Director",
+      "answer": "директор з маркетингу",
+      "orderIndex": 0
+    },
+    {
+      "question": "Marketing Manager",
+      "answer": "менеджер з маркетингу",
+      "orderIndex": 0
+    },
+    {
+      "question": "Marketing Research Analyst",
+      "answer": "аналітик маркетингових досліджень",
+      "orderIndex": 0
+    },
+    {
+      "question": "Marketing Specialist",
+      "answer": "спеціаліст з маркетингу",
+      "orderIndex": 0
+    },
+    { "question": "marriagable age", "answer": "шлюбний вік", "orderIndex": 0 },
+    { "question": "Mason", "answer": "каменяр", "orderIndex": 0 },
+    { "question": "master", "answer": "опанувати", "orderIndex": 0 },
+    {
+      "question": "Master Boot Record",
+      "answer": "головний завантажувальний запис",
+      "orderIndex": 0
+    },
+    {
+      "question": "match-head",
+      "answer": "сірникова головка",
+      "orderIndex": 0
+    },
+    { "question": "material fact", "answer": "суттєвий факт", "orderIndex": 0 },
+    {
+      "question": "maternity hospital",
+      "answer": "пологовий будинок",
+      "orderIndex": 0
+    },
+    { "question": "Mathematician", "answer": "математик", "orderIndex": 0 },
+    { "question": "matrix", "answer": "матриця", "orderIndex": 0 },
+    {
+      "question": "MBR",
+      "answer": "головний завантажувальний запис",
+      "orderIndex": 0
+    },
+    { "question": "MCU", "answer": "мікроконтролер", "orderIndex": 0 },
+    { "question": "MDG", "answer": "ЦРТ", "orderIndex": 0 },
+    { "question": "MEA", "answer": "БУОД", "orderIndex": 0 },
+    { "question": "measles", "answer": "кір", "orderIndex": 0 },
+    { "question": "measure", "answer": "ширина рядка", "orderIndex": 0 },
+    { "question": "Mechanic", "answer": "механік", "orderIndex": 0 },
+    {
+      "question": "Media Buyer",
+      "answer": "закупівельник ЗМІ",
+      "orderIndex": 0
+    },
+    {
+      "question": "Media Relations Coordinator",
+      "answer": "координатор з питань ЗМІ",
+      "orderIndex": 0
+    },
+    { "question": "medical center", "answer": "медпункт", "orderIndex": 0 },
+    {
+      "question": "medical insurance",
+      "answer": "медичне страхування",
+      "orderIndex": 0
+    },
+    {
+      "question": "medical practitioner",
+      "answer": "практикуючий лікар",
+      "orderIndex": 0
+    },
+    {
+      "question": "medical record",
+      "answer": "медична картка",
+      "orderIndex": 0
+    },
+    {
+      "question": "Merchandising Associate",
+      "answer": "молодший спеціаліст з просування продукту",
+      "orderIndex": 0
+    },
+    { "question": "merchant bank", "answer": "торговий банк", "orderIndex": 0 },
+    {
+      "question": "merits of case",
+      "answer": "суть судового розгляду",
+      "orderIndex": 0
+    },
+    { "question": "meta tag", "answer": "мета-тег", "orderIndex": 0 },
+    { "question": "metacarpal", "answer": "кістка п'ястя", "orderIndex": 0 },
+    { "question": "metatarsal", "answer": "плеснова кістка", "orderIndex": 0 },
+    { "question": "microcar", "answer": "мікроавтомобіль", "orderIndex": 0 },
+    {
+      "question": "middle finger",
+      "answer": "середній палець",
+      "orderIndex": 0
+    },
+    { "question": "minibus", "answer": "мікроавтобус", "orderIndex": 0 },
+    {
+      "question": "miniscule effect",
+      "answer": "незначний ефект",
+      "orderIndex": 0
+    },
+    { "question": "minivan", "answer": "мінівен", "orderIndex": 0 },
+    { "question": "mirandize", "answer": "зачитати права", "orderIndex": 0 },
+    {
+      "question": "mirror site",
+      "answer": "дзеркальний сайт",
+      "orderIndex": 0
+    },
+    { "question": "mislead", "answer": "вводити в оману", "orderIndex": 0 },
+    {
+      "question": "mistrial",
+      "answer": "справа з процедурними порушеннями",
+      "orderIndex": 0
+    },
+    {
+      "question": "mistrial",
+      "answer": "закриття справи без одностайного рішення присяжних",
+      "orderIndex": 0
+    },
+    {
+      "question": "mistrial case",
+      "answer": "ануляція судового процесу",
+      "orderIndex": 0
+    },
+    { "question": "mittens", "answer": "рукавиці", "orderIndex": 0 },
+    {
+      "question": "mobile home",
+      "answer": "перевізний будинок",
+      "orderIndex": 0
+    },
+    { "question": "mockup", "answer": "макет", "orderIndex": 0 },
+    {
+      "question": "modus operandi",
+      "answer": "спосіб скоєння злочину",
+      "orderIndex": 0
+    },
+    { "question": "moisture", "answer": "волога", "orderIndex": 0 },
+    { "question": "mole", "answer": "родимка", "orderIndex": 0 },
+    {
+      "question": "monetisation of government debt",
+      "answer": "монетизація державного боргу",
+      "orderIndex": 0
+    },
+    { "question": "moped", "answer": "мопед", "orderIndex": 0 },
+    {
+      "question": "motion to strike",
+      "answer": "клопотання про вилучення окремих матеріалів зі справи",
+      "orderIndex": 0
+    },
+    {
+      "question": "motion to sustain",
+      "answer": "клопотання підтримати рішення суду",
+      "orderIndex": 0
+    },
+    {
+      "question": "motion to vacate",
+      "answer": "клопотання про скасування рішення суду",
+      "orderIndex": 0
+    },
+    { "question": "motor scooter", "answer": "скутер", "orderIndex": 0 },
+    { "question": "motorbike", "answer": "мотоцикл", "orderIndex": 0 },
+    { "question": "motorboat", "answer": "моторний човен", "orderIndex": 0 },
+    {
+      "question": "motorized bicycle",
+      "answer": "електровелосипед",
+      "orderIndex": 0
+    },
+    {
+      "question": "motorized scooter",
+      "answer": "електричний самокат",
+      "orderIndex": 0
+    },
+    {
+      "question": "mount point",
+      "answer": "точка підключення",
+      "orderIndex": 0
+    },
+    {
+      "question": "mountain bike",
+      "answer": "гірський велосипед",
+      "orderIndex": 0
+    },
+    { "question": "mouth", "answer": "ріт", "orderIndex": 0 },
+    { "question": "MP", "answer": "член парламенту", "orderIndex": 0 },
+    { "question": "MP", "answer": "депутат", "orderIndex": 0 },
+    { "question": "MSF", "answer": "Лікарі без кордонів", "orderIndex": 0 },
+    { "question": "mugger", "answer": "вуличний грабіжник", "orderIndex": 0 },
+    {
+      "question": "mugging",
+      "answer": "пограбування на вулиці",
+      "orderIndex": 0
+    },
+    { "question": "mumps", "answer": "свинка", "orderIndex": 0 },
+    { "question": "murder", "answer": "навмисне вбивство", "orderIndex": 0 },
+    { "question": "murder", "answer": "умисне вбивство", "orderIndex": 0 },
+    { "question": "murderer", "answer": "вбивця", "orderIndex": 0 },
+    { "question": "muscles", "answer": "м'язи", "orderIndex": 0 },
+    {
+      "question": "Music Producer",
+      "answer": "музикальний продюсер",
+      "orderIndex": 0
+    },
+    { "question": "Musician", "answer": "музикант", "orderIndex": 0 },
+    { "question": "nail", "answer": "ніготь", "orderIndex": 0 },
+    {
+      "question": "name server",
+      "answer": "сервер доменних імен",
+      "orderIndex": 0
+    },
+    { "question": "nape", "answer": "потилиця", "orderIndex": 0 },
+    { "question": "narrowboat", "answer": "вузький човен", "orderIndex": 0 },
+    { "question": "NATO", "answer": "НАТО", "orderIndex": 0 },
+    {
+      "question": "natural fibre",
+      "answer": "натуральна тканина",
+      "orderIndex": 0
+    },
+    { "question": "nauseous", "answer": "нудотний", "orderIndex": 0 },
+    { "question": "navel", "answer": "пупок", "orderIndex": 0 },
+    { "question": "neck", "answer": "шия", "orderIndex": 0 },
+    { "question": "neckline", "answer": "виріз на одягу", "orderIndex": 0 },
+    { "question": "negligee", "answer": "пеньюар", "orderIndex": 0 },
+    {
+      "question": "negligence",
+      "answer": "злочин через недбалість",
+      "orderIndex": 0
+    },
+    {
+      "question": "negotiable",
+      "answer": "мати шанс бути предметов перемовин",
+      "orderIndex": 0
+    },
+    { "question": "NERC", "answer": "НКРЕКП", "orderIndex": 0 },
+    {
+      "question": "nervous breakdown",
+      "answer": "нервовий зрив",
+      "orderIndex": 0
+    },
+    {
+      "question": "net debt",
+      "answer": "чиста заборгованність",
+      "orderIndex": 0
+    },
+    {
+      "question": "Network Administrator",
+      "answer": "адміністратор комп'ютерної мережі",
+      "orderIndex": 0
+    },
+    {
+      "question": "Network Administrator",
+      "answer": "адміністратор комп'ютерної мережі",
+      "orderIndex": 0
+    },
+    {
+      "question": "network interface",
+      "answer": "мережевий інтерфейс",
+      "orderIndex": 0
+    },
+    {
+      "question": "news feed",
+      "answer": "стрічка з новинами",
+      "orderIndex": 0
+    },
+    { "question": "newsjacking", "answer": "крадення новини", "orderIndex": 0 },
+    {
+      "question": "NFS",
+      "answer": "мережева файлова система",
+      "orderIndex": 0
+    },
+    { "question": "NGO", "answer": "громадська організація", "orderIndex": 0 },
+    {
+      "question": "NHS",
+      "answer": "Національна служба охорони здоров'я Великобританії",
+      "orderIndex": 0
+    },
+    { "question": "nightdress", "answer": "нічна сорочка", "orderIndex": 0 },
+    { "question": "nightie", "answer": "нічна сорочка", "orderIndex": 0 },
+    { "question": "nightwear", "answer": "одяг для сну", "orderIndex": 0 },
+    { "question": "NIP", "answer": "НПВ", "orderIndex": 0 },
+    { "question": "nipple", "answer": "сосок", "orderIndex": 0 },
+    {
+      "question": "no case to answer",
+      "answer": "відсутність складу злочину",
+      "orderIndex": 0
+    },
+    {
+      "question": "nolo contendere",
+      "answer": "відмова оскаржувати звинувачення",
+      "orderIndex": 0
+    },
+    {
+      "question": "nominal sentence",
+      "answer": "умовний вирок",
+      "orderIndex": 0
+    },
+    {
+      "question": "non-interest-bearing money",
+      "answer": "гроші з безвідсоткового векселю",
+      "orderIndex": 0
+    },
+    {
+      "question": "North Atlantic Treaty Organization",
+      "answer": "Організація Північноатлантичного договору",
+      "orderIndex": 0
+    },
+    { "question": "nose", "answer": "ніс", "orderIndex": 0 },
+    { "question": "nostril", "answer": "ніздря", "orderIndex": 0 },
+    { "question": "NPT", "answer": "ДНЯЗ", "orderIndex": 0 },
+    { "question": "NSDC", "answer": "РНБОУ", "orderIndex": 0 },
+    { "question": "null and void", "answer": "недійсний", "orderIndex": 0 },
+    { "question": "null and void", "answer": "втратити силу", "orderIndex": 0 },
+    { "question": "Nurse", "answer": "медсестра", "orderIndex": 0 },
+    {
+      "question": "obey a law",
+      "answer": "дотримуватись законів",
+      "orderIndex": 0
+    },
+    { "question": "observation", "answer": "дотримання", "orderIndex": 0 },
+    { "question": "ODIHR", "answer": "БДІПЛ", "orderIndex": 0 },
+    { "question": "OECD", "answer": "ОЕСР", "orderIndex": 0 },
+    { "question": "OEWG", "answer": "РГВС", "orderIndex": 0 },
+    {
+      "question": "Office Assistant",
+      "answer": "офісний помічник",
+      "orderIndex": 0
+    },
+    { "question": "Office Clerk", "answer": "конторник", "orderIndex": 0 },
+    {
+      "question": "Office Manager",
+      "answer": "офіс-менеджер",
+      "orderIndex": 0
+    },
+    { "question": "Officer", "answer": "головний спеціаліст", "orderIndex": 0 },
+    { "question": "offset", "answer": "старт", "orderIndex": 0 },
+    { "question": "OHPL", "answer": "ПЛ", "orderIndex": 0 },
+    { "question": "OIC", "answer": "ОІС", "orderIndex": 0 },
+    { "question": "oil tanker", "answer": "нафтовий танкер", "orderIndex": 0 },
+    {
+      "question": "omnibus hearing",
+      "answer": "комплексне слухання",
+      "orderIndex": 0
+    },
+    { "question": "on deposit", "answer": "на депозит", "orderIndex": 0 },
+    {
+      "question": "on parole",
+      "answer": "умовно-дострокове звільнення",
+      "orderIndex": 0
+    },
+    { "question": "on parole", "answer": "на поруках", "orderIndex": 0 },
+    { "question": "on the dock", "answer": "лава підсудних", "orderIndex": 0 },
+    { "question": "OPCW", "answer": "ОЗХЗ", "orderIndex": 0 },
+    { "question": "OPEC", "answer": "ОПЕК", "orderIndex": 0 },
+    {
+      "question": "opening statement",
+      "answer": "вступна заява",
+      "orderIndex": 0
+    },
+    {
+      "question": "operating theater",
+      "answer": "операційна кімната",
+      "orderIndex": 0
+    },
+    { "question": "ordinances", "answer": "розпорядження", "orderIndex": 0 },
+    {
+      "question": "Organization for Economic Cooperation and Development",
+      "answer": "Організація економічного співробітництва та розвитку",
+      "orderIndex": 0
+    },
+    {
+      "question": "Organization for the Prohibition of Chemical Weapons",
+      "answer": "Організація із заборони хімічної зброї",
+      "orderIndex": 0
+    },
+    {
+      "question": "Organization of Islamic Cooperation",
+      "answer": "Організація ісламського співробітництва",
+      "orderIndex": 0
+    },
+    {
+      "question": "Organization of Petroleum Exporting Countries",
+      "answer": "Організація країн-експортерів нафти",
+      "orderIndex": 0
+    },
+    { "question": "organize", "answer": "організовувати", "orderIndex": 0 },
+    { "question": "Organizer", "answer": "організатор", "orderIndex": 0 },
+    {
+      "question": "origin of money",
+      "answer": "джерело грошей",
+      "orderIndex": 0
+    },
+    { "question": "orthopedics", "answer": "ортопедія", "orderIndex": 0 },
+    { "question": "OSCE", "answer": "ОБСЄ", "orderIndex": 0 },
+    { "question": "out of sync", "answer": "не відповідати", "orderIndex": 0 },
+    { "question": "outbreak", "answer": "спалах", "orderIndex": 0 },
+    { "question": "output", "answer": "видобуток", "orderIndex": 0 },
+    {
+      "question": "output per hour",
+      "answer": "вироблення за годину",
+      "orderIndex": 0
+    },
+    { "question": "outreach", "answer": "перейти межу", "orderIndex": 0 },
+    {
+      "question": "outreach",
+      "answer": "мати великий радіус дії",
+      "orderIndex": 0
+    },
+    { "question": "outreach", "answer": "перевершувати", "orderIndex": 0 },
+    {
+      "question": "Outside Sales Manager",
+      "answer": "менеджер із зовнішніх продажів",
+      "orderIndex": 0
+    },
+    {
+      "question": "outsource",
+      "answer": "вилучати дані з зовнішніх джерел",
+      "orderIndex": 0
+    },
+    {
+      "question": "outspoken person",
+      "answer": "видатна особа",
+      "orderIndex": 0
+    },
+    {
+      "question": "outspoken person",
+      "answer": "неоднозначна особа",
+      "orderIndex": 0
+    },
+    {
+      "question": "overblown worries",
+      "answer": "перебільшені проблеми",
+      "orderIndex": 0
+    },
+    { "question": "overt act", "answer": "протиправна дія", "orderIndex": 0 },
+    { "question": "overt act", "answer": "правопорушення", "orderIndex": 0 },
+    {
+      "question": "overt reference",
+      "answer": "неприховане посилання",
+      "orderIndex": 0
+    },
+    { "question": "overweight", "answer": "надлишкова вага", "orderIndex": 0 },
+    {
+      "question": "overwhelming evidence",
+      "answer": "беззаперечні докази",
+      "orderIndex": 0
+    },
+    {
+      "question": "Pacific Rim countries",
+      "answer": "країни тихоокеанського узбережжя",
+      "orderIndex": 0
+    },
+    { "question": "page layout", "answer": "верстка", "orderIndex": 0 },
+    {
+      "question": "page rank",
+      "answer": "ранжування сторінки",
+      "orderIndex": 0
+    },
+    { "question": "pain", "answer": "біль", "orderIndex": 0 },
+    {
+      "question": "painkiller",
+      "answer": "знеболювальний засіб",
+      "orderIndex": 0
+    },
+    { "question": "Painter", "answer": "маляр", "orderIndex": 0 },
+    { "question": "palm", "answer": "долоня", "orderIndex": 0 },
+    { "question": "panacea", "answer": "панацея", "orderIndex": 0 },
+    { "question": "panel", "answer": "група експертів", "orderIndex": 0 },
+    { "question": "panel", "answer": "склад присяжних", "orderIndex": 0 },
+    {
+      "question": "panel of justices",
+      "answer": "суддівський склад",
+      "orderIndex": 0
+    },
+    {
+      "question": "paper 'answer'",
+      "answer": "письмова відповідь",
+      "orderIndex": 0
+    },
+    { "question": "parachute", "answer": "парашут", "orderIndex": 0 },
+    { "question": "paramedic", "answer": "санітар", "orderIndex": 0 },
+    {
+      "question": "particularly aggrieved",
+      "answer": "постраждалий",
+      "orderIndex": 0
+    },
+    {
+      "question": "particulars of claim",
+      "answer": "деталі позову",
+      "orderIndex": 0
+    },
+    {
+      "question": "particulars of claim",
+      "answer": "нюанси позову",
+      "orderIndex": 0
+    },
+    {
+      "question": "parties to the litigations",
+      "answer": "сторони судової справи",
+      "orderIndex": 0
+    },
+    { "question": "partition", "answer": "розділ", "orderIndex": 0 },
+    { "question": "pass out", "answer": "знепритомніти", "orderIndex": 0 },
+    {
+      "question": "pattern of illegal activity",
+      "answer": "схема незаконної діяльності",
+      "orderIndex": 0
+    },
+    { "question": "pay taxes", "answer": "платити податки", "orderIndex": 0 },
+    {
+      "question": "payable at sight",
+      "answer": "з оплатою при огляді",
+      "orderIndex": 0
+    },
+    { "question": "payee", "answer": "одержувач платежу", "orderIndex": 0 },
+    {
+      "question": "payment order",
+      "answer": "плтаіжне доручення",
+      "orderIndex": 0
+    },
+    {
+      "question": "payment order",
+      "answer": "платіжне доручення",
+      "orderIndex": 0
+    },
+    {
+      "question": "payroll tax",
+      "answer": "податок на доходи фізичних осіб",
+      "orderIndex": 0
+    },
+    { "question": "PDF", "answer": "формат PDF", "orderIndex": 0 },
+    {
+      "question": "pectoral",
+      "answer": "великий грудний м'яз",
+      "orderIndex": 0
+    },
+    { "question": "pedicab", "answer": "велорикша", "orderIndex": 0 },
+    { "question": "pelvis", "answer": "таз", "orderIndex": 0 },
+    {
+      "question": "penal code",
+      "answer": "кримінальний кодекс",
+      "orderIndex": 0
+    },
+    { "question": "penalty", "answer": "відшкодування", "orderIndex": 0 },
+    { "question": "penalty", "answer": "штраф", "orderIndex": 0 },
+    {
+      "question": "pending trial",
+      "answer": "справа на розгляді",
+      "orderIndex": 0
+    },
+    {
+      "question": "peremptory challenge",
+      "answer": "право дати відвід",
+      "orderIndex": 0
+    },
+    {
+      "question": "period of limitation",
+      "answer": "термін позовної давності",
+      "orderIndex": 0
+    },
+    {
+      "question": "perjury",
+      "answer": "брехати під присягою",
+      "orderIndex": 0
+    },
+    {
+      "question": "permalink",
+      "answer": "постійне посилання",
+      "orderIndex": 0
+    },
+    {
+      "question": "Permanent Court of Arbitration at the Hague",
+      "answer": "Постійна палата третейського суду в Гаазі",
+      "orderIndex": 0
+    },
+    {
+      "question": "perpetuities",
+      "answer": "безстрокові облігації",
+      "orderIndex": 0
+    },
+    {
+      "question": "Personal Assistant",
+      "answer": "особистий помічник",
+      "orderIndex": 0
+    },
+    { "question": "Pet Sitter", "answer": "зооняня", "orderIndex": 0 },
+    {
+      "question": "petition for writ of certiorari",
+      "answer": "петиція з наказу про витребування справи",
+      "orderIndex": 0
+    },
+    { "question": "Pharmacist", "answer": "фармацевт", "orderIndex": 0 },
+    { "question": "pharmacy", "answer": "аптека", "orderIndex": 0 },
+    { "question": "Photographer", "answer": "фотограф", "orderIndex": 0 },
+    {
+      "question": "Physical Therapist",
+      "answer": "фізіотерапевт",
+      "orderIndex": 0
+    },
+    { "question": "Physicist", "answer": "фізик", "orderIndex": 0 },
+    { "question": "physiology", "answer": "фізіологія", "orderIndex": 0 },
+    { "question": "physiotherapy", "answer": "фізіотерапія", "orderIndex": 0 },
+    { "question": "PIC", "answer": "ПОЗ", "orderIndex": 0 },
+    { "question": "pick out", "answer": "обрати", "orderIndex": 0 },
+    { "question": "pick up", "answer": "підняти", "orderIndex": 0 },
+    {
+      "question": "pickpocketer",
+      "answer": "кишеньковий злодій",
+      "orderIndex": 0
+    },
+    {
+      "question": "pickpocketing",
+      "answer": "кишенькова крадіжка",
+      "orderIndex": 0
+    },
+    { "question": "pickup truck", "answer": "пікап", "orderIndex": 0 },
+    {
+      "question": "piixels per inch",
+      "answer": "щільність пікселів",
+      "orderIndex": 0
+    },
+    { "question": "pilfering", "answer": "дрібна крадіжка", "orderIndex": 0 },
+    { "question": "pill", "answer": "таблетка", "orderIndex": 0 },
+    { "question": "Pipefitter", "answer": "трубопровідник", "orderIndex": 0 },
+    { "question": "pixelation", "answer": "пікселізація", "orderIndex": 0 },
+    { "question": "PJSC", "answer": "ПАТ", "orderIndex": 0 },
+    { "question": "plague", "answer": "чума", "orderIndex": 0 },
+    { "question": "plaintiff", "answer": "позивач", "orderIndex": 0 },
+    {
+      "question": "plastic explosive",
+      "answer": "пластична вибухівка",
+      "orderIndex": 0
+    },
+    {
+      "question": "plea agreement",
+      "answer": "угода зі слідством",
+      "orderIndex": 0
+    },
+    {
+      "question": "plead guilty",
+      "answer": "визнати провину",
+      "orderIndex": 0
+    },
+    {
+      "question": "plead innocent",
+      "answer": "відмовитись визнати провину",
+      "orderIndex": 0
+    },
+    { "question": "pleadings", "answer": "змагальні папери", "orderIndex": 0 },
+    { "question": "pleadings", "answer": "судові дебати", "orderIndex": 0 },
+    { "question": "pledge", "answer": "застава", "orderIndex": 0 },
+    { "question": "Plumber", "answer": "сантехнік", "orderIndex": 0 },
+    { "question": "PNG", "answer": "формат PNG", "orderIndex": 0 },
+    { "question": "poignancy", "answer": "різкість", "orderIndex": 0 },
+    { "question": "point out", "answer": "відмітити", "orderIndex": 0 },
+    {
+      "question": "police car",
+      "answer": "поліцейська машина",
+      "orderIndex": 0
+    },
+    { "question": "POP", "answer": "СОЗ", "orderIndex": 0 },
+    { "question": "popper", "answer": "кнопка-застібка", "orderIndex": 0 },
+    { "question": "POPRC", "answer": "КРСОЗ", "orderIndex": 0 },
+    { "question": "pore", "answer": "пора", "orderIndex": 0 },
+    {
+      "question": "Portable Document Format",
+      "answer": "формат PDF",
+      "orderIndex": 0
+    },
+    {
+      "question": "Portable Network Graphics",
+      "answer": "формат PNG",
+      "orderIndex": 0
+    },
+    { "question": "portal", "answer": "портал", "orderIndex": 0 },
+    { "question": "post", "answer": "відправити", "orderIndex": 0 },
+    { "question": "post bail", "answer": "внести заставу", "orderIndex": 0 },
+    { "question": "potent", "answer": "дієвий", "orderIndex": 0 },
+    { "question": "PPI", "answer": "щільність пікселів", "orderIndex": 0 },
+    {
+      "question": "practitioner",
+      "answer": "практикуючий спеціаліст",
+      "orderIndex": 0
+    },
+    { "question": "premises", "answer": "нерухомість", "orderIndex": 0 },
+    {
+      "question": "premises",
+      "answer": "територія, на котрій знаходиться",
+      "orderIndex": 0
+    },
+    {
+      "question": "prescription",
+      "answer": "медичний рецепт",
+      "orderIndex": 0
+    },
+    {
+      "question": "prescription charges",
+      "answer": "стандартна вартість медикаментів за рецептом",
+      "orderIndex": 0
+    },
+    { "question": "President", "answer": "президент", "orderIndex": 0 },
+    { "question": "pressure cooker", "answer": "скороварка", "orderIndex": 0 },
+    {
+      "question": "prestige hacker",
+      "answer": "хакер заради авторитету",
+      "orderIndex": 0
+    },
+    {
+      "question": "pre-trial day",
+      "answer": "день попереднього слухання",
+      "orderIndex": 0
+    },
+    { "question": "prevention", "answer": "запобігання", "orderIndex": 0 },
+    { "question": "Principal", "answer": "ректор", "orderIndex": 0 },
+    {
+      "question": "prior written notice",
+      "answer": "завчасне письмове повідомлення",
+      "orderIndex": 0
+    },
+    { "question": "private law", "answer": "приватне право", "orderIndex": 0 },
+    { "question": "pro bono", "answer": "безкоштовно", "orderIndex": 0 },
+    {
+      "question": "probable cause",
+      "answer": "слушна причина",
+      "orderIndex": 0
+    },
+    { "question": "probation", "answer": "виправні роботи", "orderIndex": 0 },
+    {
+      "question": "probative evidence",
+      "answer": "переконливі докази",
+      "orderIndex": 0
+    },
+    {
+      "question": "procedural history",
+      "answer": "історія процедури",
+      "orderIndex": 0
+    },
+    {
+      "question": "procedural irregularities",
+      "answer": "процедурні порушення",
+      "orderIndex": 0
+    },
+    {
+      "question": "processed food",
+      "answer": "технологічно оброблені продукти",
+      "orderIndex": 0
+    },
+    {
+      "question": "Product Manager",
+      "answer": "менеджер по продукції",
+      "orderIndex": 0
+    },
+    { "question": "profit", "answer": "вигода", "orderIndex": 0 },
+    { "question": "proforma", "answer": "формальність", "orderIndex": 0 },
+    {
+      "question": "Program Administrator",
+      "answer": "адміністратор програми",
+      "orderIndex": 0
+    },
+    {
+      "question": "Program Manager",
+      "answer": "менеджер програми",
+      "orderIndex": 0
+    },
+    {
+      "question": "property issue",
+      "answer": "майнове питання",
+      "orderIndex": 0
+    },
+    {
+      "question": "property tax",
+      "answer": "податок на нерухоме майно",
+      "orderIndex": 0
+    },
+    {
+      "question": "prosecuting solicitor",
+      "answer": "адвокат сторони обвинувачення",
+      "orderIndex": 0
+    },
+    {
+      "question": "prosecution barrister",
+      "answer": "сторона обвинувачення",
+      "orderIndex": 0
+    },
+    {
+      "question": "prosecution barrister",
+      "answer": "адвокат обвинувачення",
+      "orderIndex": 0
+    },
+    {
+      "question": "prosecution solicitor",
+      "answer": "сторона обвинувачення",
+      "orderIndex": 0
+    },
+    {
+      "question": "prosecution solicitor",
+      "answer": "адвокат обвинувачення",
+      "orderIndex": 0
+    },
+    {
+      "question": "prosecutor",
+      "answer": "сторона обвинувачення",
+      "orderIndex": 0
+    },
+    { "question": "protectionism", "answer": "протекціонізм", "orderIndex": 0 },
+    {
+      "question": "prove the case",
+      "answer": "доводити вину",
+      "orderIndex": 0
+    },
+    { "question": "prowess", "answer": "майстерство", "orderIndex": 0 },
+    {
+      "question": "psychiatric assessment",
+      "answer": "психіатрична експертиза",
+      "orderIndex": 0
+    },
+    {
+      "question": "public defender",
+      "answer": "державний захисник",
+      "orderIndex": 0
+    },
+    {
+      "question": "public gallery",
+      "answer": "відкрите засідання",
+      "orderIndex": 0
+    },
+    {
+      "question": "public relations",
+      "answer": "зв'язки з громадськістю",
+      "orderIndex": 0
+    },
+    { "question": "public relations", "answer": "піар", "orderIndex": 0 },
+    {
+      "question": "Public Relations",
+      "answer": "зв'язок із громадськістю",
+      "orderIndex": 0
+    },
+    {
+      "question": "public relations move",
+      "answer": "піарний ход",
+      "orderIndex": 0
+    },
+    { "question": "pump money", "answer": "вкачувати гроші", "orderIndex": 0 },
+    {
+      "question": "puncture criticisms",
+      "answer": "протистояти критиці",
+      "orderIndex": 0
+    },
+    { "question": "put away", "answer": "відкласти", "orderIndex": 0 },
+    { "question": "put behind bars", "answer": "ув'язнити", "orderIndex": 0 },
+    { "question": "put off", "answer": "перенести", "orderIndex": 0 },
+    { "question": "put on", "answer": "одягти", "orderIndex": 0 },
+    { "question": "put out", "answer": "загасити", "orderIndex": 0 },
+    {
+      "question": "put the evidence before the court",
+      "answer": "надати докази на розгляд",
+      "orderIndex": 0
+    },
+    { "question": "put up with", "answer": "миритися", "orderIndex": 0 },
+    { "question": "quad", "answer": "мотовсюдихід", "orderIndex": 0 },
+    {
+      "question": "quadriceps",
+      "answer": "чотириголовий м'яз",
+      "orderIndex": 0
+    },
+    {
+      "question": "Quality Control Coordinator",
+      "answer": "координатор з контролю якості",
+      "orderIndex": 0
+    },
+    {
+      "question": "quash",
+      "answer": "позбавити юридичної сили",
+      "orderIndex": 0
+    },
+    { "question": "quash", "answer": "відхиляти", "orderIndex": 0 },
+    {
+      "question": "racial tension",
+      "answer": "міжрасова напруга",
+      "orderIndex": 0
+    },
+    { "question": "radius", "answer": "променева кістка", "orderIndex": 0 },
+    { "question": "raft", "answer": "пліт", "orderIndex": 0 },
+    { "question": "raincoat", "answer": "дощовик", "orderIndex": 0 },
+    {
+      "question": "raise sufficient evidence",
+      "answer": "надати достатньо доказів",
+      "orderIndex": 0
+    },
+    { "question": "RAM", "answer": "оперативна пам'ять", "orderIndex": 0 },
+    {
+      "question": "rank",
+      "answer": "встановлювати послідовність",
+      "orderIndex": 0
+    },
+    { "question": "rape", "answer": "сексуальне насилля", "orderIndex": 0 },
+    { "question": "rapist", "answer": "насильник", "orderIndex": 0 },
+    { "question": "raster", "answer": "растр", "orderIndex": 0 },
+    {
+      "question": "raster image",
+      "answer": "растрове зображення",
+      "orderIndex": 0
+    },
+    { "question": "rate", "answer": "курс", "orderIndex": 0 },
+    {
+      "question": "read Miranda rights",
+      "answer": "зачитати права",
+      "orderIndex": 0
+    },
+    {
+      "question": "read Miranda warning",
+      "answer": "зачитати права",
+      "orderIndex": 0
+    },
+    { "question": "read over", "answer": "уважно читати", "orderIndex": 0 },
+    {
+      "question": "real estate billionaire",
+      "answer": "міль'ярдер у сфері нерухомості",
+      "orderIndex": 0
+    },
+    {
+      "question": "Real Estate Broker",
+      "answer": "брокер з нерухомості",
+      "orderIndex": 0
+    },
+    {
+      "question": "Really Simple Syndication",
+      "answer": "протокол RSS",
+      "orderIndex": 0
+    },
+    {
+      "question": "real-time search",
+      "answer": "пошук у реальному часі",
+      "orderIndex": 0
+    },
+    { "question": "reasonable", "answer": "розсудливий", "orderIndex": 0 },
+    { "question": "reasonableness", "answer": "доцільність", "orderIndex": 0 },
+    { "question": "Receptionist", "answer": "портьє", "orderIndex": 0 },
+    { "question": "recipient", "answer": "одержувач", "orderIndex": 0 },
+    { "question": "reconnoitre", "answer": "розвідка", "orderIndex": 0 },
+    {
+      "question": "record-keeping",
+      "answer": "ведення обліку",
+      "orderIndex": 0
+    },
+    {
+      "question": "recuse",
+      "answer": "відмовитися брати участь у слуханні",
+      "orderIndex": 0
+    },
+    {
+      "question": "recycling truck",
+      "answer": "вантажівка для сміття на переробку",
+      "orderIndex": 0
+    },
+    {
+      "question": "Red, Green, Blue",
+      "answer": "система передачі кольору",
+      "orderIndex": 0
+    },
+    { "question": "redemption", "answer": "погашення", "orderIndex": 0 },
+    { "question": "redirect", "answer": "перенаправляти", "orderIndex": 0 },
+    {
+      "question": "reduce consumer taxes",
+      "answer": "зменшити споживчі податки",
+      "orderIndex": 0
+    },
+    { "question": "reel from", "answer": "оговтатись від", "orderIndex": 0 },
+    {
+      "question": "re-examination",
+      "answer": "повторний допит",
+      "orderIndex": 0
+    },
+    {
+      "question": "re-examination",
+      "answer": "повторна експертиза",
+      "orderIndex": 0
+    },
+    {
+      "question": "refer the case",
+      "answer": "передати справу до",
+      "orderIndex": 0
+    },
+    {
+      "question": "register in street name",
+      "answer": "зареєструвати на підставну особу",
+      "orderIndex": 0
+    },
+    {
+      "question": "reject a complaint",
+      "answer": "відхилити скаргу",
+      "orderIndex": 0
+    },
+    {
+      "question": "reject in full",
+      "answer": "повністю відхилити вимогу суду",
+      "orderIndex": 0
+    },
+    {
+      "question": "reject objection",
+      "answer": "відхилити протест",
+      "orderIndex": 0
+    },
+    { "question": "relapse", "answer": "загострення", "orderIndex": 0 },
+    { "question": "relapse", "answer": "загострення", "orderIndex": 0 },
+    {
+      "question": "relevant factual background",
+      "answer": "факти стосовно справи",
+      "orderIndex": 0
+    },
+    {
+      "question": "relevant factual background",
+      "answer": "обставини справи",
+      "orderIndex": 0
+    },
+    {
+      "question": "relevant factual background",
+      "answer": "описова частина",
+      "orderIndex": 0
+    },
+    { "question": "reliable", "answer": "надійний", "orderIndex": 0 },
+    {
+      "question": "remit a case",
+      "answer": "повернути на додатковий розгляд",
+      "orderIndex": 0
+    },
+    {
+      "question": "removal",
+      "answer": "примусова депортація",
+      "orderIndex": 0
+    },
+    {
+      "question": "render first aid",
+      "answer": "надати першу допомогу",
+      "orderIndex": 0
+    },
+    {
+      "question": "reoffence",
+      "answer": "повторне правопорушення",
+      "orderIndex": 0
+    },
+    { "question": "repeal", "answer": "скасувати", "orderIndex": 0 },
+    {
+      "question": "reply to complaint",
+      "answer": "відповідати на позов",
+      "orderIndex": 0
+    },
+    {
+      "question": "reports",
+      "answer": "збірка судових рішень",
+      "orderIndex": 0
+    },
+    { "question": "resilient", "answer": "життєздатний", "orderIndex": 0 },
+    { "question": "resist", "answer": "чинити опір", "orderIndex": 0 },
+    {
+      "question": "restore confidence",
+      "answer": "відновити впевненність",
+      "orderIndex": 0
+    },
+    {
+      "question": "Retail Worker",
+      "answer": "працівник у відділу роздрібної торгівлі",
+      "orderIndex": 0
+    },
+    { "question": "retaliate", "answer": "помститися", "orderIndex": 0 },
+    { "question": "retargeting", "answer": "зміна платформи", "orderIndex": 0 },
+    {
+      "question": "retention policy",
+      "answer": "політика просування по службі та утримання персоналу",
+      "orderIndex": 0
+    },
+    {
+      "question": "retire to deliberate",
+      "answer": "видалятися до нарадчої кімнати",
+      "orderIndex": 0
+    },
+    {
+      "question": "retire to make a decision",
+      "answer": "видалитися для винесення рішення",
+      "orderIndex": 0
+    },
+    {
+      "question": "return on investment",
+      "answer": "рентабельність",
+      "orderIndex": 0
+    },
+    { "question": "revenue", "answer": "дохід", "orderIndex": 0 },
+    {
+      "question": "review the court record",
+      "answer": "переглянути стенограму",
+      "orderIndex": 0
+    },
+    {
+      "question": "revocable",
+      "answer": "що підлягає скасуванню",
+      "orderIndex": 0
+    },
+    {
+      "question": "revoke a sentence",
+      "answer": "скасувати вирок",
+      "orderIndex": 0
+    },
+    {
+      "question": "revoke citizenship",
+      "answer": "позбавити громадянства",
+      "orderIndex": 0
+    },
+    {
+      "question": "RGB",
+      "answer": "система передачі кольору",
+      "orderIndex": 0
+    },
+    { "question": "rib", "answer": "ребро", "orderIndex": 0 },
+    { "question": "rib cage", "answer": "ребра", "orderIndex": 0 },
+    {
+      "question": "ring finger",
+      "answer": "безіменний палець",
+      "orderIndex": 0
+    },
+    {
+      "question": "riot",
+      "answer": "порушення соціального порядку",
+      "orderIndex": 0
+    },
+    {
+      "question": "risk exposure",
+      "answer": "ризикувати бути викритим",
+      "orderIndex": 0
+    },
+    {
+      "question": "risk exposure",
+      "answer": "нараження на ризик",
+      "orderIndex": 0
+    },
+    {
+      "question": "Risk Manager",
+      "answer": "менеджер ризиків",
+      "orderIndex": 0
+    },
+    { "question": "road roller", "answer": "коток", "orderIndex": 0 },
+    { "question": "robbery", "answer": "пограбування банку", "orderIndex": 0 },
+    { "question": "romper suit", "answer": "повзунки", "orderIndex": 0 },
+    {
+      "question": "romper suit",
+      "answer": "дитячий комбінезон",
+      "orderIndex": 0
+    },
+    { "question": "roof line", "answer": "лінія кузову", "orderIndex": 0 },
+    { "question": "Roofer", "answer": "дахар", "orderIndex": 0 },
+    {
+      "question": "root directory",
+      "answer": "кореневий каталог",
+      "orderIndex": 0
+    },
+    {
+      "question": "routing table",
+      "answer": "таблиця маршрутизації",
+      "orderIndex": 0
+    },
+    { "question": "rowboat", "answer": "весловий човен", "orderIndex": 0 },
+    { "question": "run across", "answer": "випадково знайти", "orderIndex": 0 },
+    { "question": "run into", "answer": "зустріти", "orderIndex": 0 },
+    { "question": "run out of", "answer": "не мати", "orderIndex": 0 },
+    { "question": "runlevel", "answer": "рівень виконання", "orderIndex": 0 },
+    { "question": "runny nose", "answer": "нежить", "orderIndex": 0 },
+    { "question": "SAARC", "answer": "SAARC", "orderIndex": 0 },
+    { "question": "sailboat", "answer": "вітрильник", "orderIndex": 0 },
+    {
+      "question": "Sales Analyst",
+      "answer": "аналітик з продажів",
+      "orderIndex": 0
+    },
+    {
+      "question": "Sales Associate",
+      "answer": "продавець-консультант",
+      "orderIndex": 0
+    },
+    {
+      "question": "Sales Engineer",
+      "answer": "фахівець зі збуту",
+      "orderIndex": 0
+    },
+    {
+      "question": "Sales Manager",
+      "answer": "менеджер з продажів",
+      "orderIndex": 0
+    },
+    {
+      "question": "Sales Representative",
+      "answer": "торговий представник",
+      "orderIndex": 0
+    },
+    { "question": "sales tax", "answer": "податок з продажу", "orderIndex": 0 },
+    { "question": "sample", "answer": "зразок для аналізу", "orderIndex": 0 },
+    { "question": "savings", "answer": "збереження", "orderIndex": 0 },
+    { "question": "savvy", "answer": "тямкий", "orderIndex": 0 },
+    { "question": "scar", "answer": "шрам", "orderIndex": 0 },
+    { "question": "scarf", "answer": "шарф", "orderIndex": 0 },
+    { "question": "school bus", "answer": "шкільний автобус", "orderIndex": 0 },
+    { "question": "schooner", "answer": "шхуна", "orderIndex": 0 },
+    { "question": "scope", "answer": "межі видимості", "orderIndex": 0 },
+    { "question": "scratch", "answer": "подряпина", "orderIndex": 0 },
+    { "question": "screw", "answer": "гайка", "orderIndex": 0 },
+    { "question": "screw", "answer": "гвинт", "orderIndex": 0 },
+    { "question": "SDG", "answer": "ЦСР", "orderIndex": 0 },
+    { "question": "seam", "answer": "шво", "orderIndex": 0 },
+    {
+      "question": "search engine",
+      "answer": "пошукова система",
+      "orderIndex": 0
+    },
+    {
+      "question": "search term",
+      "answer": "пошуковий термін",
+      "orderIndex": 0
+    },
+    {
+      "question": "searches and seizures",
+      "answer": "обшуки і арешти",
+      "orderIndex": 0
+    },
+    { "question": "Secretary", "answer": "секретар", "orderIndex": 0 },
+    { "question": "sedan", "answer": "седан", "orderIndex": 0 },
+    { "question": "seizure", "answer": "судома", "orderIndex": 0 },
+    {
+      "question": "SEO",
+      "answer": "оптимізація пошукових систем",
+      "orderIndex": 0
+    },
+    {
+      "question": "SEO Manager",
+      "answer": "менеджер з пошукової оптимізації сайту",
+      "orderIndex": 0
+    },
+    {
+      "question": "separate count",
+      "answer": "окремий пункт",
+      "orderIndex": 0
+    },
+    {
+      "question": "serve a subpoena",
+      "answer": "вручити повістку до суду",
+      "orderIndex": 0
+    },
+    { "question": "service", "answer": "служба", "orderIndex": 0 },
+    { "question": "service debt", "answer": "погасити борг", "orderIndex": 0 },
+    {
+      "question": "Service Dog Trainer",
+      "answer": "тренер собаки-поводиря",
+      "orderIndex": 0
+    },
+    { "question": "set up", "answer": "організувати", "orderIndex": 0 },
+    {
+      "question": "settle the dispute",
+      "answer": "вирішувати суперечку",
+      "orderIndex": 0
+    },
+    {
+      "question": "settle the matter out of court",
+      "answer": "не доводити справу до суду",
+      "orderIndex": 0
+    },
+    {
+      "question": "settlement account",
+      "answer": "розрахунковий рахунок",
+      "orderIndex": 0
+    },
+    {
+      "question": "shadow practices",
+      "answer": "тіньові операції",
+      "orderIndex": 0
+    },
+    { "question": "share", "answer": "поширення", "orderIndex": 0 },
+    { "question": "shares", "answer": "акції", "orderIndex": 0 },
+    {
+      "question": "sharp reduction in",
+      "answer": "різке скорочення у",
+      "orderIndex": 0
+    },
+    { "question": "Sheet Metal Worker", "answer": "бляхар", "orderIndex": 0 },
+    { "question": "shell", "answer": "програмна оболонка", "orderIndex": 0 },
+    { "question": "shin", "answer": "гомілка", "orderIndex": 0 },
+    { "question": "ship", "answer": "корабель", "orderIndex": 0 },
+    { "question": "shoes", "answer": "черевики", "orderIndex": 0 },
+    {
+      "question": "shoplifter",
+      "answer": "магазинний крадій",
+      "orderIndex": 0
+    },
+    {
+      "question": "shoplifting",
+      "answer": "крадіжка з магазину",
+      "orderIndex": 0
+    },
+    { "question": "shorts", "answer": "шорти", "orderIndex": 0 },
+    { "question": "shot", "answer": "ін'єкція", "orderIndex": 0 },
+    { "question": "shoulder", "answer": "плече", "orderIndex": 0 },
+    { "question": "shoulder blade", "answer": "лопатка", "orderIndex": 0 },
+    { "question": "show off", "answer": "викаблучуватися", "orderIndex": 0 },
+    { "question": "show up", "answer": "дістатися", "orderIndex": 0 },
+    { "question": "side effect", "answer": "побічна дія", "orderIndex": 0 },
+    { "question": "sidebar", "answer": "бокова панель", "orderIndex": 0 },
+    {
+      "question": "simplify the tax code",
+      "answer": "спростити податковий кодекс",
+      "orderIndex": 0
+    },
+    { "question": "site map", "answer": "карта сайту", "orderIndex": 0 },
+    {
+      "question": "situational crime prevention",
+      "answer": "ситуативне попередження злочину",
+      "orderIndex": 0
+    },
+    { "question": "skateboard", "answer": "скейт", "orderIndex": 0 },
+    { "question": "skeleton", "answer": "скелет", "orderIndex": 0 },
+    { "question": "skeleton", "answer": "скелет", "orderIndex": 0 },
+    {
+      "question": "skeleton argument",
+      "answer": "стислий виклад аргументації сторони",
+      "orderIndex": 0
+    },
+    {
+      "question": "sketchy economic policies",
+      "answer": "поверхові економічні заходи",
+      "orderIndex": 0
+    },
+    {
+      "question": "skid steer loader",
+      "answer": "міні-навантажувач",
+      "orderIndex": 0
+    },
+    { "question": "skin", "answer": "шкіра", "orderIndex": 0 },
+    { "question": "skirt", "answer": "спідниця", "orderIndex": 0 },
+    { "question": "skull", "answer": "череп", "orderIndex": 0 },
+    { "question": "slander", "answer": "наклеп", "orderIndex": 0 },
+    {
+      "question": "slash the business tax rate",
+      "answer": "скорочувати ставку корпоративного налогу",
+      "orderIndex": 0
+    },
+    { "question": "sled", "answer": "санчата", "orderIndex": 0 },
+    { "question": "sleek", "answer": "обтічна", "orderIndex": 0 },
+    { "question": "sleeping pill", "answer": "снодійне", "orderIndex": 0 },
+    { "question": "sleepsuit", "answer": "комбінезон-піжама", "orderIndex": 0 },
+    { "question": "sleeve", "answer": "рукав", "orderIndex": 0 },
+    { "question": "sling", "answer": "пов'язка", "orderIndex": 0 },
+    { "question": "slip", "answer": "білизна під сукню", "orderIndex": 0 },
+    { "question": "slippers", "answer": "капці", "orderIndex": 0 },
+    {
+      "question": "sluggish recovery",
+      "answer": "повільне відновлення",
+      "orderIndex": 0
+    },
+    {
+      "question": "small claim",
+      "answer": "позов на невелику суму",
+      "orderIndex": 0
+    },
+    { "question": "small of back", "answer": "поперек", "orderIndex": 0 },
+    { "question": "smog", "answer": "смог", "orderIndex": 0 },
+    { "question": "smuggler", "answer": "контрабандист", "orderIndex": 0 },
+    { "question": "smuggling", "answer": "контрабанда", "orderIndex": 0 },
+    { "question": "sneeze", "answer": "чхати", "orderIndex": 0 },
+    { "question": "snowmobile", "answer": "снігохід", "orderIndex": 0 },
+    {
+      "question": "snowsuit",
+      "answer": "дитячий зимовий комбінезон",
+      "orderIndex": 0
+    },
+    {
+      "question": "Social Media Assistant",
+      "answer": "помічник із соціальних мереж",
+      "orderIndex": 0
+    },
+    {
+      "question": "social media monitoring",
+      "answer": "моніторинг соціальних мереж",
+      "orderIndex": 0
+    },
+    {
+      "question": "social security",
+      "answer": "соціальний захист",
+      "orderIndex": 0
+    },
+    {
+      "question": "social security",
+      "answer": "соціальне забезпечення",
+      "orderIndex": 0
+    },
+    { "question": "Sociologist", "answer": "соціолог", "orderIndex": 0 },
+    { "question": "socket set", "answer": "комплект насадок", "orderIndex": 0 },
+    {
+      "question": "Software Engineer",
+      "answer": "інженер програмного забезпечення",
+      "orderIndex": 0
+    },
+    {
+      "question": "Software Engineer",
+      "answer": "інженер програмного забезпечення",
+      "orderIndex": 0
+    },
+    {
+      "question": "software package",
+      "answer": "програмний пакет",
+      "orderIndex": 0
+    },
+    {
+      "question": "Solar Photovoltaic Installer",
+      "answer": "установник сонячних батарей",
+      "orderIndex": 0
+    },
+    { "question": "sole", "answer": "підошва", "orderIndex": 0 },
+    {
+      "question": "sole arbitrator",
+      "answer": "одноосібний арбітр",
+      "orderIndex": 0
+    },
+    { "question": "solicitor", "answer": "адвокат", "orderIndex": 0 },
+    { "question": "solicitor", "answer": "стряпчий", "orderIndex": 0 },
+    { "question": "solvency", "answer": "платоспроможність", "orderIndex": 0 },
+    { "question": "sore back", "answer": "біль у спині", "orderIndex": 0 },
+    { "question": "sore throat", "answer": "біль у горлі", "orderIndex": 0 },
+    {
+      "question": "sound judgement",
+      "answer": "здоровий глузд",
+      "orderIndex": 0
+    },
+    { "question": "source code", "answer": "вихідний код", "orderIndex": 0 },
+    {
+      "question": "source program",
+      "answer": "вихідна програма",
+      "orderIndex": 0
+    },
+    {
+      "question": "South Asian Association for Regional Cooperation",
+      "answer": "Асоціація регіонального співробітництва Південної Азії",
+      "orderIndex": 0
+    },
+    {
+      "question": "specifications",
+      "answer": "технічні характеристики",
+      "orderIndex": 0
+    },
+    { "question": "Speechwriter", "answer": "автор промов", "orderIndex": 0 },
+    {
+      "question": "speeding",
+      "answer": "перевищення швидкості",
+      "orderIndex": 0
+    },
+    { "question": "spider", "answer": "павук", "orderIndex": 0 },
+    {
+      "question": "splash page",
+      "answer": "вступна сторінка",
+      "orderIndex": 0
+    },
+    { "question": "sports car", "answer": "спортивна машина", "orderIndex": 0 },
+    {
+      "question": "sports jacket",
+      "answer": "твідовий піджак",
+      "orderIndex": 0
+    },
+    {
+      "question": "sports jacket",
+      "answer": "спортивний піджак",
+      "orderIndex": 0
+    },
+    {
+      "question": "sport-utility vehicle",
+      "answer": "паркетник",
+      "orderIndex": 0
+    },
+    {
+      "question": "spot color",
+      "answer": "кольорова заливка",
+      "orderIndex": 0
+    },
+    { "question": "sprain", "answer": "звих", "orderIndex": 0 },
+    { "question": "spy", "answer": "шпигун", "orderIndex": 0 },
+    { "question": "SQL Developer", "answer": "SQL розробник", "orderIndex": 0 },
+    { "question": "SQL Developer", "answer": "SQL розробник", "orderIndex": 0 },
+    { "question": "SSR", "answer": "РСР", "orderIndex": 0 },
+    { "question": "stagnation", "answer": "стагнація", "orderIndex": 0 },
+    { "question": "stamina", "answer": "витривалість", "orderIndex": 0 },
+    {
+      "question": "stand trial",
+      "answer": "постати перед судом",
+      "orderIndex": 0
+    },
+    { "question": "start", "answer": "порушити карну справу", "orderIndex": 0 },
+    { "question": "statement", "answer": "відомість", "orderIndex": 0 },
+    {
+      "question": "statement to mitigate",
+      "answer": "клопотання пом'яшкити вирок",
+      "orderIndex": 0
+    },
+    {
+      "question": "static content",
+      "answer": "незмінний вміст",
+      "orderIndex": 0
+    },
+    { "question": "station wagon", "answer": "універсал", "orderIndex": 0 },
+    { "question": "statute law", "answer": "статутне право", "orderIndex": 0 },
+    {
+      "question": "statute of limitations",
+      "answer": "закон про позовну давність",
+      "orderIndex": 0
+    },
+    {
+      "question": "statutory law",
+      "answer": "статутне право",
+      "orderIndex": 0
+    },
+    {
+      "question": "stay of proceedings",
+      "answer": "призупинення справи",
+      "orderIndex": 0
+    },
+    {
+      "question": "sticking point",
+      "answer": "критичний момент",
+      "orderIndex": 0
+    },
+    {
+      "question": "stimulate the economy",
+      "answer": "стимулювати економіку",
+      "orderIndex": 0
+    },
+    { "question": "stockings", "answer": "панчохи", "orderIndex": 0 },
+    { "question": "stomach", "answer": "шлунок", "orderIndex": 0 },
+    { "question": "stop word", "answer": "стоп-слово", "orderIndex": 0 },
+    {
+      "question": "Store Manager",
+      "answer": "керівник магазину",
+      "orderIndex": 0
+    },
+    { "question": "strap", "answer": "бретелька", "orderIndex": 0 },
+    { "question": "strapless", "answer": "без бретельок", "orderIndex": 0 },
+    { "question": "street car", "answer": "трамвай", "orderIndex": 0 },
+    { "question": "stroke", "answer": "інсульт", "orderIndex": 0 },
+    { "question": "subhead", "answer": "підзаголовок", "orderIndex": 0 },
+    {
+      "question": "subject matter jurisdiction",
+      "answer": "предметна юрисдикція",
+      "orderIndex": 0
+    },
+    { "question": "submarine", "answer": "підводний човен", "orderIndex": 0 },
+    { "question": "subnet", "answer": "підмережа", "orderIndex": 0 },
+    { "question": "subscription", "answer": "підписка", "orderIndex": 0 },
+    { "question": "substantiate", "answer": "обґрунтовувати", "orderIndex": 0 },
+    { "question": "subway", "answer": "метро", "orderIndex": 0 },
+    { "question": "suffer", "answer": "страждати", "orderIndex": 0 },
+    { "question": "suffocate", "answer": "задихатися", "orderIndex": 0 },
+    {
+      "question": "sum amounts to",
+      "answer": "сума позову сягає",
+      "orderIndex": 0
+    },
+    {
+      "question": "sum up the evidence",
+      "answer": "узагальнити докази",
+      "orderIndex": 0
+    },
+    {
+      "question": "sum up the evidence",
+      "answer": "підсумувати докази",
+      "orderIndex": 0
+    },
+    {
+      "question": "summary judgement",
+      "answer": "розгляд справи за спрощеною процедурою",
+      "orderIndex": 0
+    },
+    { "question": "sunstroke", "answer": "сонячний удар", "orderIndex": 0 },
+    { "question": "Superintendent", "answer": "наглядач", "orderIndex": 0 },
+    {
+      "question": "Supervisor",
+      "answer": "відповідальний керівник",
+      "orderIndex": 0
+    },
+    {
+      "question": "supply and demand",
+      "answer": "пропозиція і попит",
+      "orderIndex": 0
+    },
+    {
+      "question": "supply-side measures",
+      "answer": "заходи стимулювання пропозиції",
+      "orderIndex": 0
+    },
+    {
+      "question": "supply-side problem",
+      "answer": "проблема з боку пропозиції",
+      "orderIndex": 0
+    },
+    {
+      "question": "suppress evidence",
+      "answer": "відкидати докази",
+      "orderIndex": 0
+    },
+    { "question": "suretyship", "answer": "порука", "orderIndex": 0 },
+    { "question": "surf boat", "answer": "рятівна шлюпка", "orderIndex": 0 },
+    { "question": "surgeon", "answer": "хірург", "orderIndex": 0 },
+    { "question": "surgery", "answer": "операція", "orderIndex": 0 },
+    {
+      "question": "suspended sentence",
+      "answer": "умовний вирок",
+      "orderIndex": 0
+    },
+    {
+      "question": "suspenders",
+      "answer": "ремінці для панчох",
+      "orderIndex": 0
+    },
+    {
+      "question": "sustain objection",
+      "answer": "прийняти протест",
+      "orderIndex": 0
+    },
+    { "question": "SUV", "answer": "паркетник", "orderIndex": 0 },
+    { "question": "swab", "answer": "гігієнічна паличка", "orderIndex": 0 },
+    {
+      "question": "swap space",
+      "answer": "простір для підкачування сторінок",
+      "orderIndex": 0
+    },
+    {
+      "question": "swear in",
+      "answer": "привести до присяги",
+      "orderIndex": 0
+    },
+    { "question": "sweatpants", "answer": "спортивні штани", "orderIndex": 0 },
+    { "question": "sweatshirt", "answer": "спортивний светр", "orderIndex": 0 },
+    {
+      "question": "symbolic link",
+      "answer": "символьне посилання",
+      "orderIndex": 0
+    },
+    { "question": "syncope", "answer": "зомління", "orderIndex": 0 },
+    { "question": "synthetic", "answer": "синтетика", "orderIndex": 0 },
+    { "question": "syringe", "answer": "шприц", "orderIndex": 0 },
+    {
+      "question": "system hacker",
+      "answer": "системний хакер",
+      "orderIndex": 0
+    },
+    {
+      "question": "tag file",
+      "answer": "конфігураційний файл",
+      "orderIndex": 0
+    },
+    {
+      "question": "Tag Image File Format",
+      "answer": "формат TIFF",
+      "orderIndex": 0
+    },
+    { "question": "take after", "answer": "нагадувати", "orderIndex": 0 },
+    { "question": "take air", "answer": "набути розголосу", "orderIndex": 0 },
+    { "question": "take care of", "answer": "відповідати за", "orderIndex": 0 },
+    { "question": "take down", "answer": "записати", "orderIndex": 0 },
+    {
+      "question": "take into custody",
+      "answer": "заарештувати",
+      "orderIndex": 0
+    },
+    {
+      "question": "take into custody",
+      "answer": "помістити під варту",
+      "orderIndex": 0
+    },
+    { "question": "take off", "answer": "зняти", "orderIndex": 0 },
+    {
+      "question": "take out of the system",
+      "answer": "вилучити",
+      "orderIndex": 0
+    },
+    {
+      "question": "take trouble",
+      "answer": "брати проблему на себе",
+      "orderIndex": 0
+    },
+    {
+      "question": "take up for consideration",
+      "answer": "прийняти до розгляду",
+      "orderIndex": 0
+    },
+    {
+      "question": "take up for examination",
+      "answer": "прийняти до розгляду",
+      "orderIndex": 0
+    },
+    { "question": "talk back to", "answer": "огризатися", "orderIndex": 0 },
+    { "question": "talk over", "answer": "обговорити", "orderIndex": 0 },
+    {
+      "question": "Taper",
+      "answer": "спеціаліст з підготовки стін до покриття",
+      "orderIndex": 0
+    },
+    { "question": "task", "answer": "задача", "orderIndex": 0 },
+    { "question": "tax cuts", "answer": "зниження податків", "orderIndex": 0 },
+    { "question": "tax deal", "answer": "податкова угода", "orderIndex": 0 },
+    { "question": "tax dispute", "answer": "податковий спір", "orderIndex": 0 },
+    {
+      "question": "tax fraud",
+      "answer": "податкове шахрайство",
+      "orderIndex": 0
+    },
+    {
+      "question": "tax liability",
+      "answer": "податкове зобов'язання",
+      "orderIndex": 0
+    },
+    {
+      "question": "tax planning",
+      "answer": "податкове планування",
+      "orderIndex": 0
+    },
+    { "question": "taxpayer", "answer": "платник податків", "orderIndex": 0 },
+    { "question": "Team Leader", "answer": "тімлід", "orderIndex": 0 },
+    {
+      "question": "tear up trade deal",
+      "answer": "розірвати торгову угоду",
+      "orderIndex": 0
+    },
+    {
+      "question": "Technical Specialist",
+      "answer": "техспеціаліст",
+      "orderIndex": 0
+    },
+    {
+      "question": "Technical Specialist",
+      "answer": "техспеціаліст",
+      "orderIndex": 0
+    },
+    { "question": "Telemarketer", "answer": "телемаркетолог", "orderIndex": 0 },
+    { "question": "template", "answer": "шаблон", "orderIndex": 0 },
+    { "question": "temple", "answer": "скроня", "orderIndex": 0 },
+    {
+      "question": "term of limitation",
+      "answer": "термін позовної давності",
+      "orderIndex": 0
+    },
+    {
+      "question": "terry nappy",
+      "answer": "торочкувата пелюшка",
+      "orderIndex": 0
+    },
+    { "question": "texture", "answer": "текстура", "orderIndex": 0 },
+    {
+      "question": "The National Health Service",
+      "answer": "Національна служба охорони здоров'я Великобританії",
+      "orderIndex": 0
+    },
+    { "question": "therein", "answer": "у цьому процесі", "orderIndex": 0 },
+    { "question": "therein", "answer": "в ході цього", "orderIndex": 0 },
+    { "question": "therein", "answer": "у цьому відношенні", "orderIndex": 0 },
+    { "question": "thereon", "answer": "по цьому питанню", "orderIndex": 0 },
+    { "question": "thereon", "answer": "після цього", "orderIndex": 0 },
+    { "question": "thereon", "answer": "на цьому", "orderIndex": 0 },
+    { "question": "thereto", "answer": "йому", "orderIndex": 0 },
+    { "question": "thereto", "answer": "доданий до нього", "orderIndex": 0 },
+    { "question": "thermometer", "answer": "термометр", "orderIndex": 0 },
+    { "question": "thigh", "answer": "стегно", "orderIndex": 0 },
+    { "question": "think back on", "answer": "згадувати", "orderIndex": 0 },
+    { "question": "throw away", "answer": "викинути", "orderIndex": 0 },
+    { "question": "thumb", "answer": "великий палець", "orderIndex": 0 },
+    { "question": "TI", "answer": "Трансперенсі Інтернешнл ", "orderIndex": 0 },
+    {
+      "question": "tibia",
+      "answer": "великогомілкова кістка",
+      "orderIndex": 0
+    },
+    { "question": "tie", "answer": "краватка", "orderIndex": 0 },
+    { "question": "TIFF", "answer": "формат TIFF", "orderIndex": 0 },
+    { "question": "tights", "answer": "колготи", "orderIndex": 0 },
+    { "question": "title", "answer": "розділ", "orderIndex": 0 },
+    { "question": "to wit", "answer": "а саме", "orderIndex": 0 },
+    { "question": "to wit", "answer": "тобто", "orderIndex": 0 },
+    { "question": "toddler", "answer": "дитина до 5 років", "orderIndex": 0 },
+    {
+      "question": "toddler",
+      "answer": "дитина дошкільного віку",
+      "orderIndex": 0
+    },
+    { "question": "toe", "answer": "великий палець", "orderIndex": 0 },
+    { "question": "toggle", "answer": "дерев'яний ґудзик", "orderIndex": 0 },
+    { "question": "toggle", "answer": "ґудзик-цурочка", "orderIndex": 0 },
+    { "question": "tool", "answer": "інструмент", "orderIndex": 0 },
+    { "question": "tooth decay", "answer": "карієс", "orderIndex": 0 },
+    { "question": "ToR", "answer": "ППО", "orderIndex": 0 },
+    {
+      "question": "tort",
+      "answer": "цивільне правопорушення",
+      "orderIndex": 0
+    },
+    {
+      "question": "towering person",
+      "answer": "видатна особа",
+      "orderIndex": 0
+    },
+    {
+      "question": "towering person",
+      "answer": "неоднозначна особа",
+      "orderIndex": 0
+    },
+    { "question": "TPP", "answer": "ТЕС", "orderIndex": 0 },
+    {
+      "question": "TPP",
+      "answer": "Транстихоокеанське партнерство",
+      "orderIndex": 0
+    },
+    {
+      "question": "tracking",
+      "answer": "сполучення контурів",
+      "orderIndex": 0
+    },
+    { "question": "tracksuit", "answer": "спортивний костюм", "orderIndex": 0 },
+    { "question": "tractor", "answer": "трактор", "orderIndex": 0 },
+    { "question": "trademark", "answer": "торгова марка", "orderIndex": 0 },
+    { "question": "trademark", "answer": "торговельна марка", "orderIndex": 0 },
+    { "question": "trademark", "answer": "товарний знак", "orderIndex": 0 },
+    {
+      "question": "trademark",
+      "answer": "офіційно реєструвати товарний знак",
+      "orderIndex": 0
+    },
+    { "question": "traffic code", "answer": "ПДР", "orderIndex": 0 },
+    {
+      "question": "traffic offence",
+      "answer": "порушення ПДР",
+      "orderIndex": 0
+    },
+    {
+      "question": "trafficking",
+      "answer": "незаконна торгівля",
+      "orderIndex": 0
+    },
+    { "question": "train", "answer": "шлейф", "orderIndex": 0 },
+    { "question": "train", "answer": "потяг", "orderIndex": 0 },
+    { "question": "trainers", "answer": "кросівки", "orderIndex": 0 },
+    { "question": "traitor", "answer": "зрадник", "orderIndex": 0 },
+    { "question": "transaction", "answer": "операція", "orderIndex": 0 },
+    { "question": "transfer", "answer": "передавати", "orderIndex": 0 },
+    {
+      "question": "transfer tax",
+      "answer": "податок на переказ",
+      "orderIndex": 0
+    },
+    {
+      "question": "transferable",
+      "answer": "що підлягає переведенню",
+      "orderIndex": 0
+    },
+    {
+      "question": "transgress",
+      "answer": "порушувати чинне законодавство",
+      "orderIndex": 0
+    },
+    {
+      "question": "Translator",
+      "answer": "письмовий перекладач",
+      "orderIndex": 0
+    },
+    { "question": "transmit", "answer": "пересилати", "orderIndex": 0 },
+    {
+      "question": "Trans-Pacific Partnership",
+      "answer": "Транстихоокеанське партнерство",
+      "orderIndex": 0
+    },
+    {
+      "question": "Transparency International",
+      "answer": "Трансперенсі Інтернешнл ",
+      "orderIndex": 0
+    },
+    {
+      "question": "trapezius",
+      "answer": "трапецієподібний м'яз",
+      "orderIndex": 0
+    },
+    { "question": "trawler", "answer": "траулер", "orderIndex": 0 },
+    { "question": "treason", "answer": "зрада", "orderIndex": 0 },
+    { "question": "treatment", "answer": "лікування", "orderIndex": 0 },
+    { "question": "tremor", "answer": "тремор", "orderIndex": 0 },
+    {
+      "question": "trending topic",
+      "answer": "актуальна тема",
+      "orderIndex": 0
+    },
+    {
+      "question": "trespassing",
+      "answer": "незаконне проникнення на територію",
+      "orderIndex": 0
+    },
+    {
+      "question": "trial court",
+      "answer": "суд першої інстанції",
+      "orderIndex": 0
+    },
+    { "question": "triceps", "answer": "тріцепс", "orderIndex": 0 },
+    { "question": "tricycle", "answer": "трицикл", "orderIndex": 0 },
+    { "question": "truck", "answer": "вантажівка", "orderIndex": 0 },
+    { "question": "trunk", "answer": "багажник", "orderIndex": 0 },
+    { "question": "try on", "answer": "приміряти", "orderIndex": 0 },
+    { "question": "try out", "answer": "спробувати", "orderIndex": 0 },
+    {
+      "question": "try the case",
+      "answer": "проводити слухання справи",
+      "orderIndex": 0
+    },
+    { "question": "t-shirt", "answer": "футболка", "orderIndex": 0 },
+    { "question": "turn down", "answer": "знизити гучність", "orderIndex": 0 },
+    { "question": "turn down", "answer": "відмовити", "orderIndex": 0 },
+    { "question": "turn off", "answer": "вимкнути", "orderIndex": 0 },
+    { "question": "turn off", "answer": "викликати відразу", "orderIndex": 0 },
+    { "question": "turn on", "answer": "увімкнути", "orderIndex": 0 },
+    { "question": "turn up", "answer": "підвищити гучність", "orderIndex": 0 },
+    {
+      "question": "turnaround",
+      "answer": "переорієнтація діяльності",
+      "orderIndex": 0
+    },
+    { "question": "type color", "answer": "тип кольору", "orderIndex": 0 },
+    {
+      "question": "UI Developer",
+      "answer": "розробник інтерфейсу користувачів",
+      "orderIndex": 0
+    },
+    {
+      "question": "UI Developer",
+      "answer": "розробник інтерфейсу користувачів",
+      "orderIndex": 0
+    },
+    { "question": "ulna", "answer": "ліктьова кістка", "orderIndex": 0 },
+    { "question": "UN", "answer": "ООН", "orderIndex": 0 },
+    { "question": "UN Women", "answer": "ООН-Жінки", "orderIndex": 0 },
+    {
+      "question": "unanimous verdict",
+      "answer": "голоси порівну",
+      "orderIndex": 0
+    },
+    { "question": "unbeknown to", "answer": "без відома", "orderIndex": 0 },
+    { "question": "UNCCD", "answer": "КБО", "orderIndex": 0 },
+    { "question": "UNCED", "answer": "ООН КПДР", "orderIndex": 0 },
+    { "question": "UNCTAD", "answer": "ЮНКТАД", "orderIndex": 0 },
+    { "question": "undertake", "answer": "взяти на себе", "orderIndex": 0 },
+    {
+      "question": "underwired bra",
+      "answer": "бюстгальтер з кісточками",
+      "orderIndex": 0
+    },
+    {
+      "question": "unemployment tax",
+      "answer": "податок у фонд допомоги безробітним",
+      "orderIndex": 0
+    },
+    { "question": "UNEP", "answer": "ООН ПОД", "orderIndex": 0 },
+    { "question": "UNESCO", "answer": "ЮНЕСКО", "orderIndex": 0 },
+    {
+      "question": "unexpectedly",
+      "answer": "попри очікування",
+      "orderIndex": 0
+    },
+    { "question": "UNFCCC", "answer": "РКЗК", "orderIndex": 0 },
+    {
+      "question": "UNFPA",
+      "answer": "Фонд ООН у галузі народонаселення",
+      "orderIndex": 0
+    },
+    { "question": "UNHCR", "answer": "УВКБ", "orderIndex": 0 },
+    { "question": "UNICEF", "answer": "ЮНІСЕФ", "orderIndex": 0 },
+    { "question": "unicycle", "answer": "моноцикл", "orderIndex": 0 },
+    { "question": "UNIDO", "answer": "ЮНІДО", "orderIndex": 0 },
+    {
+      "question": "United Nations",
+      "answer": "Організація Об'єднаних Націй",
+      "orderIndex": 0
+    },
+    {
+      "question": "United Nations Children’s’ Fund",
+      "answer": "Дитячий фонд ООН",
+      "orderIndex": 0
+    },
+    {
+      "question": "United Nations Conference on Trade and Development",
+      "answer": "Конференція ООН з торгівлі та розвитку",
+      "orderIndex": 0
+    },
+    {
+      "question": "United Nations Educational Scientific and Cultural Organization",
+      "answer": "Організація Об'єднаних Націй з питань освіти, науки і культури",
+      "orderIndex": 0
+    },
+    {
+      "question": "United Nations Industrial Development Organization",
+      "answer": "Організація Об'єднаних Націй з промислового розвитку",
+      "orderIndex": 0
+    },
+    {
+      "question": "United Nations Population Fund",
+      "answer": "Фонд ООН у галузі народонаселення",
+      "orderIndex": 0
+    },
+    {
+      "question": "Universal Postal Union",
+      "answer": "Всесвітній поштовий союз",
+      "orderIndex": 0
+    },
+    {
+      "question": "unlawful entry",
+      "answer": "незаконне проникнення у житло",
+      "orderIndex": 0
+    },
+    { "question": "unleash", "answer": "вивільнити", "orderIndex": 0 },
+    {
+      "question": "unlimited jurisdiction",
+      "answer": "необмежена юрисдикція",
+      "orderIndex": 0
+    },
+    {
+      "question": "unregistered agent of a foreign principal",
+      "answer": "незареєстрований агент іноземної держави",
+      "orderIndex": 0
+    },
+    {
+      "question": "unregistered agent of a foreign principal",
+      "answer": "незареєстрований принципал-громадянин іноземної держави",
+      "orderIndex": 0
+    },
+    {
+      "question": "upheld decision",
+      "answer": "підтримати рішення",
+      "orderIndex": 0
+    },
+    { "question": "UPU", "answer": "ВПС", "orderIndex": 0 },
+    { "question": "urea", "answer": "сечовина", "orderIndex": 0 },
+    {
+      "question": "US secretary of state",
+      "answer": "Державний секретар США",
+      "orderIndex": 0
+    },
+    {
+      "question": "USB",
+      "answer": "універсальна послідовна шина",
+      "orderIndex": 0
+    },
+    { "question": "use up", "answer": "використати", "orderIndex": 0 },
+    {
+      "question": "user interface",
+      "answer": "інтерфейс користувача",
+      "orderIndex": 0
+    },
+    {
+      "question": "user-generated content",
+      "answer": "контент користувача",
+      "orderIndex": 0
+    },
+    { "question": "usher", "answer": "пристав", "orderIndex": 0 },
+    { "question": "USREOU", "answer": "ЄДРПОУ", "orderIndex": 0 },
+    {
+      "question": "usual rate of corporation tax",
+      "answer": "звичайна ставка корпоративного податку",
+      "orderIndex": 0
+    },
+    { "question": "UW", "answer": "ООН-Жінки", "orderIndex": 0 },
+    {
+      "question": "UX Designer",
+      "answer": "дизайнер, що працює над покращенням досвіду користувачів",
+      "orderIndex": 0
+    },
+    {
+      "question": "UX Designer",
+      "answer": "дизайнер, що працює над покращенням досвіду користувачів",
+      "orderIndex": 0
+    },
+    { "question": "vaccine", "answer": "вакцина", "orderIndex": 0 },
+    {
+      "question": "validate",
+      "answer": "перевіряти вірність даних",
+      "orderIndex": 0
+    },
+    {
+      "question": "value-added tax",
+      "answer": "податок на додану вартість",
+      "orderIndex": 0
+    },
+    { "question": "van", "answer": "фургон", "orderIndex": 0 },
+    { "question": "vandal", "answer": "вандал", "orderIndex": 0 },
+    { "question": "vandalism", "answer": "вандалізм", "orderIndex": 0 },
+    { "question": "VAT", "answer": "ПДВ", "orderIndex": 0 },
+    {
+      "question": "vector image",
+      "answer": "векторне зображення",
+      "orderIndex": 0
+    },
+    {
+      "question": "Vehicle Cleaner",
+      "answer": "чистильник транспортних засобів",
+      "orderIndex": 0
+    },
+    { "question": "veil", "answer": "фата", "orderIndex": 0 },
+    { "question": "veil", "answer": "намітка венчальна", "orderIndex": 0 },
+    { "question": "vendor", "answer": "постачальник", "orderIndex": 0 },
+    { "question": "vest", "answer": "майка", "orderIndex": 0 },
+    { "question": "viable", "answer": "дієвий", "orderIndex": 0 },
+    { "question": "viable", "answer": "прийнятний", "orderIndex": 0 },
+    {
+      "question": "Vice President of Marketing",
+      "answer": "віце-президент з маркетингу",
+      "orderIndex": 0
+    },
+    { "question": "violate", "answer": "порушити", "orderIndex": 0 },
+    {
+      "question": "violate",
+      "answer": "порушувати чинне законодавство",
+      "orderIndex": 0
+    },
+    {
+      "question": "visual aids",
+      "answer": "наочні матеріали",
+      "orderIndex": 0
+    },
+    {
+      "question": "visual aids",
+      "answer": "візуальні матеріали",
+      "orderIndex": 0
+    },
+    { "question": "v-neck", "answer": "виріз трикутником", "orderIndex": 0 },
+    {
+      "question": "voir dire",
+      "answer": "процедура відбору присяжних",
+      "orderIndex": 0
+    },
+    {
+      "question": "voluntary compliance",
+      "answer": "добровільне слідування",
+      "orderIndex": 0
+    },
+    {
+      "question": "voluntary compliance",
+      "answer": "добровільне підпорядкування",
+      "orderIndex": 0
+    },
+    {
+      "question": "voluntary slaughter",
+      "answer": "умисне вбивство",
+      "orderIndex": 0
+    },
+    { "question": "WA", "answer": "Світова легка атлетика", "orderIndex": 0 },
+    { "question": "waist", "answer": "талія", "orderIndex": 0 },
+    { "question": "waistband", "answer": "пояс", "orderIndex": 0 },
+    { "question": "waistcoat", "answer": "жакет", "orderIndex": 0 },
+    { "question": "wait on", "answer": "обслуговувати", "orderIndex": 0 },
+    {
+      "question": "waive a right",
+      "answer": "відмовитись від права",
+      "orderIndex": 0
+    },
+    { "question": "wake up", "answer": "прокинутись", "orderIndex": 0 },
+    { "question": "walk out on", "answer": "покинути", "orderIndex": 0 },
+    {
+      "question": "warrantee",
+      "answer": "особа, що отримує гарантію",
+      "orderIndex": 0
+    },
+    { "question": "warranty", "answer": "гарантійний лист", "orderIndex": 0 },
+    { "question": "WB", "answer": "Світовий банк", "orderIndex": 0 },
+    { "question": "Web Designer", "answer": "веб-дизайнер", "orderIndex": 0 },
+    { "question": "Web Designer", "answer": "веб-дизайнер", "orderIndex": 0 },
+    { "question": "Web Developer", "answer": "веб-розробник", "orderIndex": 0 },
+    { "question": "Web Developer", "answer": "веб-розробник", "orderIndex": 0 },
+    { "question": "WEF", "answer": "ВЕФ", "orderIndex": 0 },
+    { "question": "Welder", "answer": "зварювальник", "orderIndex": 0 },
+    { "question": "Well Driller", "answer": "свердляр", "orderIndex": 0 },
+    {
+      "question": "wellington boots",
+      "answer": "гумові чоботи",
+      "orderIndex": 0
+    },
+    { "question": "WHO", "answer": "ВООЗ", "orderIndex": 0 },
+    { "question": "windcheater", "answer": "вітрівка", "orderIndex": 0 },
+    { "question": "WIPO", "answer": "ВОІВ", "orderIndex": 0 },
+    { "question": "withdraw", "answer": "вилучати", "orderIndex": 0 },
+    { "question": "withdraw", "answer": "зняти з посади", "orderIndex": 0 },
+    { "question": "withdrawal", "answer": "вилучення", "orderIndex": 0 },
+    { "question": "WMO", "answer": "ВМО", "orderIndex": 0 },
+    {
+      "question": "word trademark",
+      "answer": "словесна торговельна марка",
+      "orderIndex": 0
+    },
+    {
+      "question": "World Athletics",
+      "answer": "Світова легка атлетика",
+      "orderIndex": 0
+    },
+    { "question": "World Bank", "answer": "Світовий банк", "orderIndex": 0 },
+    {
+      "question": "World Economic Forum",
+      "answer": "Всесвітній економічний форум",
+      "orderIndex": 0
+    },
+    {
+      "question": "World Health Organization",
+      "answer": "Всесвітня організація охорони здоров'я",
+      "orderIndex": 0
+    },
+    {
+      "question": "World Intellectual Property Organization",
+      "answer": "Всесвітня організація інтелектуальної власності",
+      "orderIndex": 0
+    },
+    {
+      "question": "World Meteorological Organization",
+      "answer": "Всесвітня метеорологічна організація",
+      "orderIndex": 0
+    },
+    {
+      "question": "World Trade Organization",
+      "answer": "Світова організація торгівлі",
+      "orderIndex": 0
+    },
+    {
+      "question": "Worldwide Fund for Nature",
+      "answer": "Всесвітній фонд природи",
+      "orderIndex": 0
+    },
+    { "question": "wound", "answer": "рана", "orderIndex": 0 },
+    { "question": "wrinkle", "answer": "зморшка", "orderIndex": 0 },
+    { "question": "wrist", "answer": "зап'ясток", "orderIndex": 0 },
+    { "question": "writ", "answer": "судовий наказ", "orderIndex": 0 },
+    {
+      "question": "wtihholding of removal",
+      "answer": "призупинення депортації",
+      "orderIndex": 0
+    },
+    { "question": "WTO", "answer": "СОТ", "orderIndex": 0 },
+    { "question": "WWF", "answer": "Всесвітній фонд природи", "orderIndex": 0 },
+    { "question": "X-ray", "answer": "рентґeн", "orderIndex": 0 },
+    { "question": "yacht", "answer": "яхта", "orderIndex": 0 },
+    {
+      "question": "yearbooks",
+      "answer": "збірка судових рішень",
+      "orderIndex": 0
+    },
+    {
+      "question": "Yoga Instructor",
+      "answer": "інструктор з йоги",
+      "orderIndex": 0
+    },
+    { "question": "Zoologist", "answer": "зоолог", "orderIndex": 0 },
+    {
+      "question": "Network File System",
+      "answer": "мережева файлова система",
+      "orderIndex": 0
+    }
+  ],
+  "multipleChoice": false,
+  "reverse": false,
+  "answerQuizLanguage": "ru",
+  "questionQuizLanguage": "en"
+}
